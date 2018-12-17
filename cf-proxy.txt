@@ -1,0 +1,173 @@
+#!MANAGED-CONFIG https://bit.ly/CFirewall interval=86400 strict=true
+
+# --------------------------------
+# Title: CFirewall's Proxy Profile
+# --------------------------------
+
+[General]
+skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, localhost, *.local
+dns-server = 1.1.1.1, 1.0.0.1
+loglevel = warning
+
+[Replica]
+hide-apple-request = true
+hide-crashlytics-request = true
+hide-udp = true
+
+[Rule]
+FINAL,DIRECT
+
+[Host]
+*2hanwriten.com = 0.0.0.0
+*a2gw.com = 0.0.0.0
+*ad4game.com = 0.0.0.0
+*addthis.com = 0.0.0.0
+*adincube.com = 0.0.0.0
+*adinfuse.com = 0.0.0.0
+*admob.com = 0.0.0.0
+*adnetpartner.com = 0.0.0.0
+*adnxs.com = 0.0.0.0
+*adroll.com = 0.0.0.0
+*adsafeprotected.com = 0.0.0.0
+*adservme.com = 0.0.0.0
+*adsymptotic.com = 0.0.0.0
+*adtrue.com = 0.0.0.0
+*advertising.com = 0.0.0.0
+*ampiri.com = 0.0.0.0
+*appads.com = 0.0.0.0
+*applift.com = 0.0.0.0
+*applovin.com = 0.0.0.0
+*appsflyer.com = 0.0.0.0
+*bcloudhost.com = 0.0.0.0
+*bebi.com = 0.0.0.0
+*bidgear.com = 0.0.0.0
+*bidvertiser.com = 0.0.0.0
+*bluekai.com = 0.0.0.0
+*bugsnag.com = 0.0.0.0
+*carbonads.com = 0.0.0.0
+*celtra.com = 0.0.0.0
+*clksite.com = 0.0.0.0
+*cobalten.com = 0.0.0.0
+*contineljs.com = 0.0.0.0
+*cpmstar.com = 0.0.0.0
+*crashlytics.com = 0.0.0.0
+*criteo.com = 0.0.0.0
+*crownpeak.com = 0.0.0.0
+*crrepo.com = 0.0.0.0
+*da-ads.com = 0.0.0.0
+*dealspure.com = 0.0.0.0
+*deltago.com = 0.0.0.0
+*dfnb-ads.com = 0.0.0.0
+*evidon.com = 0.0.0.0
+*exdynsrv.com = 0.0.0.0
+*floodprincipal.com = 0.0.0.0
+*flurry.com = 0.0.0.0
+*genieessp.com = 0.0.0.0
+*geniusdexchange.com = 0.0.0.0
+*gigaonclick.com = 0.0.0.0
+*google-analytics.com = 0.0.0.0
+*googlesyndication.com = 0.0.0.0
+*greystripe.com = 0.0.0.0
+*hadarone.com = 0.0.0.0
+*hotjar.com = 0.0.0.0
+*infolinks.com = 0.0.0.0
+*inmobi.com = 0.0.0.0
+*iperadventure.com = 0.0.0.0
+*juicyads.com = 0.0.0.0
+*jumptap.com = 0.0.0.0
+*justanswer.com = 0.0.0.0
+*jwpltx.com = 0.0.0.0
+*jwplayer.com = 0.0.0.0
+*mgid.com = 0.0.0.0
+*moatads.com = 0.0.0.0
+*mopub.com = 0.0.0.0
+*nexage.com = 0.0.0.0
+*nopickytime.com = 0.0.0.0
+*onclickmega.com = 0.0.0.0
+*onesignal.com = 0.0.0.0
+*opus-static.com = 0.0.0.0
+*outbrain.com = 0.0.0.0
+*pocvip.com = 0.0.0.0
+*popmyads.com = 0.0.0.0
+*quantcount.com = 0.0.0.0
+*quantserve.com = 0.0.0.0
+*rayjump.com = 0.0.0.0
+*reklamstore.com = 0.0.0.0
+*s1-adfly.com = 0.0.0.0
+*s2block.com = 0.0.0.0
+*sbbanner.com = 0.0.0.0
+*scorecardresearch.com = 0.0.0.0
+*sharethis.com = 0.0.0.0
+*smartadserver.com = 0.0.0.0
+*steepto.com = 0.0.0.0
+*supersonicads.com = 0.0.0.0
+*taboola.com = 0.0.0.0
+*teaserok.com = 0.0.0.0
+*tribalfusion.com = 0.0.0.0
+*ufpcdn.com = 0.0.0.0
+*userreport.com = 0.0.0.0
+*velocecdn.com = 0.0.0.0
+*velti.com = 0.0.0.0
+*virtuagirlhd.com = 0.0.0.0
+*wufoo.com = 0.0.0.0
+*zam.com = 0.0.0.0
+*zcoup.com = 0.0.0.0
+*zenmxapps.com = 0.0.0.0
+
+*2mdn.net = 0.0.0.0
+*adform.net = 0.0.0.0
+*adsplay.net = 0.0.0.0
+*bidswitch.net = 0.0.0.0
+*cachefly.net = 0.0.0.0
+*cliphub.net = 0.0.0.0
+*content-ad.net = 0.0.0.0
+*criteo.net = 0.0.0.0
+*doubleclick.net = 0.0.0.0
+*filetarget.net = 0.0.0.0
+*jsdelivr.net = 0.0.0.0
+*lavanetwork.net = 0.0.0.0
+*mnet-ad.net = 0.0.0.0
+*polyad.net = 0.0.0.0
+*popads.net = 0.0.0.0
+*smaato.net = 0.0.0.0
+
+*admicro.vn = 0.0.0.0
+*adnet.vn = 0.0.0.0
+*adnetwork.vn = 0.0.0.0
+*adnexus.vn = 0.0.0.0
+*adsplus.vn = 0.0.0.0
+*adtima.vn = 0.0.0.0
+*adtimaserver.vn = 0.0.0.0
+*ants.vn = 0.0.0.0
+*beblue.vn = 0.0.0.0
+*cleverads.vn = 0.0.0.0
+*eclick.vn = 0.0.0.0
+*novanet.vn = 0.0.0.0
+*uniad.vn = 0.0.0.0
+*vietad.vn = 0.0.0.0
+*vietnamnetad.vn = 0.0.0.0
+*yomedia.vn = 0.0.0.0
+
+*91p20.space = 0.0.0.0
+*adflex.asia = 0.0.0.0
+*adsrvr.org = 0.0.0.0
+*adtech.de = 0.0.0.0
+*amung.us = 0.0.0.0
+*bepolite.eu = 0.0.0.0
+*blueseed.tv = 0.0.0.0
+*brand.ad = 0.0.0.0
+*branch.io = 0.0.0.0
+*cliphub.io = 0.0.0.0
+*genieesspv.jp = 0.0.0.0
+*impact-ad.jp = 0.0.0.0
+*lucklayed.info = 0.0.0.0
+*mycdn.co = 0.0.0.0
+*padition.online = 0.0.0.0
+*pomerous.info = 0.0.0.0
+*trafficfactory.biz = 0.0.0.0
+
+ad.org.vn = 0.0.0.0
+ads.shorte.st = 0.0.0.0
+a1.consoletarget.com = 0.0.0.0
+s1.gamecopyworld.click = 0.0.0.0
+servicelayer.king.com = 0.0.0.0
