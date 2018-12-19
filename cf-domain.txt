@@ -96,7 +96,6 @@
 0.0.0.0 velti.com
 0.0.0.0 virtuagirlhd.com
 0.0.0.0 wufoo.com
-0.0.0.0 zam.com
 0.0.0.0 zcoup.com
 0.0.0.0 zenmxapps.com
 
