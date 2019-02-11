@@ -42,6 +42,7 @@ blogtruyen.com##.qc-css
 cadviet.com###float_panel
 
 chotot.com##.hidden-sm
+chotot.com###afscontainer1
 
 comicvn.net##.fancybox-overlay
 comicvn.net##.image-plus
@@ -60,6 +61,8 @@ freaktab.com##.ad_header_inner
 freaktab.com##.axd-inner
 freaktab.com##.custom-html-widget
 freaktab.com##.guestwarn
+
+fshare.vn##.bannerinfooter
 
 game4v.com##.footer-site
 game4v.com###head
@@ -96,9 +99,9 @@ softexia.com##.hide-mobile
 softexia.com##.offer
 
 tinhte.vn##.adWidget
-tinhte.vn##.jsx-1822784563
-tinhte.vn##.jsx-2348481196
-tinhte.vn##.jsx-2927193174
+tinhte.vn##.jsx-188923975
+tinhte.vn##.jsx-1049843485
+tinhte.vn##.jsx-3663401058
 tinhte.vn##.TinhteMods_KmThreads
 tinhte.vn##.TinhteMods_sharePage
 

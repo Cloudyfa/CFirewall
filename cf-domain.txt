@@ -19,6 +19,7 @@
 0.0.0.0 adsymptotic.com
 0.0.0.0 adtrue.com
 0.0.0.0 advertising.com
+0.0.0.0 amazon-adsystem.com
 0.0.0.0 ampiri.com
 0.0.0.0 appads.com
 0.0.0.0 applift.com
@@ -91,6 +92,7 @@
 0.0.0.0 teaserok.com
 0.0.0.0 tribalfusion.com
 0.0.0.0 ufpcdn.com
+0.0.0.0 unrulymedia.com
 0.0.0.0 userreport.com
 0.0.0.0 velocecdn.com
 0.0.0.0 velti.com
