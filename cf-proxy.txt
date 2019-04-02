@@ -125,6 +125,7 @@ FINAL,DIRECT
 *criteo.net = 0.0.0.0
 *doubleclick.net = 0.0.0.0
 *filetarget.net = 0.0.0.0
+*hadarone.net = 0.0.0.0
 *jsdelivr.net = 0.0.0.0
 *lavanetwork.net = 0.0.0.0
 *mnet-ad.net = 0.0.0.0
@@ -172,3 +173,4 @@ ads.shorte.st = 0.0.0.0
 a1.consoletarget.com = 0.0.0.0
 s1.gamecopyworld.click = 0.0.0.0
 servicelayer.king.com = 0.0.0.0
+traffic-media.co.uk = 0.0.0.0

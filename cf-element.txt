@@ -55,9 +55,9 @@ deviantart.com##.partial-ad
 
 facebook.com###pagelet_growth_expanding_cta
 
-fimfast.com##.player-sidead
-fimfast.com###banner-zone-7
-fimfast.com###popup-background
+fimfast.com##.banner-preload
+fimfast.com##.banner-336x280
+fimfast.com##.banner-640x100
 
 foody.vn##.foody-banner
 
