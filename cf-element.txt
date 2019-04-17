@@ -92,6 +92,8 @@ nhaccuatui.com###right_support_online
 
 nhattao.com##.adWidget
 
+phimmoi.net###main_preroll_ads
+
 psnprofiles.com##.side-ad
 psnprofiles.com##.wide-ad
 
