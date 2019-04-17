@@ -4,6 +4,8 @@
 # Title: CFirewall's Element List
 # -------------------------------
 
+##.adsbygoogle
+
 24h.com.vn##[id^="ADS_"]
 24h.com.vn###subRight
 
@@ -28,10 +30,8 @@ apkpure.com###ad-aegon-side
 
 appvn.com##.ads
 
-animevsub.tv##.Ads
-animevsub.tv###invideo_wrapper
-
 baomoi.com##.fyi--group
+baomoi.com##.is-ads
 baomoi.com###BaoMoi_Top
 
 biphim.net##.qc_biphim
@@ -55,6 +55,10 @@ deviantart.com##.partial-ad
 
 facebook.com###pagelet_growth_expanding_cta
 
+fimfast.com##.banner
+fimfast.com##.banner-preload
+fimfast.com##.ff-banner
+
 foody.vn##.foody-banner
 
 freaktab.com##.ad_header_inner
@@ -69,6 +73,7 @@ game4v.com###head
 
 gamecopyworld.com###news
 
+google.com###botstuff
 google.com###tads
 google.com###tadsb
 
@@ -84,7 +89,6 @@ hdviet.com##.box-adv-730x90
 
 mangarock.com###bottom-banner-ads
 
-motgame.vn##.adsbygoogle
 motgame.vn##.text-center
 
 nhaccuatui.com##.nqc-zone
@@ -97,8 +101,20 @@ phimmoi.net###main_preroll_ads
 psnprofiles.com##.side-ad
 psnprofiles.com##.wide-ad
 
+reddit.com###comment-atf
+reddit.com###sidebar-atf-0
+reddit.com###sidebar-btf-1
+
+shopee.vn##.full-home-banners
+
 softexia.com##.hide-mobile
 softexia.com##.offer
+
+station-drivers.com##.tm-top-b
+station-drivers.com##.tm-bottom-a
+station-drivers.com##table
+
+tiki.vn###top-bar-container
 
 tinhte.vn##.adWidget
 tinhte.vn##.jsx-188923975
@@ -116,12 +132,13 @@ tructiepbongda.com###header-top
 truyentranhtuan.com##.doc-truyen-ads-d1
 truyentranhtuan.com##.doc-truyen-ads-d2
 truyentranhtuan.com##div:nth-of-type(9)
+truyentranhtuan.com###fixed_ad_bottom
+truyentranhtuan.com###fixed_ad_left
 
 truyenqq.com###ads_left
 truyenqq.com###image_popup_wrapper
 truyenqq.com###image_popup_background
 
-updato.com##.adsbygoogle
 updato.com##.add-download
 updato.com##.code-block
 
@@ -140,6 +157,8 @@ webtretho.com##.top-ads
 wowinterface.com###header-ad
 
 xda-developers.com##.purchad
+xda-developers.com##.sponsor-dyn-banner
+xda-developers.com##.stackcommerce-widget
 xda-developers.com##.widget-2
 
 youtube.com###companion
