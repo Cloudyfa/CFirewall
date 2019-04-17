@@ -57,6 +57,7 @@ facebook.com###pagelet_growth_expanding_cta
 
 fimfast.com##.banner
 fimfast.com##.banner-preload
+fimfast.com##.ff-banner
 
 foody.vn##.foody-banner
 
@@ -72,6 +73,7 @@ game4v.com###head
 
 gamecopyworld.com###news
 
+google.com###botstuff
 google.com###tads
 google.com###tadsb
 
