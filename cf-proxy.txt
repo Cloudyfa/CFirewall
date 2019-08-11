@@ -34,6 +34,7 @@ FINAL,DIRECT
 *adtng.com = 0.0.0.0
 *adtrue.com = 0.0.0.0
 *advertising.com = 0.0.0.0
+*advertnative.com = 0.0.0.0
 *amazon-adsystem.com = 0.0.0.0
 *ampiri.com = 0.0.0.0
 *appads.com = 0.0.0.0

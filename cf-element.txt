@@ -58,6 +58,7 @@ facebook.com###pagelet_growth_expanding_cta
 fimfast.com##.banner
 fimfast.com##.banner-preload
 fimfast.com##.ff-banner
+fimfast.com##.news
 
 foody.vn##.foody-banner
 
@@ -120,6 +121,7 @@ tinhte.vn##.adWidget
 tinhte.vn##.jsx-188923975
 tinhte.vn##.jsx-1049843485
 tinhte.vn##.jsx-3663401058
+tinhte.vn##.TinhteMods_AffiliateWidget
 tinhte.vn##.TinhteMods_KmThreads
 tinhte.vn##.TinhteMods_sharePage
 
@@ -167,5 +169,7 @@ zing.vn##.banner
 zing.vn###app
 zing.vn###highlight
 zing.vn###site-header
+
+zingmp3.vn###zmp3_Top
 
 zippyshare.com##.center_ad
