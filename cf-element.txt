@@ -120,6 +120,8 @@ tiki.vn###top-bar-container
 tinhte.vn##.adWidget
 tinhte.vn##.jsx-188923975
 tinhte.vn##.jsx-1049843485
+tinhte.vn##.jsx-3489507886
+tinhte.vn##.jsx-3505861434
 tinhte.vn##.jsx-3663401058
 tinhte.vn##.TinhteMods_AffiliateWidget
 tinhte.vn##.TinhteMods_KmThreads
