@@ -6,19 +6,14 @@
 
 ##.adsbygoogle
 
+||beeng.net/public/assets/banner/*
+||fimfast.com/banner/*
+
 24h.com.vn##[id^="ADS_"]
 24h.com.vn###subRight
 
 5giay.vn##.widget-ad-300
 5giay.vn##[class$="-banner"]
-
-8bongda.com##.float-ck
-8bongda.com##center
-8bongda.com###ads1
-8bongda.com###post-info
-
-aphim.co##.linhnguyen-modal
-aphim.co##.linhnguyen-modal-bg
 
 apkmirror.com##.amazon-ad
 apkmirror.com##.gooWidget
@@ -28,26 +23,17 @@ apkpure.com##.ad-left
 apkpure.com##.ad-right
 apkpure.com###ad-aegon-side
 
-appvn.com##.ads
-
 baomoi.com##.fyi--group
 baomoi.com##.is-ads
 baomoi.com###BaoMoi_Top
 
-biphim.net##.qc_biphim
-
-blogtruyen.com##.BT-Ads
-blogtruyen.com##.qc-css
+blogtruyen.vn##.qc-css
+blogtruyen.vn##.qc-inner
 
 cadviet.com###float_panel
 
 chotot.com##.hidden-sm
 chotot.com###afscontainer1
-
-comicvn.net##.fancybox-overlay
-comicvn.net##.image-plus
-
-dangcaphd.com##.block-banner
 
 deviantart.com##.ad-container
 deviantart.com##.da-custom-ad-box
@@ -81,22 +67,14 @@ google.com###tadsb
 hamtruyen.com###box-player
 hamtruyen.com###wrap_qc_banner_top
 
-hayhaytv.com##.ad-top-comment
-
-hdsieunhanh.com##.float-ck
-hdsieunhanh.com##.top-center
-
 hdviet.com##.box-adv-730x90
-
-mangarock.com###bottom-banner-ads
-
-motgame.vn##.text-center
 
 nhaccuatui.com##.nqc-zone
 nhaccuatui.com###right_support_online
 
 nhattao.com##.adWidget
 
+phimmoi.net##.ad-topcomment-pc
 phimmoi.net###main_preroll_ads
 
 psnprofiles.com##.side-ad
@@ -118,24 +96,17 @@ station-drivers.com##table
 tiki.vn###top-bar-container
 
 tinhte.vn##.adWidget
-tinhte.vn##.jsx-188923975
-tinhte.vn##.jsx-1049843485
-tinhte.vn##.jsx-3489507886
+tinhte.vn##.jsx-873539369
+tinhte.vn##.jsx-975842086
+tinhte.vn##.jsx-1937217828
+tinhte.vn##.jsx-2705816421
 tinhte.vn##.jsx-3505861434
-tinhte.vn##.jsx-3663401058
 tinhte.vn##.TinhteMods_AffiliateWidget
 tinhte.vn##.TinhteMods_KmThreads
 tinhte.vn##.TinhteMods_sharePage
 
-torviet.com##.sxf-bannerflash
-torviet.com###donationbar_no
-
-tructiepbongda.com###fullad
-tructiepbongda.com###header-top
-
 truyentranhtuan.com##.doc-truyen-ads-d1
 truyentranhtuan.com##.doc-truyen-ads-d2
-truyentranhtuan.com##div:nth-of-type(9)
 truyentranhtuan.com###fixed_ad_bottom
 truyentranhtuan.com###fixed_ad_left
 
@@ -166,6 +137,7 @@ xda-developers.com##.stackcommerce-widget
 xda-developers.com##.widget-2
 
 youtube.com###companion
+youtube.com###masthead-ad
 
 zing.vn##.banner
 zing.vn###app
