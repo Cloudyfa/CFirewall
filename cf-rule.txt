@@ -112,6 +112,7 @@
 ||adsplay.net^
 ||bidswitch.net^
 ||cachefly.net^
+||cheap-ads.net^
 ||cliphub.net^
 ||content-ad.net^
 ||criteo.net^

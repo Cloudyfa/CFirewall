@@ -5,9 +5,11 @@
 # -------------------------------
 
 ##.adsbygoogle
+##.banner
 
-||beeng.net/public/assets/banner/*
-||fimfast.com/banner/*
+||*/adoverlay/*
+||*/banner/*
+||*/sponsor/*
 
 24h.com.vn##[id^="ADS_"]
 24h.com.vn###subRight
@@ -41,7 +43,8 @@ deviantart.com##.partial-ad
 
 facebook.com###pagelet_growth_expanding_cta
 
-fimfast.com##.banner
+filecr.com##.google-ad-area-list
+
 fimfast.com##.banner-preload
 fimfast.com##.ff-banner
 fimfast.com##.news
@@ -101,6 +104,7 @@ tinhte.vn##.jsx-975842086
 tinhte.vn##.jsx-1937217828
 tinhte.vn##.jsx-2705816421
 tinhte.vn##.jsx-3505861434
+tinhte.vn##.jsx-3224547983
 tinhte.vn##.TinhteMods_AffiliateWidget
 tinhte.vn##.TinhteMods_KmThreads
 tinhte.vn##.TinhteMods_sharePage
@@ -135,11 +139,11 @@ xda-developers.com##.purchad
 xda-developers.com##.sponsor-dyn-banner
 xda-developers.com##.stackcommerce-widget
 xda-developers.com##.widget-2
+xda-developers.com###adhesive_container
 
 youtube.com###companion
 youtube.com###masthead-ad
 
-zing.vn##.banner
 zing.vn###app
 zing.vn###highlight
 zing.vn###site-header

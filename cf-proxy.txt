@@ -126,6 +126,7 @@ FINAL,DIRECT
 *adsplay.net = 0.0.0.0
 *bidswitch.net = 0.0.0.0
 *cachefly.net = 0.0.0.0
+*cheap-ads.net = 0.0.0.0
 *cliphub.net = 0.0.0.0
 *content-ad.net = 0.0.0.0
 *criteo.net = 0.0.0.0
