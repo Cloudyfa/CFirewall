@@ -69,6 +69,8 @@ hamtruyen.com###wrap_qc_banner_top
 
 hdviet.com##.box-adv-730x90
 
+motgame.vn##.mga-ad
+
 nhaccuatui.com##.nqc-zone
 nhaccuatui.com###right_support_online
 
