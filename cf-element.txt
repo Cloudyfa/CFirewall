@@ -8,7 +8,6 @@
 ##.banner
 
 ||*/adoverlay/*
-||*/banner/*
 ||*/sponsor/*
 
 24h.com.vn##[id^="ADS_"]
@@ -44,10 +43,6 @@ deviantart.com##.partial-ad
 facebook.com###pagelet_growth_expanding_cta
 
 filecr.com##.google-ad-area-list
-
-fimfast.com##.banner-preload
-fimfast.com##.ff-banner
-fimfast.com##.news
 
 foody.vn##.foody-banner
 
@@ -99,15 +94,9 @@ station-drivers.com##table
 tiki.vn###top-bar-container
 
 tinhte.vn##.adWidget
-tinhte.vn##.jsx-873539369
-tinhte.vn##.jsx-975842086
-tinhte.vn##.jsx-1937217828
-tinhte.vn##.jsx-2705816421
-tinhte.vn##.jsx-3505861434
-tinhte.vn##.jsx-3224547983
-tinhte.vn##.TinhteMods_AffiliateWidget
-tinhte.vn##.TinhteMods_KmThreads
-tinhte.vn##.TinhteMods_sharePage
+tinhte.vn##.desktopOnly
+tinhte.vn##.jsx-405813994
+tinhte.vn##.jsx-102776357
 
 truyentranhtuan.com##.doc-truyen-ads-d1
 truyentranhtuan.com##.doc-truyen-ads-d2

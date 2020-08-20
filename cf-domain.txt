@@ -109,6 +109,7 @@
 
 0.0.0.0 2mdn.net
 0.0.0.0 adform.net
+0.0.0.0 adhigh.net
 0.0.0.0 adsplay.net
 0.0.0.0 bidswitch.net
 0.0.0.0 cachefly.net

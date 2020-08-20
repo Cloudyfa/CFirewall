@@ -109,6 +109,7 @@
 
 ||2mdn.net^
 ||adform.net^
+||adhigh.net^
 ||adsplay.net^
 ||bidswitch.net^
 ||cachefly.net^
