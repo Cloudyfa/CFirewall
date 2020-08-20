@@ -42,7 +42,9 @@ deviantart.com##.partial-ad
 
 facebook.com###pagelet_growth_expanding_cta
 
+filecr.com##.filec-widget
 filecr.com##.google-ad-area-list
+filecr.com##.special-area-list
 
 foody.vn##.foody-banner
 
@@ -124,6 +126,7 @@ webtretho.com##.top-ads
 
 wowinterface.com###header-ad
 
+xda-developers.com##.ahover
 xda-developers.com##.purchad
 xda-developers.com##.sponsor-dyn-banner
 xda-developers.com##.stackcommerce-widget
