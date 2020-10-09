@@ -5,8 +5,6 @@
 # -------------------------------
 
 ##.adsbygoogle
-##.banner
-
 ||*/adoverlay/*
 ||*/sponsor/*
 
@@ -76,8 +74,8 @@ nhaccuatui.com###right_support_online
 
 nhattao.com##.adWidget
 
-phimmoi.net##.ad-topcomment-pc
-phimmoi.net###main_preroll_ads
+phimmoizz.net##.ad-topcomment-pc
+phimmoizz.net###main_preroll_ads
 
 psnprofiles.com##.side-ad
 psnprofiles.com##.wide-ad
@@ -99,8 +97,10 @@ tiki.vn###top-bar-container
 
 tinhte.vn##.adWidget
 tinhte.vn##.desktopOnly
-tinhte.vn##.jsx-405813994
-tinhte.vn##.jsx-102776357
+tinhte.vn##.middle-comment-promotion
+tinhte.vn##.pro-container
+tinhte.vn##.jsx-1393464935
+tinhte.vn##.jsx-2996626834
 
 truyentranhtuan.com##.doc-truyen-ads-d1
 truyentranhtuan.com##.doc-truyen-ads-d2

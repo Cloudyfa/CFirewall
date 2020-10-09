@@ -61,6 +61,7 @@ FINAL,DIRECT
 *dealspure.com = 0.0.0.0
 *deltago.com = 0.0.0.0
 *dfnb-ads.com = 0.0.0.0
+*ebetoni.com = 0.0.0.0
 *evidon.com = 0.0.0.0
 *exdynsrv.com = 0.0.0.0
 *exosrv.com = 0.0.0.0
@@ -74,6 +75,7 @@ FINAL,DIRECT
 *greystripe.com = 0.0.0.0
 *hadarone.com = 0.0.0.0
 *hotjar.com = 0.0.0.0
+*hsrvt.com = 0.0.0.0
 *infolinks.com = 0.0.0.0
 *inmobi.com = 0.0.0.0
 *iperadventure.com = 0.0.0.0
@@ -111,6 +113,7 @@ FINAL,DIRECT
 *taboola.com = 0.0.0.0
 *teaserok.com = 0.0.0.0
 *tribalfusion.com = 0.0.0.0
+*tsyndicate.com = 0.0.0.0
 *ufpcdn.com = 0.0.0.0
 *unrulymedia.com = 0.0.0.0
 *userreport.com = 0.0.0.0
@@ -170,7 +173,9 @@ FINAL,DIRECT
 *branch.io = 0.0.0.0
 *cliphub.io = 0.0.0.0
 *genieesspv.jp = 0.0.0.0
+*g--o.info = 0.0.0.0
 *impact-ad.jp = 0.0.0.0
+*jads.co = 0.0.0.0
 *lucklayed.info = 0.0.0.0
 *mycdn.co = 0.0.0.0
 *padition.online = 0.0.0.0

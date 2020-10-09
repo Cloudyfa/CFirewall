@@ -47,6 +47,7 @@
 ||dealspure.com^
 ||deltago.com^
 ||dfnb-ads.com^
+||ebetoni.com^
 ||evidon.com^
 ||exdynsrv.com^
 ||exosrv.com^
@@ -60,6 +61,7 @@
 ||greystripe.com^
 ||hadarone.com^
 ||hotjar.com^
+||hsrvt.com^
 ||infolinks.com^
 ||inmobi.com^
 ||iperadventure.com^
@@ -97,6 +99,7 @@
 ||taboola.com^
 ||teaserok.com^
 ||tribalfusion.com^
+||tsyndicate.com^
 ||ufpcdn.com^
 ||unrulymedia.com^
 ||userreport.com^
@@ -156,7 +159,9 @@
 ||branch.io^
 ||cliphub.io^
 ||genieesspv.jp^
+||g--o.info^
 ||impact-ad.jp^
+||jads.co^
 ||lucklayed.info^
 ||mycdn.co^
 ||padition.online^
