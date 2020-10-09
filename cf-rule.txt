@@ -114,6 +114,7 @@
 ||adform.net^
 ||adhigh.net^
 ||adsplay.net^
+||appier.net^
 ||bidswitch.net^
 ||cachefly.net^
 ||cheap-ads.net^
