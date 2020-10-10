@@ -34,6 +34,7 @@
 ||bluekai.com^
 ||bugsnag.com^
 ||carbonads.com^
+||casalemedia.com^
 ||celtra.com^
 ||clksite.com^
 ||cobalten.com^
@@ -53,6 +54,7 @@
 ||exosrv.com^
 ||floodprincipal.com^
 ||flurry.com^
+||gammaplatform.com^
 ||genieessp.com^
 ||geniusdexchange.com^
 ||gigaonclick.com^
@@ -171,6 +173,7 @@
 
 ||ad.org.vn^
 ||ads.shorte.st^
+||adskeeper.co.uk^
 ||a1.consoletarget.com^
 ||s1.gamecopyworld.click^
 ||servicelayer.king.com^

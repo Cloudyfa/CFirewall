@@ -48,6 +48,7 @@ FINAL,DIRECT
 *bluekai.com = 0.0.0.0
 *bugsnag.com = 0.0.0.0
 *carbonads.com = 0.0.0.0
+*casalemedia.com = 0.0.0.0
 *celtra.com = 0.0.0.0
 *clksite.com = 0.0.0.0
 *cobalten.com = 0.0.0.0
@@ -67,6 +68,7 @@ FINAL,DIRECT
 *exosrv.com = 0.0.0.0
 *floodprincipal.com = 0.0.0.0
 *flurry.com = 0.0.0.0
+*gammaplatform.com = 0.0.0.0
 *genieessp.com = 0.0.0.0
 *geniusdexchange.com = 0.0.0.0
 *gigaonclick.com = 0.0.0.0
@@ -185,6 +187,7 @@ FINAL,DIRECT
 
 ad.org.vn = 0.0.0.0
 ads.shorte.st = 0.0.0.0
+adskeeper.co.uk = 0.0.0.0
 a1.consoletarget.com = 0.0.0.0
 s1.gamecopyworld.click = 0.0.0.0
 servicelayer.king.com = 0.0.0.0

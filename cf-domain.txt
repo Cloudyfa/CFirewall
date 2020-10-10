@@ -173,6 +173,7 @@
 
 0.0.0.0 ad.org.vn
 0.0.0.0 ads.shorte.st
+0.0.0.0 adskeeper.co.uk
 0.0.0.0 a1.consoletarget.com
 0.0.0.0 s1.gamecopyworld.click
 0.0.0.0 servicelayer.king.com
