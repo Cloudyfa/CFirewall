@@ -5,6 +5,7 @@
 # ----------------------------
 
 ||2hanwriten.com^
+||8giaitri.com^
 ||a2gw.com^
 ||ad4game.com^
 ||addthis.com^
@@ -13,6 +14,7 @@
 ||admob.com^
 ||adnetpartner.com^
 ||adnxs.com^
+||adrealclick.com^
 ||adroll.com^
 ||adsafeprotected.com^
 ||adservme.com^

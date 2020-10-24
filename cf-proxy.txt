@@ -19,6 +19,7 @@ FINAL,DIRECT
 
 [Host]
 *2hanwriten.com = 0.0.0.0
+*8giaitri.com = 0.0.0.0
 *a2gw.com = 0.0.0.0
 *ad4game.com = 0.0.0.0
 *addthis.com = 0.0.0.0
@@ -27,6 +28,7 @@ FINAL,DIRECT
 *admob.com = 0.0.0.0
 *adnetpartner.com = 0.0.0.0
 *adnxs.com = 0.0.0.0
+*adrealclick.com = 0.0.0.0
 *adroll.com = 0.0.0.0
 *adsafeprotected.com = 0.0.0.0
 *adservme.com = 0.0.0.0
