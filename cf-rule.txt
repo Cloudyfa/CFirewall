@@ -25,6 +25,7 @@
 ||advertnative.com^
 ||amazon-adsystem.com^
 ||ampiri.com^
+||app-measurement.com^
 ||appads.com^
 ||applift.com^
 ||applovin.com^
@@ -140,6 +141,7 @@
 ||adnet.vn^
 ||adnetwork.vn^
 ||adnexus.vn^
+||adpia.vn^
 ||adsplus.vn^
 ||adtima.vn^
 ||adtimaserver.vn^

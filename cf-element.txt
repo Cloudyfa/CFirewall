@@ -106,6 +106,7 @@ tinhte.vn##.jsx-2996626834
 
 truyentranhtuan.com##.doc-truyen-ads-d1
 truyentranhtuan.com##.doc-truyen-ads-d2
+truyentranhtuan.com###banner_preload
 truyentranhtuan.com###fixed_ad_bottom
 truyentranhtuan.com###fixed_ad_left
 

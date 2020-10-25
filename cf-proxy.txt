@@ -39,6 +39,7 @@ FINAL,DIRECT
 *advertnative.com = 0.0.0.0
 *amazon-adsystem.com = 0.0.0.0
 *ampiri.com = 0.0.0.0
+*app-measurement.com = 0.0.0.0
 *appads.com = 0.0.0.0
 *applift.com = 0.0.0.0
 *applovin.com = 0.0.0.0
@@ -154,6 +155,7 @@ FINAL,DIRECT
 *adnet.vn = 0.0.0.0
 *adnetwork.vn = 0.0.0.0
 *adnexus.vn = 0.0.0.0
+*adpia.vn = 0.0.0.0
 *adsplus.vn = 0.0.0.0
 *adtima.vn = 0.0.0.0
 *adtimaserver.vn = 0.0.0.0
