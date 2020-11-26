@@ -106,6 +106,7 @@ FINAL,DIRECT
 *quantcount.com = 0.0.0.0
 *quantserve.com = 0.0.0.0
 *rayjump.com = 0.0.0.0
+*registeridm.com = 0.0.0.0
 *reklamstore.com = 0.0.0.0
 *s1-adfly.com = 0.0.0.0
 *s2block.com = 0.0.0.0
@@ -143,7 +144,6 @@ FINAL,DIRECT
 *doubleclick.net = 0.0.0.0
 *filetarget.net = 0.0.0.0
 *hadarone.net = 0.0.0.0
-*jsdelivr.net = 0.0.0.0
 *lavanetwork.net = 0.0.0.0
 *mnet-ad.net = 0.0.0.0
 *polyad.net = 0.0.0.0
@@ -189,6 +189,7 @@ FINAL,DIRECT
 *pomerous.info = 0.0.0.0
 *trafficfactory.biz = 0.0.0.0
 
+ad.daum.net = 0.0.0.0
 ad.org.vn = 0.0.0.0
 ads.shorte.st = 0.0.0.0
 adskeeper.co.uk = 0.0.0.0

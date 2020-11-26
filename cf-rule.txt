@@ -92,6 +92,7 @@
 ||quantcount.com^
 ||quantserve.com^
 ||rayjump.com^
+||registeridm.com^
 ||reklamstore.com^
 ||s1-adfly.com^
 ||s2block.com^
@@ -129,7 +130,6 @@
 ||doubleclick.net^
 ||filetarget.net^
 ||hadarone.net^
-||jsdelivr.net^
 ||lavanetwork.net^
 ||mnet-ad.net^
 ||polyad.net^
@@ -175,6 +175,7 @@
 ||pomerous.info^
 ||trafficfactory.biz^
 
+||ad.daum.net^
 ||ad.org.vn^
 ||ads.shorte.st^
 ||adskeeper.co.uk^
