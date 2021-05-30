@@ -40,9 +40,12 @@ deviantart.com##.partial-ad
 
 facebook.com###pagelet_growth_expanding_cta
 
+filecr.com##.ads-wrapper
+filecr.com##.alert-wrap
 filecr.com##.filec-widget
 filecr.com##.google-ad-area-list
 filecr.com##.special-area-list
+filecr.com##.top-header-ad
 
 foody.vn##.foody-banner
 
@@ -65,8 +68,9 @@ google.com###tadsb
 hamtruyen.com###box-player
 hamtruyen.com###wrap_qc_banner_top
 
-hdviet.com##.box-adv-730x90
+imgur.com##.EmeraldBanner
 
+motgame.vn##.mg_bn
 motgame.vn##.mga-ad
 
 nhaccuatui.com##.nqc-zone
@@ -74,10 +78,13 @@ nhaccuatui.com###right_support_online
 
 nhattao.com##.adWidget
 
-phim1080.me##.ff-banner
+phim1080z.com##.ff-banner
 
-phimmoizz.net##.ad-topcomment-pc
-phimmoizz.net###main_preroll_ads
+phimmoii.net##.ad-300
+phimmoii.net##.ad-container
+phimmoii.net##.ad-topcomment-pc
+phimmoii.net##.fixed_bottom
+phimmoii.net###main_preroll_ads
 
 psnprofiles.com##.side-ad
 psnprofiles.com##.wide-ad
@@ -99,10 +106,13 @@ tiki.vn###top-bar-container
 
 tinhte.vn##.adWidget
 tinhte.vn##.desktopOnly
+tinhte.vn##.micro
 tinhte.vn##.middle-comment-promotion
 tinhte.vn##.pro-container
+tinhte.vn##.jsx-192314598
 tinhte.vn##.jsx-1393464935
 tinhte.vn##.jsx-2996626834
+tinhte.vn##.jsx-3569995709
 
 truyentranhtuan.com##.doc-truyen-ads-d1
 truyentranhtuan.com##.doc-truyen-ads-d2
@@ -137,6 +147,9 @@ xda-developers.com##.sponsor-dyn-banner
 xda-developers.com##.stackcommerce-widget
 xda-developers.com##.widget-2
 xda-developers.com###adhesive_container
+xda-developers.com###xdadevelopers_leaderboard_btf
+xda-developers.com###xdadevelopers_right_1
+xda-developers.com###xdadevelopers_right_2
 
 youtube.com###companion
 youtube.com###masthead-ad
