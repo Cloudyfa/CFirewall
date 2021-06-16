@@ -61,6 +61,9 @@ game4v.com###head
 
 gamecopyworld.com###news
 
+genk.vn##.ads
+genk.vn##.khw-ads-wrapper
+
 google.com###botstuff
 google.com###tads
 google.com###tadsb
@@ -89,6 +92,8 @@ phimmoii.net###main_preroll_ads
 psnprofiles.com##.side-ad
 psnprofiles.com##.wide-ad
 
+quantrimang.com##.adbox
+
 reddit.com###comment-atf
 reddit.com###sidebar-atf-0
 reddit.com###sidebar-btf-1
@@ -106,6 +111,7 @@ tiki.vn###top-bar-container
 
 tinhte.vn##.adWidget
 tinhte.vn##.desktopOnly
+tinhte.vn##.in-article-promo
 tinhte.vn##.micro
 tinhte.vn##.middle-comment-promotion
 tinhte.vn##.pro-container

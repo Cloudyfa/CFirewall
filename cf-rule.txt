@@ -62,7 +62,6 @@
 ||geniusdexchange.com^
 ||gigaonclick.com^
 ||google-analytics.com^
-||googlesyndication.com^
 ||greystripe.com^
 ||hadarone.com^
 ||hotjar.com^

@@ -62,7 +62,6 @@
 0.0.0.0 geniusdexchange.com
 0.0.0.0 gigaonclick.com
 0.0.0.0 google-analytics.com
-0.0.0.0 googlesyndication.com
 0.0.0.0 greystripe.com
 0.0.0.0 hadarone.com
 0.0.0.0 hotjar.com
