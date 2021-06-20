@@ -146,16 +146,18 @@ voz.vn##[id^="div-gpt-ad-"]
 webtretho.com##.top-ads
 
 wowinterface.com###header-ad
+wowinterface.com##.ac-widget-placeholder
 
-xda-developers.com##.ahover
-xda-developers.com##.purchad
+xda-developers.com##.ad_box
+xda-developers.com##.fs-dynamic
+xda-developers.com##.spon_banner
 xda-developers.com##.sponsor-dyn-banner
-xda-developers.com##.stackcommerce-widget
-xda-developers.com##.widget-2
-xda-developers.com###adhesive_container
-xda-developers.com###xdadevelopers_leaderboard_btf
+xda-developers.com##.block-row.block-body
 xda-developers.com###xdadevelopers_right_1
 xda-developers.com###xdadevelopers_right_2
+xda-developers.com###xdadevelopers_incontent
+xda-developers.com###xdadevelopers_incontent_2
+xda-developers.com###xdadevelopers_leaderboard_btf
 
 youtube.com###companion
 youtube.com###masthead-ad
