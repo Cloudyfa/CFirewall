@@ -34,6 +34,7 @@
 ||bebi.com^
 ||bidgear.com^
 ||bidvertiser.com^
+||blueadss.com^
 ||bluekai.com^
 ||bugsnag.com^
 ||carbonads.com^
@@ -66,6 +67,7 @@
 ||hadarone.com^
 ||hotjar.com^
 ||hsrvt.com^
+||imad24.com^
 ||infolinks.com^
 ||inmobi.com^
 ||iperadventure.com^
@@ -91,6 +93,7 @@
 ||quantcount.com^
 ||quantserve.com^
 ||rayjump.com^
+||realsrv.com^
 ||registeridm.com^
 ||reklamstore.com^
 ||s1-adfly.com^
@@ -110,6 +113,7 @@
 ||userreport.com^
 ||velocecdn.com^
 ||velti.com^
+||veryn1ce.com^
 ||virtuagirlhd.com^
 ||wufoo.com^
 ||zcoup.com^
@@ -158,12 +162,14 @@
 ||adflex.asia^
 ||adsrvr.org^
 ||adtech.de^
+||ampproject.org^
 ||amung.us^
 ||bepolite.eu^
 ||blueseed.tv^
 ||brand.ad^
 ||branch.io^
 ||cliphub.io^
+||dable.io^
 ||genieesspv.jp^
 ||g--o.info^
 ||impact-ad.jp^

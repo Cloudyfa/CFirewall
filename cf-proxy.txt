@@ -48,6 +48,7 @@ FINAL,DIRECT
 *bebi.com = 0.0.0.0
 *bidgear.com = 0.0.0.0
 *bidvertiser.com = 0.0.0.0
+*blueadss.com = 0.0.0.0
 *bluekai.com = 0.0.0.0
 *bugsnag.com = 0.0.0.0
 *carbonads.com = 0.0.0.0
@@ -80,6 +81,7 @@ FINAL,DIRECT
 *hadarone.com = 0.0.0.0
 *hotjar.com = 0.0.0.0
 *hsrvt.com = 0.0.0.0
+*imad24.com = 0.0.0.0
 *infolinks.com = 0.0.0.0
 *inmobi.com = 0.0.0.0
 *iperadventure.com = 0.0.0.0
@@ -105,6 +107,7 @@ FINAL,DIRECT
 *quantcount.com = 0.0.0.0
 *quantserve.com = 0.0.0.0
 *rayjump.com = 0.0.0.0
+*realsrv.com = 0.0.0.0
 *registeridm.com = 0.0.0.0
 *reklamstore.com = 0.0.0.0
 *s1-adfly.com = 0.0.0.0
@@ -124,6 +127,7 @@ FINAL,DIRECT
 *userreport.com = 0.0.0.0
 *velocecdn.com = 0.0.0.0
 *velti.com = 0.0.0.0
+*veryn1ce.com = 0.0.0.0
 *virtuagirlhd.com = 0.0.0.0
 *wufoo.com = 0.0.0.0
 *zcoup.com = 0.0.0.0
@@ -172,12 +176,14 @@ FINAL,DIRECT
 *adflex.asia = 0.0.0.0
 *adsrvr.org = 0.0.0.0
 *adtech.de = 0.0.0.0
+*ampproject.org = 0.0.0.0
 *amung.us = 0.0.0.0
 *bepolite.eu = 0.0.0.0
 *blueseed.tv = 0.0.0.0
 *brand.ad = 0.0.0.0
 *branch.io = 0.0.0.0
 *cliphub.io = 0.0.0.0
+*dable.io = 0.0.0.0
 *genieesspv.jp = 0.0.0.0
 *g--o.info = 0.0.0.0
 *impact-ad.jp = 0.0.0.0

@@ -73,6 +73,11 @@ hamtruyen.com###wrap_qc_banner_top
 
 imgur.com##.EmeraldBanner
 
+livebongda.net###quangcaopc
+
+maclife.vn##.a-single
+maclife.vn##.wpbcap-laptopvang
+
 motgame.vn##.mg_bn
 motgame.vn##.mga-ad
 
