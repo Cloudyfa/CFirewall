@@ -7,12 +7,17 @@
 ##.adsbygoogle
 ||*/adoverlay/*
 ||*/sponsor/*
+||blogtruyen.vn^$script
+||clicktabs.net^$popup
+||rarbg.to^$script
 
 24h.com.vn##[id^="ADS_"]
 24h.com.vn###subRight
 
 5giay.vn##.widget-ad-300
 5giay.vn##[class$="-banner"]
+
+9to5mac.com##.ad-container
 
 apkmirror.com##.amazon-ad
 apkmirror.com##.gooWidget
@@ -139,8 +144,10 @@ updato.com##.add-download
 updato.com##.code-block
 
 vnexpress.net##.banner_ads
+vnexpress.net##.banner-ads
 vnexpress.net##.box_100
 vnexpress.net##.box_shopvne
+vnexpress.net##.col-right-top
 vnexpress.net###box_shop_footer
 
 vov.vn##.has-qc

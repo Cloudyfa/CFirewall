@@ -19,6 +19,7 @@
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adservme.com
 0.0.0.0 adsymptotic.com
+0.0.0.0 adthrive.com
 0.0.0.0 adtng.com
 0.0.0.0 adtrue.com
 0.0.0.0 advertising.com
@@ -86,6 +87,7 @@
 0.0.0.0 nopickytime.com
 0.0.0.0 onclickmega.com
 0.0.0.0 onesignal.com
+0.0.0.0 onmarshtompor.com
 0.0.0.0 opus-static.com
 0.0.0.0 outbrain.com
 0.0.0.0 pocvip.com
@@ -115,6 +117,7 @@
 0.0.0.0 velti.com
 0.0.0.0 veryn1ce.com
 0.0.0.0 virtuagirlhd.com
+0.0.0.0 weaveradrenaline.com
 0.0.0.0 wufoo.com
 0.0.0.0 zcoup.com
 0.0.0.0 zenmxapps.com
@@ -138,6 +141,7 @@
 0.0.0.0 polyad.net
 0.0.0.0 popads.net
 0.0.0.0 smaato.net
+0.0.0.0 statsy.net
 0.0.0.0 trafficjunky.net
 
 0.0.0.0 admicro.vn
@@ -162,6 +166,7 @@
 0.0.0.0 adflex.asia
 0.0.0.0 adsrvr.org
 0.0.0.0 adtech.de
+0.0.0.0 aiservice.vn
 0.0.0.0 ampproject.org
 0.0.0.0 amung.us
 0.0.0.0 bepolite.eu
