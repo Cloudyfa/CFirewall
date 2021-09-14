@@ -167,7 +167,6 @@
 ||vietad.vn^
 ||vietnamnetad.vn^
 ||yomedia.vn^
-||zadn.vn^
 ||zapps.vn^
 
 ||91p20.space^
@@ -205,8 +204,9 @@
 ||firebaselogging.googleapis.com^
 ||log.api.zaloapp.com^
 ||log.baomoi.com^
-||log.sdk.zadn.vn^
 ||s1.gamecopyworld.click^
+||sdk.zadn.vn^
 ||servicelayer.king.com^
 ||traffic-media.co.uk^
 ||qc.coccoc.com^
+||zalo-ads.zadn.vn^

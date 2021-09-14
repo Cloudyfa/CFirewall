@@ -181,7 +181,6 @@ FINAL,DIRECT
 *vietad.vn = 0.0.0.0
 *vietnamnetad.vn = 0.0.0.0
 *yomedia.vn = 0.0.0.0
-*zadn.vn = 0.0.0.0
 *zapps.vn = 0.0.0.0
 
 *91p20.space = 0.0.0.0
@@ -219,8 +218,9 @@ firebaselogging-pa.googleapis.com = 0.0.0.0
 firebaselogging.googleapis.com = 0.0.0.0
 log.api.zaloapp.com = 0.0.0.0
 log.baomoi.com = 0.0.0.0
-log.sdk.zadn.vn = 0.0.0.0
 s1.gamecopyworld.click = 0.0.0.0
+sdk.zadn.vn = 0.0.0.0
 servicelayer.king.com = 0.0.0.0
 traffic-media.co.uk = 0.0.0.0
 qc.coccoc.com = 0.0.0.0
+zalo-ads.zadn.vn = 0.0.0.0
