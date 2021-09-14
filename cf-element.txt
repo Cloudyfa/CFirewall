@@ -1,15 +1,12 @@
-# Expires: 1 days (update frequency)
+! Expires: 1 days (update frequency)
 
-# -------------------------------
-# Title: CFirewall's Element List
-# -------------------------------
+! -------------------------------
+! Title: CFirewall's Element List
+! -------------------------------
 
 ##.adsbygoogle
 ||*/adoverlay/*
 ||*/sponsor/*
-||blogtruyen.vn^$script
-||clicktabs.net^$popup
-||rarbg.to^$script
 
 24h.com.vn##[id^="ADS_"]
 24h.com.vn###subRight
@@ -83,8 +80,11 @@ livebongda.net###quangcaopc
 maclife.vn##.a-single
 maclife.vn##.wpbcap-laptopvang
 
+motgame.vn##.game_random
 motgame.vn##.mg_bn
 motgame.vn##.mga-ad
+motgame.vn##.random_mg
+motgame.vn##.video_sidebar
 
 nhaccuatui.com##.nqc-zone
 nhaccuatui.com###right_support_online

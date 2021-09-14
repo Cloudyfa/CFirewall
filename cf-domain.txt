@@ -64,11 +64,15 @@
 0.0.0.0 geniusdexchange.com
 0.0.0.0 gigaonclick.com
 0.0.0.0 google-analytics.com
+0.0.0.0 googleadservices.com
 0.0.0.0 greystripe.com
 0.0.0.0 hadarone.com
 0.0.0.0 hotjar.com
+0.0.0.0 hs-banner.com
+0.0.0.0 hs-scripts.com
 0.0.0.0 hsrvt.com
 0.0.0.0 imad24.com
+0.0.0.0 in-page-push.com
 0.0.0.0 infolinks.com
 0.0.0.0 inmobi.com
 0.0.0.0 iperadventure.com
@@ -91,6 +95,7 @@
 0.0.0.0 opus-static.com
 0.0.0.0 outbrain.com
 0.0.0.0 pocvip.com
+0.0.0.0 poosoahe.com
 0.0.0.0 popmyads.com
 0.0.0.0 quantcount.com
 0.0.0.0 quantserve.com
@@ -157,10 +162,13 @@
 0.0.0.0 cleverads.vn
 0.0.0.0 eclick.vn
 0.0.0.0 novanet.vn
+0.0.0.0 qccoccocmedia.vn
 0.0.0.0 uniad.vn
 0.0.0.0 vietad.vn
 0.0.0.0 vietnamnetad.vn
 0.0.0.0 yomedia.vn
+0.0.0.0 zadn.vn
+0.0.0.0 zapps.vn
 
 0.0.0.0 91p20.space
 0.0.0.0 adflex.asia
@@ -185,11 +193,20 @@
 0.0.0.0 pomerous.info
 0.0.0.0 trafficfactory.biz
 
+0.0.0.0 a1.consoletarget.com
 0.0.0.0 ad.daum.net
 0.0.0.0 ad.org.vn
+0.0.0.0 ads.zalo.me
+0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.shorte.st
+0.0.0.0 adservice.google.com.vn
 0.0.0.0 adskeeper.co.uk
-0.0.0.0 a1.consoletarget.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 log.api.zaloapp.com
+0.0.0.0 log.baomoi.com
+0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 s1.gamecopyworld.click
 0.0.0.0 servicelayer.king.com
 0.0.0.0 traffic-media.co.uk
+0.0.0.0 qc.coccoc.com

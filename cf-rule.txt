@@ -1,8 +1,8 @@
-# Expires: 1 days (update frequency)
+! Expires: 1 days (update frequency)
 
-# ----------------------------
-# Title: CFirewall's Rule List
-# ----------------------------
+! ----------------------------
+! Title: CFirewall's Rule List
+! ----------------------------
 
 ||2hanwriten.com^
 ||8giaitri.com^
@@ -64,11 +64,15 @@
 ||geniusdexchange.com^
 ||gigaonclick.com^
 ||google-analytics.com^
+||googleadservices.com^
 ||greystripe.com^
 ||hadarone.com^
 ||hotjar.com^
+||hs-banner.com^
+||hs-scripts.com^
 ||hsrvt.com^
 ||imad24.com^
+||in-page-push.com^
 ||infolinks.com^
 ||inmobi.com^
 ||iperadventure.com^
@@ -91,6 +95,7 @@
 ||opus-static.com^
 ||outbrain.com^
 ||pocvip.com^
+||poosoahe.com^
 ||popmyads.com^
 ||quantcount.com^
 ||quantserve.com^
@@ -157,10 +162,13 @@
 ||cleverads.vn^
 ||eclick.vn^
 ||novanet.vn^
+||qccoccocmedia.vn^
 ||uniad.vn^
 ||vietad.vn^
 ||vietnamnetad.vn^
 ||yomedia.vn^
+||zadn.vn^
+||zapps.vn^
 
 ||91p20.space^
 ||adflex.asia^
@@ -185,11 +193,20 @@
 ||pomerous.info^
 ||trafficfactory.biz^
 
+||a1.consoletarget.com^
 ||ad.daum.net^
 ||ad.org.vn^
+||ads.zalo.me^
+||ads.platform.zalo.me^
 ||ads.shorte.st^
+||adservice.google.com.vn^
 ||adskeeper.co.uk^
-||a1.consoletarget.com^
+||firebaselogging-pa.googleapis.com^
+||firebaselogging.googleapis.com^
+||log.api.zaloapp.com^
+||log.baomoi.com^
+||log.sdk.zadn.vn^
 ||s1.gamecopyworld.click^
 ||servicelayer.king.com^
 ||traffic-media.co.uk^
+||qc.coccoc.com^
