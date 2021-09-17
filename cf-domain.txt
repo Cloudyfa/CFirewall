@@ -187,7 +187,6 @@
 0.0.0.0 adsrvr.org
 0.0.0.0 adtech.de
 0.0.0.0 aiservice.vn
-0.0.0.0 ampproject.org
 0.0.0.0 amung.us
 0.0.0.0 bepolite.eu
 0.0.0.0 blueseed.tv

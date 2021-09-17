@@ -187,7 +187,6 @@
 ||adsrvr.org^
 ||adtech.de^
 ||aiservice.vn^
-||ampproject.org^
 ||amung.us^
 ||bepolite.eu^
 ||blueseed.tv^
