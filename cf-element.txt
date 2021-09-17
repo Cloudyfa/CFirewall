@@ -73,6 +73,10 @@ google.com###tadsb
 hamtruyen.com###box-player
 hamtruyen.com###wrap_qc_banner_top
 
+hoatieu.vn##.adbox
+hoatieu.vn##.adsbg
+hoatieu.vn##.adszone
+
 imgur.com##.EmeraldBanner
 
 livebongda.net###quangcaopc
@@ -93,11 +97,11 @@ nhattao.com##.adWidget
 
 phim1080z.com##.ff-banner
 
-phimmoii.net##.ad-300
-phimmoii.net##.ad-container
-phimmoii.net##.ad-topcomment-pc
-phimmoii.net##.fixed_bottom
-phimmoii.net###main_preroll_ads
+phimmoiplus.net##.ad-300
+phimmoiplus.net##.ad-container
+phimmoiplus.net##.ad-topcomment-pc
+phimmoiplus.net##.fixed_bottom
+phimmoiplus.net###main_preroll_ads
 
 psnprofiles.com##.side-ad
 psnprofiles.com##.wide-ad
@@ -130,6 +134,7 @@ tinhte.vn##.jsx-1393464935
 tinhte.vn##.jsx-2996626834
 tinhte.vn##.jsx-3569995709
 
+truyentranhtuan.com##.adpia_banner
 truyentranhtuan.com##.doc-truyen-ads-d1
 truyentranhtuan.com##.doc-truyen-ads-d2
 truyentranhtuan.com###banner_preload

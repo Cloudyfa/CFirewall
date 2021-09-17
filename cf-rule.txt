@@ -96,6 +96,7 @@
 ||mopub.com^
 ||nexage.com^
 ||nitropay.com^
+||nomorepecans.com^
 ||nopickytime.com^
 ||onclickmega.com^
 ||onesignal.com^
@@ -234,6 +235,7 @@
 ||sdk.zadn.vn^
 ||self.events.data.microsoft.com^
 ||servicelayer.king.com^
+||tpc.googlesyndication.com^
 ||trackity.tiki.vn^
 ||traffic-media.co.uk^
 ||trk-pcweb.api.zaloapp.com^

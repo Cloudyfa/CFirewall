@@ -110,6 +110,7 @@ FINAL,DIRECT
 *mopub.com = 0.0.0.0
 *nexage.com = 0.0.0.0
 *nitropay.com = 0.0.0.0
+*nomorepecans.com = 0.0.0.0
 *nopickytime.com = 0.0.0.0
 *onclickmega.com = 0.0.0.0
 *onesignal.com = 0.0.0.0
@@ -248,6 +249,7 @@ s1.gamecopyworld.click = 0.0.0.0
 sdk.zadn.vn = 0.0.0.0
 self.events.data.microsoft.com = 0.0.0.0
 servicelayer.king.com = 0.0.0.0
+tpc.googlesyndication.com = 0.0.0.0
 trackity.tiki.vn = 0.0.0.0
 traffic-media.co.uk = 0.0.0.0
 trk-pcweb.api.zaloapp.com = 0.0.0.0
