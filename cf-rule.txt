@@ -69,7 +69,6 @@
 ||geniusdexchange.com^
 ||gigaonclick.com^
 ||google-analytics.com^
-||googleadservices.com^
 ||googletagservices.com^
 ||greystripe.com^
 ||gvt2.com^
