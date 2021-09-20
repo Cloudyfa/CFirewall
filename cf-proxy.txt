@@ -21,6 +21,7 @@ FINAL,DIRECT
 *2hanwriten.com = 0.0.0.0
 *8giaitri.com = 0.0.0.0
 *a2gw.com = 0.0.0.0
+*aaxads.com = 0.0.0.0
 *ad4game.com = 0.0.0.0
 *adcolony.com = 0.0.0.0
 *addthis.com = 0.0.0.0
@@ -33,6 +34,7 @@ FINAL,DIRECT
 *adroll.com = 0.0.0.0
 *adsafeprotected.com = 0.0.0.0
 *adservme.com = 0.0.0.0
+*adskeeper.com = 0.0.0.0
 *adsymptotic.com = 0.0.0.0
 *adthrive.com = 0.0.0.0
 *adtilt.com = 0.0.0.0
@@ -43,6 +45,7 @@ FINAL,DIRECT
 *amazon-adsystem.com = 0.0.0.0
 *ampiri.com = 0.0.0.0
 *amplitude.com = 0.0.0.0
+*aqua-adserver.com = 0.0.0.0
 *app-measurement.com = 0.0.0.0
 *appads.com = 0.0.0.0
 *applift.com = 0.0.0.0
@@ -119,6 +122,7 @@ FINAL,DIRECT
 *pocvip.com = 0.0.0.0
 *poosoahe.com = 0.0.0.0
 *popmyads.com = 0.0.0.0
+*q00gle.com = 0.0.0.0
 *quantcount.com = 0.0.0.0
 *quantserve.com = 0.0.0.0
 *rayjump.com = 0.0.0.0
@@ -148,6 +152,7 @@ FINAL,DIRECT
 *virtuagirlhd.com = 0.0.0.0
 *vungle.com = 0.0.0.0
 *weaveradrenaline.com = 0.0.0.0
+*whingewost.com = 0.0.0.0
 *wufoo.com = 0.0.0.0
 *zcoup.com = 0.0.0.0
 *zenmxapps.com = 0.0.0.0
@@ -169,6 +174,7 @@ FINAL,DIRECT
 *kidoz.net = 0.0.0.0
 *lavanetwork.net = 0.0.0.0
 *mnet-ad.net = 0.0.0.0
+*native-ad.net = 0.0.0.0
 *polyad.net = 0.0.0.0
 *popads.net = 0.0.0.0
 *smaato.net = 0.0.0.0
@@ -197,6 +203,7 @@ FINAL,DIRECT
 
 *91p20.space = 0.0.0.0
 *adflex.asia = 0.0.0.0
+*adsco.re = 0.0.0.0
 *adsrvr.org = 0.0.0.0
 *adtech.de = 0.0.0.0
 *aiservice.vn = 0.0.0.0

@@ -7,6 +7,7 @@
 ||2hanwriten.com^
 ||8giaitri.com^
 ||a2gw.com^
+||aaxads.com^
 ||ad4game.com^
 ||adcolony.com^
 ||addthis.com^
@@ -19,6 +20,7 @@
 ||adroll.com^
 ||adsafeprotected.com^
 ||adservme.com^
+||adskeeper.com^
 ||adsymptotic.com^
 ||adthrive.com^
 ||adtilt.com^
@@ -29,6 +31,7 @@
 ||amazon-adsystem.com^
 ||ampiri.com^
 ||amplitude.com^
+||aqua-adserver.com^
 ||app-measurement.com^
 ||appads.com^
 ||applift.com^
@@ -105,6 +108,7 @@
 ||pocvip.com^
 ||poosoahe.com^
 ||popmyads.com^
+||q00gle.com^
 ||quantcount.com^
 ||quantserve.com^
 ||rayjump.com^
@@ -134,6 +138,7 @@
 ||virtuagirlhd.com^
 ||vungle.com^
 ||weaveradrenaline.com^
+||whingewost.com^
 ||wufoo.com^
 ||zcoup.com^
 ||zenmxapps.com^
@@ -155,6 +160,7 @@
 ||kidoz.net^
 ||lavanetwork.net^
 ||mnet-ad.net^
+||native-ad.net^
 ||polyad.net^
 ||popads.net^
 ||smaato.net^
@@ -183,6 +189,7 @@
 
 ||91p20.space^
 ||adflex.asia^
+||adsco.re^
 ||adsrvr.org^
 ||adtech.de^
 ||aiservice.vn^
