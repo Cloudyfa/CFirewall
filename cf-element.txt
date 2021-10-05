@@ -77,12 +77,18 @@ hoatieu.vn##.adbox
 hoatieu.vn##.adsbg
 hoatieu.vn##.adszone
 
+hollymoviehd.cc##.content-kuss-ads
+
 imgur.com##.EmeraldBanner
 
 livebongda.net###quangcaopc
 
 maclife.vn##.a-single
 maclife.vn##.wpbcap-laptopvang
+
+macrumors.com##.sidebarblock
+macrumors.com##.sidebarblock2
+macrumors.com##.tertiary
 
 motgame.vn##.game_random
 motgame.vn##.mg_bn
@@ -132,6 +138,7 @@ tinhte.vn##.middle-comment-promotion
 tinhte.vn##.pro-container
 tinhte.vn##.jsx-192314598
 tinhte.vn##.jsx-1393464935
+tinhte.vn##.jsx-2626479041
 tinhte.vn##.jsx-2996626834
 tinhte.vn##.jsx-3569995709
 
