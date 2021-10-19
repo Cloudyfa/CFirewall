@@ -41,6 +41,8 @@
 ||bcloudhost.com^
 ||bebi.com^
 ||bidgear.com^
+||bidsxchange.com^
+||bidsxplayer.com^
 ||bidvertiser.com^
 ||blueadss.com^
 ||bluekai.com^
@@ -84,6 +86,7 @@
 ||in-page-push.com^
 ||infolinks.com^
 ||inmobi.com^
+||innity.com^
 ||iperadventure.com^
 ||jsrdn.com^
 ||juicyads.com^
@@ -157,6 +160,7 @@
 ||doubleclick.net^
 ||filetarget.net^
 ||hadarone.net^
+||innity.net^
 ||kidoz.net^
 ||lavanetwork.net^
 ||mnet-ad.net^
@@ -185,6 +189,7 @@
 ||uniad.vn^
 ||vietad.vn^
 ||vietnamnetad.vn^
+||vnay.vn^
 ||yomedia.vn^
 
 ||91p20.space^
