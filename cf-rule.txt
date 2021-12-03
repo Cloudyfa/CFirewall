@@ -13,6 +13,7 @@
 ||addthis.com^
 ||adincube.com^
 ||adinfuse.com^
+||admanmedia.com^
 ||admob.com^
 ||adnetpartner.com^
 ||adnxs.com^
@@ -53,6 +54,8 @@
 ||chartboost.com^
 ||clksite.com^
 ||cobalten.com^
+||cococx.com^
+||connatix.com^
 ||contineljs.com^
 ||cpmstar.com^
 ||crashlytics.com^

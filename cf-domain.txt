@@ -13,6 +13,7 @@
 0.0.0.0 addthis.com
 0.0.0.0 adincube.com
 0.0.0.0 adinfuse.com
+0.0.0.0 admanmedia.com
 0.0.0.0 admob.com
 0.0.0.0 adnetpartner.com
 0.0.0.0 adnxs.com
@@ -53,6 +54,8 @@
 0.0.0.0 chartboost.com
 0.0.0.0 clksite.com
 0.0.0.0 cobalten.com
+0.0.0.0 cococx.com
+0.0.0.0 connatix.com
 0.0.0.0 contineljs.com
 0.0.0.0 cpmstar.com
 0.0.0.0 crashlytics.com
