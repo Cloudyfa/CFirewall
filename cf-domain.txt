@@ -109,8 +109,10 @@
 0.0.0.0 onclickmega.com
 0.0.0.0 onesignal.com
 0.0.0.0 onmarshtompor.com
+0.0.0.0 opencoccoc.com
 0.0.0.0 opus-static.com
 0.0.0.0 outbrain.com
+0.0.0.0 pipezero.com
 0.0.0.0 pocvip.com
 0.0.0.0 poosoahe.com
 0.0.0.0 popmyads.com
@@ -134,6 +136,7 @@
 0.0.0.0 tapjoyads.com
 0.0.0.0 teaserok.com
 0.0.0.0 tribalfusion.com
+0.0.0.0 trunkpkg.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 ufpcdn.com
 0.0.0.0 unrulymedia.com
@@ -196,6 +199,7 @@
 0.0.0.0 yomedia.vn
 
 0.0.0.0 91p20.space
+0.0.0.0 adbro.me
 0.0.0.0 adflex.asia
 0.0.0.0 adsco.re
 0.0.0.0 adsrvr.org
@@ -216,6 +220,7 @@
 0.0.0.0 mycdn.co
 0.0.0.0 padition.online
 0.0.0.0 pangle.io
+0.0.0.0 playstream.media
 0.0.0.0 pomerous.info
 0.0.0.0 trafficfactory.biz
 0.0.0.0 ttpsdk.info

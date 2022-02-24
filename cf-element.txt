@@ -123,6 +123,10 @@ shopee.vn##.full-home-banners
 
 softexia.com##.hide-mobile
 softexia.com##.offer
+softexia.com##.rodom-random
+softexia.com##.rodom-random2
+softexia.com##.splide--draggable
+softexia.com##.elementor-element-16ce124.elementor-element
 
 station-drivers.com##.tm-top-b
 station-drivers.com##.tm-bottom-a
@@ -163,6 +167,7 @@ vnexpress.net##.box_shopvne
 vnexpress.net##.col-right-top
 vnexpress.net###box_shop_footer
 
+voz.vn##.adsbypubpower
 vov.vn##.has-qc
 vov.vn##.qc-item
 vov.vn###QCctl00_AdsContentAllPage1

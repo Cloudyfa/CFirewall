@@ -109,8 +109,10 @@
 ||onclickmega.com^
 ||onesignal.com^
 ||onmarshtompor.com^
+||opencoccoc.com^
 ||opus-static.com^
 ||outbrain.com^
+||pipezero.com^
 ||pocvip.com^
 ||poosoahe.com^
 ||popmyads.com^
@@ -134,6 +136,7 @@
 ||tapjoyads.com^
 ||teaserok.com^
 ||tribalfusion.com^
+||trunkpkg.com^
 ||tsyndicate.com^
 ||ufpcdn.com^
 ||unrulymedia.com^
@@ -196,6 +199,7 @@
 ||yomedia.vn^
 
 ||91p20.space^
+||adbro.me^
 ||adflex.asia^
 ||adsco.re^
 ||adsrvr.org^
@@ -216,6 +220,7 @@
 ||mycdn.co^
 ||padition.online^
 ||pangle.io^
+||playstream.media^
 ||pomerous.info^
 ||trafficfactory.biz^
 ||ttpsdk.info^
