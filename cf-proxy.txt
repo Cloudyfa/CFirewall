@@ -27,6 +27,7 @@ FINAL,DIRECT
 *addthis.com = 0.0.0.0
 *adincube.com = 0.0.0.0
 *adinfuse.com = 0.0.0.0
+*adlightning.com = 0.0.0.0
 *admanmedia.com = 0.0.0.0
 *admob.com = 0.0.0.0
 *adnetpartner.com = 0.0.0.0
@@ -61,6 +62,7 @@ FINAL,DIRECT
 *bidvertiser.com = 0.0.0.0
 *blueadss.com = 0.0.0.0
 *bluekai.com = 0.0.0.0
+*btloader.com = 0.0.0.0
 *bugsnag.com = 0.0.0.0
 *carbonads.com = 0.0.0.0
 *casalemedia.com = 0.0.0.0
@@ -167,6 +169,7 @@ FINAL,DIRECT
 *zenmxapps.com = 0.0.0.0
 
 *2mdn.net = 0.0.0.0
+*ad-delivery.net = 0.0.0.0
 *adform.net = 0.0.0.0
 *adhigh.net = 0.0.0.0
 *adsplay.net = 0.0.0.0
@@ -236,6 +239,7 @@ FINAL,DIRECT
 *pangle.io = 0.0.0.0
 *playstream.media = 0.0.0.0
 *pomerous.info = 0.0.0.0
+*primis.tech = 0.0.0.0
 *trafficfactory.biz = 0.0.0.0
 *ttpsdk.info = 0.0.0.0
 
@@ -249,6 +253,7 @@ ads.shorte.st = 0.0.0.0
 adservice.google.com = 0.0.0.0
 adservice.google.com.vn = 0.0.0.0
 adskeeper.co.uk = 0.0.0.0
+adtarget.com.tr = 0.0.0.0
 adtima-media.zascdn.me = 0.0.0.0
 appmetrica.yandex.net = 0.0.0.0
 c-api-bit.shopeemobile.com = 0.0.0.0

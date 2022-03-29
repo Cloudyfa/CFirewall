@@ -96,6 +96,9 @@ motgame.vn##.mga-ad
 motgame.vn##.random_mg
 motgame.vn##.video_sidebar
 
+nexusmods.com##.ads
+nexusmods.com##.video-ad
+
 nhaccuatui.com##.nqc-zone
 nhaccuatui.com###right_support_online
 
@@ -121,6 +124,7 @@ reddit.com###sidebar-btf-1
 
 shopee.vn##.full-home-banners
 
+softexia.com##.a1g2022w
 softexia.com##.hide-mobile
 softexia.com##.offer
 softexia.com##.rodom-random
@@ -137,6 +141,7 @@ tiki.vn###top-bar-container
 tinhte.vn##.adWidget
 tinhte.vn##.desktopOnly
 tinhte.vn##.in-article-promo
+tinhte.vn##.infeed-ads
 tinhte.vn##.micro
 tinhte.vn##.middle-comment-promotion
 tinhte.vn##.pro-container

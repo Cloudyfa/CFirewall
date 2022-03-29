@@ -13,6 +13,7 @@
 ||addthis.com^
 ||adincube.com^
 ||adinfuse.com^
+||adlightning.com^
 ||admanmedia.com^
 ||admob.com^
 ||adnetpartner.com^
@@ -47,6 +48,7 @@
 ||bidvertiser.com^
 ||blueadss.com^
 ||bluekai.com^
+||btloader.com^
 ||bugsnag.com^
 ||carbonads.com^
 ||casalemedia.com^
@@ -153,6 +155,7 @@
 ||zenmxapps.com^
 
 ||2mdn.net^
+||ad-delivery.net^
 ||adform.net^
 ||adhigh.net^
 ||adsplay.net^
@@ -222,6 +225,7 @@
 ||pangle.io^
 ||playstream.media^
 ||pomerous.info^
+||primis.tech^
 ||trafficfactory.biz^
 ||ttpsdk.info^
 
@@ -235,6 +239,7 @@
 ||adservice.google.com^
 ||adservice.google.com.vn^
 ||adskeeper.co.uk^
+||adtarget.com.tr^
 ||adtima-media.zascdn.me^
 ||appmetrica.yandex.net^
 ||c-api-bit.shopeemobile.com^
