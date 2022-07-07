@@ -74,6 +74,7 @@
 ||exosrv.com^
 ||floodprincipal.com^
 ||flurry.com^
+||galas3xy.com^
 ||gammaplatform.com^
 ||genieessp.com^
 ||geniusdexchange.com^
@@ -137,6 +138,7 @@
 ||taboola.com^
 ||tapjoyads.com^
 ||teaserok.com^
+||thstvv.com^
 ||tribalfusion.com^
 ||trunkpkg.com^
 ||tsyndicate.com^

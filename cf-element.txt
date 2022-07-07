@@ -58,7 +58,9 @@ freaktab.com##.guestwarn
 
 fshare.vn##.bannerinfooter
 
+game4v.com##.banner-single-ads
 game4v.com##.footer-site
+game4v.com##.parent-div-text-ads
 game4v.com###head
 
 gamecopyworld.com###news
@@ -91,6 +93,7 @@ macrumors.com##.sidebarblock2
 macrumors.com##.tertiary
 
 motgame.vn##.game_random
+motgame.vn##.livsteam
 motgame.vn##.mg_bn
 motgame.vn##.mga-ad
 motgame.vn##.random_mg
@@ -175,6 +178,7 @@ vnexpress.net###box_shop_footer
 voz.vn##.adsbypubpower
 vov.vn##.has-qc
 vov.vn##.qc-item
+voz.vn##.samBannerUnit
 vov.vn###QCctl00_AdsContentAllPage1
 voz.vn##[id^="div-gpt-ad-"]
 
