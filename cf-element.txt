@@ -179,6 +179,7 @@ voz.vn##.adsbypubpower
 vov.vn##.has-qc
 vov.vn##.qc-item
 voz.vn##.samBannerUnit
+voz.vn##div.message
 vov.vn###QCctl00_AdsContentAllPage1
 voz.vn##[id^="div-gpt-ad-"]
 
@@ -188,6 +189,7 @@ wowinterface.com###header-ad
 wowinterface.com##.ac-widget-placeholder
 
 xda-developers.com##.ad_box
+xda-developers.com##.ad-zone
 xda-developers.com##.fs-dynamic
 xda-developers.com##.spon_banner
 xda-developers.com##.sponsor-dyn-banner
