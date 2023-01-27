@@ -68,7 +68,6 @@ gamecopyworld.com###news
 genk.vn##.ads
 genk.vn##.khw-ads-wrapper
 
-google.com###botstuff
 google.com###tads
 google.com###tadsb
 
