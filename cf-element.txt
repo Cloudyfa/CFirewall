@@ -7,6 +7,7 @@
 ##.adsbygoogle
 ||*/adoverlay/*
 ||*/sponsor/*
+||*/showads.js
 
 24h.com.vn##[id^="ADS_"]
 24h.com.vn###subRight
@@ -84,8 +85,8 @@ imgur.com##.EmeraldBanner
 
 livebongda.net###quangcaopc
 
-maclife.vn##.a-single
-maclife.vn##.wpbcap-laptopvang
+maclife.io##.a-single
+maclife.io##.wrap-content > [href]
 
 macrumors.com##.sidebarblock
 macrumors.com##.sidebarblock2
@@ -106,13 +107,7 @@ nhaccuatui.com###right_support_online
 
 nhattao.com##.adWidget
 
-phim1080z.com##.ff-banner
-
-phimmoiplus.net##.ad-300
-phimmoiplus.net##.ad-container
-phimmoiplus.net##.ad-topcomment-pc
-phimmoiplus.net##.fixed_bottom
-phimmoiplus.net###main_preroll_ads
+phimmoichilla.net##.hidemobile
 
 psnprofiles.com##.side-ad
 psnprofiles.com##.wide-ad
