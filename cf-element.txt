@@ -17,6 +17,8 @@
 
 9to5mac.com##.ad-container
 
+animehay.pro###middle-box-screen
+
 apkmirror.com##.amazon-ad
 apkmirror.com##.gooWidget
 apkmirror.com##.OUTBRAIN
@@ -120,6 +122,7 @@ reddit.com###sidebar-atf-0
 reddit.com###sidebar-btf-1
 
 shopee.vn##.full-home-banners
+shopee.vn##shopee-banner-popup-stateful
 
 softexia.com##.a1g2022w
 softexia.com##.hide-mobile
@@ -192,6 +195,7 @@ xda-developers.com###xdadevelopers_right_1
 xda-developers.com###xdadevelopers_right_2
 xda-developers.com###xdadevelopers_incontent
 xda-developers.com###xdadevelopers_incontent_2
+xda-developers.com###xdadevelopers_leaderboard_atf
 xda-developers.com###xdadevelopers_leaderboard_btf
 
 youtube.com###companion
