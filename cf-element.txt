@@ -17,7 +17,7 @@
 
 9to5mac.com##.ad-container
 
-animehay.pro###middle-box-screen
+animehay.live###middle-box-screen
 
 apkmirror.com##.amazon-ad
 apkmirror.com##.gooWidget
@@ -121,9 +121,6 @@ reddit.com###comment-atf
 reddit.com###sidebar-atf-0
 reddit.com###sidebar-btf-1
 
-shopee.vn##.full-home-banners
-shopee.vn##shopee-banner-popup-stateful
-
 softexia.com##.a1g2022w
 softexia.com##.hide-mobile
 softexia.com##.offer
@@ -135,8 +132,6 @@ softexia.com##.elementor-element-16ce124.elementor-element
 station-drivers.com##.tm-top-b
 station-drivers.com##.tm-bottom-a
 station-drivers.com##table
-
-tiki.vn###top-bar-container
 
 tinhte.vn##.adWidget
 tinhte.vn##.desktopOnly

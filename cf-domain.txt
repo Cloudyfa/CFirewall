@@ -6,6 +6,7 @@
 
 0.0.0.0 2hanwriten.com
 0.0.0.0 8giaitri.com
+0.0.0.0 a-ads.com
 0.0.0.0 a2gw.com
 0.0.0.0 aaxads.com
 0.0.0.0 ad4game.com
@@ -39,7 +40,6 @@
 0.0.0.0 applift.com
 0.0.0.0 applovin.com
 0.0.0.0 applvn.com
-0.0.0.0 appsflyer.com
 0.0.0.0 bcloudhost.com
 0.0.0.0 bebi.com
 0.0.0.0 bidgear.com
@@ -206,6 +206,7 @@
 0.0.0.0 91p20.space
 0.0.0.0 adbro.me
 0.0.0.0 adflex.asia
+0.0.0.0 adlane.info
 0.0.0.0 adsco.re
 0.0.0.0 adsrvr.org
 0.0.0.0 adtech.de
@@ -216,6 +217,7 @@
 0.0.0.0 brand.ad
 0.0.0.0 branch.io
 0.0.0.0 cliphub.io
+0.0.0.0 cryptobrowser.site
 0.0.0.0 dable.io
 0.0.0.0 genieesspv.jp
 0.0.0.0 g--o.info

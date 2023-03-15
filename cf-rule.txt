@@ -6,6 +6,7 @@
 
 ||2hanwriten.com^
 ||8giaitri.com^
+||a-ads.com^
 ||a2gw.com^
 ||aaxads.com^
 ||ad4game.com^
@@ -39,7 +40,6 @@
 ||applift.com^
 ||applovin.com^
 ||applvn.com^
-||appsflyer.com^
 ||bcloudhost.com^
 ||bebi.com^
 ||bidgear.com^
@@ -206,6 +206,7 @@
 ||91p20.space^
 ||adbro.me^
 ||adflex.asia^
+||adlane.info^
 ||adsco.re^
 ||adsrvr.org^
 ||adtech.de^
@@ -216,6 +217,7 @@
 ||brand.ad^
 ||branch.io^
 ||cliphub.io^
+||cryptobrowser.site^
 ||dable.io^
 ||genieesspv.jp^
 ||g--o.info^
