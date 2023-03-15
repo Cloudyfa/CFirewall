@@ -94,12 +94,12 @@ macrumors.com##.sidebarblock
 macrumors.com##.sidebarblock2
 macrumors.com##.tertiary
 
+motgame.vn##.bannertophome
 motgame.vn##.game_random
 motgame.vn##.livsteam
 motgame.vn##.mg_bn
 motgame.vn##.mga-ad
 motgame.vn##.random_mg
-motgame.vn##.video_sidebar
 
 nexusmods.com##.ads
 nexusmods.com##.video-ad
