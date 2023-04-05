@@ -171,6 +171,7 @@ voz.vn##.adsbypubpower
 vov.vn##.has-qc
 vov.vn##.qc-item
 voz.vn##.samBannerUnit
+voz.vn##div.message--post.message
 vov.vn###QCctl00_AdsContentAllPage1
 voz.vn##[id^="div-gpt-ad-"]
 
