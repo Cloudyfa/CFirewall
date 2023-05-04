@@ -17,7 +17,7 @@
 
 9to5mac.com##.ad-container
 
-animehay.live###middle-box-screen
+animehay.fan###middle-box-screen
 
 apkmirror.com##.amazon-ad
 apkmirror.com##.gooWidget
@@ -94,6 +94,7 @@ macrumors.com##.sidebarblock
 macrumors.com##.sidebarblock2
 macrumors.com##.tertiary
 
+motgame.vn##.adweb
 motgame.vn##.bannertophome
 motgame.vn##.game_random
 motgame.vn##.livsteam
