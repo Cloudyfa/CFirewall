@@ -19,6 +19,8 @@
 
 animehay.fan###middle-box-screen
 
+anphatpc.com.vn##.fixed_banner
+
 apkmirror.com##.amazon-ad
 apkmirror.com##.gooWidget
 apkmirror.com##.OUTBRAIN
@@ -68,6 +70,8 @@ game4v.com###head
 
 gamecopyworld.com###news
 
+gearvn.com##.sticky-banner
+
 genk.vn##.ads
 genk.vn##.khw-ads-wrapper
 
@@ -76,6 +80,9 @@ google.com###tadsb
 
 hamtruyen.com###box-player
 hamtruyen.com###wrap_qc_banner_top
+
+helltides.com##.av-floating
+helltides.com###ad_inactive_map_bottom
 
 hoatieu.vn##.adbox
 hoatieu.vn##.adsbg
@@ -93,6 +100,10 @@ maclife.io##.wrap-content > [href]
 macrumors.com##.sidebarblock
 macrumors.com##.sidebarblock2
 macrumors.com##.tertiary
+
+memoryzone.com.vn##.bottom
+
+mobalytics.gg##aside
 
 motgame.vn##.adweb
 motgame.vn##.bannertophome
@@ -134,6 +145,8 @@ station-drivers.com##.tm-top-b
 station-drivers.com##.tm-bottom-a
 station-drivers.com##table
 
+tinhocngoisao.com##.flex2ben
+
 tinhte.vn##.adWidget
 tinhte.vn##.desktopOnly
 tinhte.vn##.in-article-promo
@@ -146,6 +159,13 @@ tinhte.vn##.jsx-1393464935
 tinhte.vn##.jsx-2626479041
 tinhte.vn##.jsx-2996626834
 tinhte.vn##.jsx-3569995709
+
+tomshardware.com##.ad-unit
+tomshardware.com##.bordeaux-anchored-container
+tomshardware.com##.dfp-leaderboard-container
+tomshardware.com##.related-articles
+tomshardware.com##.van_taboola
+tomshardware.com##.van_vid_carousel
 
 truyentranhtuan.com##.adpia_banner
 truyentranhtuan.com##.doc-truyen-ads-d1
