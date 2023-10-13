@@ -69,6 +69,7 @@
 0.0.0.0 deltago.com
 0.0.0.0 dfnb-ads.com
 0.0.0.0 ebetoni.com
+0.0.0.0 enchroe.com
 0.0.0.0 evidon.com
 0.0.0.0 exdynsrv.com
 0.0.0.0 exosrv.com
@@ -154,6 +155,7 @@
 0.0.0.0 weaveradrenaline.com
 0.0.0.0 whingewost.com
 0.0.0.0 wufoo.com
+0.0.0.0 youradexchange.com
 0.0.0.0 zcoup.com
 0.0.0.0 zenmxapps.com
 

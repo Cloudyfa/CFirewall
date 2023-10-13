@@ -69,6 +69,7 @@
 ||deltago.com^
 ||dfnb-ads.com^
 ||ebetoni.com^
+||enchroe.com^
 ||evidon.com^
 ||exdynsrv.com^
 ||exosrv.com^
@@ -154,6 +155,7 @@
 ||weaveradrenaline.com^
 ||whingewost.com^
 ||wufoo.com^
+||youradexchange.com^
 ||zcoup.com^
 ||zenmxapps.com^
 

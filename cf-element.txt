@@ -17,7 +17,7 @@
 
 9to5mac.com##.ad-container
 
-animehay.fan###middle-box-screen
+animehay.city###middle-box-screen
 
 anphatpc.com.vn##.fixed_banner
 
@@ -201,18 +201,18 @@ webtretho.com##.top-ads
 wowinterface.com###header-ad
 wowinterface.com##.ac-widget-placeholder
 
-xda-developers.com##.ad_box
-xda-developers.com##.ad-zone
-xda-developers.com##.fs-dynamic
-xda-developers.com##.spon_banner
-xda-developers.com##.sponsor-dyn-banner
-xda-developers.com##.block-row.block-body
-xda-developers.com###xdadevelopers_right_1
-xda-developers.com###xdadevelopers_right_2
-xda-developers.com###xdadevelopers_incontent
-xda-developers.com###xdadevelopers_incontent_2
-xda-developers.com###xdadevelopers_leaderboard_atf
-xda-developers.com###xdadevelopers_leaderboard_btf
+xdaforums.com##.ad_box
+xdaforums.com##.ad-zone
+xdaforums.com##.fs-dynamic
+xdaforums.com##.spon_banner
+xdaforums.com##.sponsor-dyn-banner
+xdaforums.com##.block-row.block-body
+xdaforums.com###xdadevelopers_right_1
+xdaforums.com###xdadevelopers_right_2
+xdaforums.com###xdadevelopers_incontent
+xdaforums.com###xdadevelopers_incontent_2
+xdaforums.com###xdadevelopers_leaderboard_atf
+xdaforums.com###xdadevelopers_leaderboard_btf
 
 youtube.com###companion
 youtube.com###masthead-ad
