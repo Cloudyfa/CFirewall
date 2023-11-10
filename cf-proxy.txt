@@ -60,6 +60,7 @@ FINAL,DIRECT
 *bidsxchange.com = 0.0.0.0
 *bidsxplayer.com = 0.0.0.0
 *bidvertiser.com = 0.0.0.0
+*blidbqd.com = 0.0.0.0
 *blueadss.com = 0.0.0.0
 *bluekai.com = 0.0.0.0
 *btloader.com = 0.0.0.0
@@ -229,6 +230,7 @@ FINAL,DIRECT
 *adtech.de = 0.0.0.0
 *aiservice.vn = 0.0.0.0
 *amung.us = 0.0.0.0
+*atentherel.org = 0.0.0.0
 *bepolite.eu = 0.0.0.0
 *blueseed.tv = 0.0.0.0
 *brand.ad = 0.0.0.0
@@ -236,6 +238,7 @@ FINAL,DIRECT
 *cliphub.io = 0.0.0.0
 *cryptobrowser.site = 0.0.0.0
 *dable.io = 0.0.0.0
+*dthepeoplewhoc.org = 0.0.0.0
 *genieesspv.jp = 0.0.0.0
 *g--o.info = 0.0.0.0
 *impact-ad.jp = 0.0.0.0
@@ -246,6 +249,7 @@ FINAL,DIRECT
 *pangle.io = 0.0.0.0
 *playstream.media = 0.0.0.0
 *pomerous.info = 0.0.0.0
+*pogothere.xyz = 0.0.0.0
 *primis.tech = 0.0.0.0
 *trafficfactory.biz = 0.0.0.0
 *ttpsdk.info = 0.0.0.0

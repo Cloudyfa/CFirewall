@@ -46,6 +46,7 @@
 ||bidsxchange.com^
 ||bidsxplayer.com^
 ||bidvertiser.com^
+||blidbqd.com^
 ||blueadss.com^
 ||bluekai.com^
 ||btloader.com^
@@ -215,6 +216,7 @@
 ||adtech.de^
 ||aiservice.vn^
 ||amung.us^
+||atentherel.org^
 ||bepolite.eu^
 ||blueseed.tv^
 ||brand.ad^
@@ -222,6 +224,7 @@
 ||cliphub.io^
 ||cryptobrowser.site^
 ||dable.io^
+||dthepeoplewhoc.org^
 ||genieesspv.jp^
 ||g--o.info^
 ||impact-ad.jp^
@@ -232,6 +235,7 @@
 ||pangle.io^
 ||playstream.media^
 ||pomerous.info^
+||pogothere.xyz^
 ||primis.tech^
 ||trafficfactory.biz^
 ||ttpsdk.info^

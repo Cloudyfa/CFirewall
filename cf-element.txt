@@ -109,6 +109,7 @@ motgame.vn##.adweb
 motgame.vn##.bannertophome
 motgame.vn##.game_random
 motgame.vn##.livsteam
+motgame.vn##.motgame-qc-slider
 motgame.vn##.mg_bn
 motgame.vn##.mga-ad
 motgame.vn##.random_mg
@@ -121,7 +122,9 @@ nhaccuatui.com###right_support_online
 
 nhattao.com##.adWidget
 
-phimmoichilla.net##.hidemobile
+phimmoiyyy.net##.module_home_ads
+phimmoiyyy.net##.module_single_ads
+phimmoiyyy.net###floating_ads_bottom_textcss_ad
 
 psnprofiles.com##.side-ad
 psnprofiles.com##.wide-ad
