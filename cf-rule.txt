@@ -51,6 +51,7 @@
 ||bluekai.com^
 ||btloader.com^
 ||bugsnag.com^
+||calumetburka.com^
 ||carbonads.com^
 ||casalemedia.com^
 ||celtra.com^
@@ -70,6 +71,7 @@
 ||deltago.com^
 ||dfnb-ads.com^
 ||ebetoni.com^
+||egldvmz.com^
 ||enchroe.com^
 ||evidon.com^
 ||exdynsrv.com^
@@ -104,6 +106,7 @@
 ||jwplayer.com^
 ||kaprila.com^
 ||kochava.com^
+||lrqknpk.com^
 ||mgid.com^
 ||moatads.com^
 ||mopub.com^
@@ -217,6 +220,7 @@
 ||aiservice.vn^
 ||amung.us^
 ||atentherel.org^
+||barlessclueing.life^
 ||bepolite.eu^
 ||blueseed.tv^
 ||brand.ad^
@@ -237,6 +241,7 @@
 ||pomerous.info^
 ||pogothere.xyz^
 ||primis.tech^
+||silencyboubous.space^
 ||trafficfactory.biz^
 ||ttpsdk.info^
 

@@ -65,6 +65,7 @@ FINAL,DIRECT
 *bluekai.com = 0.0.0.0
 *btloader.com = 0.0.0.0
 *bugsnag.com = 0.0.0.0
+*calumetburka.com = 0.0.0.0
 *carbonads.com = 0.0.0.0
 *casalemedia.com = 0.0.0.0
 *celtra.com = 0.0.0.0
@@ -84,6 +85,7 @@ FINAL,DIRECT
 *deltago.com = 0.0.0.0
 *dfnb-ads.com = 0.0.0.0
 *ebetoni.com = 0.0.0.0
+*egldvmz.com = 0.0.0.0
 *enchroe.com = 0.0.0.0
 *evidon.com = 0.0.0.0
 *exdynsrv.com = 0.0.0.0
@@ -118,6 +120,7 @@ FINAL,DIRECT
 *jwplayer.com = 0.0.0.0
 *kaprila.com = 0.0.0.0
 *kochava.com = 0.0.0.0
+*lrqknpk.com = 0.0.0.0
 *mgid.com = 0.0.0.0
 *moatads.com = 0.0.0.0
 *mopub.com = 0.0.0.0
@@ -231,6 +234,7 @@ FINAL,DIRECT
 *aiservice.vn = 0.0.0.0
 *amung.us = 0.0.0.0
 *atentherel.org = 0.0.0.0
+*barlessclueing.life = 0.0.0.0
 *bepolite.eu = 0.0.0.0
 *blueseed.tv = 0.0.0.0
 *brand.ad = 0.0.0.0
@@ -251,6 +255,7 @@ FINAL,DIRECT
 *pomerous.info = 0.0.0.0
 *pogothere.xyz = 0.0.0.0
 *primis.tech = 0.0.0.0
+*silencyboubous.space = 0.0.0.0
 *trafficfactory.biz = 0.0.0.0
 *ttpsdk.info = 0.0.0.0
 

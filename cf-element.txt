@@ -210,12 +210,12 @@ xdaforums.com##.fs-dynamic
 xdaforums.com##.spon_banner
 xdaforums.com##.sponsor-dyn-banner
 xdaforums.com##.block-row.block-body
-xdaforums.com###xdadevelopers_right_1
-xdaforums.com###xdadevelopers_right_2
-xdaforums.com###xdadevelopers_incontent
-xdaforums.com###xdadevelopers_incontent_2
-xdaforums.com###xdadevelopers_leaderboard_atf
-xdaforums.com###xdadevelopers_leaderboard_btf
+xdaforums.com###xdaforums_right_1
+xdaforums.com###xdaforums_right_2
+xdaforums.com###xdaforums_incontent
+xdaforums.com###xdaforums_incontent_2
+xdaforums.com###xdaforums_leaderboard_atf
+xdaforums.com###xdaforums_leaderboard_btf
 
 youtube.com###companion
 youtube.com###masthead-ad
