@@ -122,9 +122,9 @@ nhaccuatui.com###right_support_online
 
 nhattao.com##.adWidget
 
-phimmoiyyy.net##.module_home_ads
-phimmoiyyy.net##.module_single_ads
-phimmoiyyy.net###floating_ads_bottom_textcss_ad
+phimmoiiii.net##.module_home_ads
+phimmoiiii.net##.module_single_ads
+phimmoiiii.net###floating_ads_bottom_textcss_ad
 
 psnprofiles.com##.side-ad
 psnprofiles.com##.wide-ad
@@ -197,6 +197,7 @@ vov.vn##.qc-item
 voz.vn##.samBannerUnit
 voz.vn##div.message--post.message
 vov.vn###QCctl00_AdsContentAllPage1
+voz.vn###sp-wrapper-hovering
 voz.vn##[id^="div-gpt-ad-"]
 
 webtretho.com##.top-ads
