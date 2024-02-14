@@ -64,6 +64,7 @@ FINAL,DIRECT
 *blueadss.com = 0.0.0.0
 *bluekai.com = 0.0.0.0
 *btloader.com = 0.0.0.0
+*bpmvkvb.com = 0.0.0.0
 *bugsnag.com = 0.0.0.0
 *calumetburka.com = 0.0.0.0
 *carbonads.com = 0.0.0.0
@@ -84,8 +85,10 @@ FINAL,DIRECT
 *dealspure.com = 0.0.0.0
 *deltago.com = 0.0.0.0
 *dfnb-ads.com = 0.0.0.0
+*distinctrobin.com = 0.0.0.0
 *ebetoni.com = 0.0.0.0
 *egldvmz.com = 0.0.0.0
+*electranowel.com = 0.0.0.0
 *enchroe.com = 0.0.0.0
 *evidon.com = 0.0.0.0
 *exdynsrv.com = 0.0.0.0
@@ -138,6 +141,7 @@ FINAL,DIRECT
 *pocvip.com = 0.0.0.0
 *poosoahe.com = 0.0.0.0
 *popmyads.com = 0.0.0.0
+*push-sdk.com = 0.0.0.0
 *q00gle.com = 0.0.0.0
 *quantcount.com = 0.0.0.0
 *quantserve.com = 0.0.0.0
@@ -202,6 +206,7 @@ FINAL,DIRECT
 *smaato.net = 0.0.0.0
 *statsy.net = 0.0.0.0
 *trafficjunky.net = 0.0.0.0
+*uidsync.net = 0.0.0.0
 
 *admicro.vn = 0.0.0.0
 *adnet.vn = 0.0.0.0
@@ -236,9 +241,11 @@ FINAL,DIRECT
 *atentherel.org = 0.0.0.0
 *barlessclueing.life = 0.0.0.0
 *bepolite.eu = 0.0.0.0
+*bimbilguising.uno = 0.0.0.0
 *blueseed.tv = 0.0.0.0
 *brand.ad = 0.0.0.0
 *branch.io = 0.0.0.0
+*can-get-some.in = 0.0.0.0
 *cliphub.io = 0.0.0.0
 *cryptobrowser.site = 0.0.0.0
 *dable.io = 0.0.0.0
@@ -258,6 +265,7 @@ FINAL,DIRECT
 *silencyboubous.space = 0.0.0.0
 *trafficfactory.biz = 0.0.0.0
 *ttpsdk.info = 0.0.0.0
+*uptearfancily.top = 0.0.0.0
 
 a1.consoletarget.com = 0.0.0.0
 ad.daum.net = 0.0.0.0

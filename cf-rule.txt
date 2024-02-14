@@ -50,6 +50,7 @@
 ||blueadss.com^
 ||bluekai.com^
 ||btloader.com^
+||bpmvkvb.com^
 ||bugsnag.com^
 ||calumetburka.com^
 ||carbonads.com^
@@ -70,8 +71,10 @@
 ||dealspure.com^
 ||deltago.com^
 ||dfnb-ads.com^
+||distinctrobin.com^
 ||ebetoni.com^
 ||egldvmz.com^
+||electranowel.com^
 ||enchroe.com^
 ||evidon.com^
 ||exdynsrv.com^
@@ -124,6 +127,7 @@
 ||pocvip.com^
 ||poosoahe.com^
 ||popmyads.com^
+||push-sdk.com^
 ||q00gle.com^
 ||quantcount.com^
 ||quantserve.com^
@@ -188,6 +192,7 @@
 ||smaato.net^
 ||statsy.net^
 ||trafficjunky.net^
+||uidsync.net^
 
 ||admicro.vn^
 ||adnet.vn^
@@ -222,9 +227,11 @@
 ||atentherel.org^
 ||barlessclueing.life^
 ||bepolite.eu^
+||bimbilguising.uno^
 ||blueseed.tv^
 ||brand.ad^
 ||branch.io^
+||can-get-some.in^
 ||cliphub.io^
 ||cryptobrowser.site^
 ||dable.io^
@@ -244,6 +251,7 @@
 ||silencyboubous.space^
 ||trafficfactory.biz^
 ||ttpsdk.info^
+||uptearfancily.top^
 
 ||a1.consoletarget.com^
 ||ad.daum.net^
