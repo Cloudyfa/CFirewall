@@ -142,7 +142,8 @@ softexia.com##.offer
 softexia.com##.rodom-random
 softexia.com##.rodom-random2
 softexia.com##.splide--draggable
-softexia.com##.elementor-element-16ce124.elementor-element
+softexia.com##.elementor-element
+softexia.com###adverts
 
 station-drivers.com##.tm-top-b
 station-drivers.com##.tm-bottom-a
@@ -204,6 +205,8 @@ webtretho.com##.top-ads
 
 wowinterface.com###header-ad
 wowinterface.com##.ac-widget-placeholder
+
+xda-developers.com##.ad-zone-container
 
 xdaforums.com##.ad_box
 xdaforums.com##.ad-zone
