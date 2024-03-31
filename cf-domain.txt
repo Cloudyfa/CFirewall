@@ -303,7 +303,6 @@
 0.0.0.0 sdk.zadn.vn
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 servicelayer.king.com
-0.0.0.0 ssl.gstatic.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 trackity.tiki.vn
 0.0.0.0 traffic-media.co.uk

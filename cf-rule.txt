@@ -303,7 +303,6 @@
 ||sdk.zadn.vn^
 ||self.events.data.microsoft.com^
 ||servicelayer.king.com^
-||ssl.gstatic.com^
 ||tpc.googlesyndication.com^
 ||trackity.tiki.vn^
 ||traffic-media.co.uk^

@@ -106,6 +106,7 @@ memoryzone.com.vn##.bottom
 mobalytics.gg##aside
 
 motgame.vn##.adweb
+motgame.vn##.aanetwork-ads-box
 motgame.vn##.bannertophome
 motgame.vn##.game_random
 motgame.vn##.livsteam
