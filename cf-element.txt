@@ -100,6 +100,9 @@ hollymoviehd.cc###galaksionAds
 
 imgur.com##.EmeraldBanner
 
+lazada.vn##.card-countdown
+lazada.vn##.card-platform-campaign-banner-container
+
 maclife.io##.a-single
 maclife.io##.widget_custom_html
 maclife.io##.wpbcap-laptopvang
@@ -155,6 +158,8 @@ reddit.com###comment-atf
 reddit.com###sidebar-atf-0
 reddit.com###sidebar-btf-1
 
+shopee.vn##shopee-banner-popup-stateful
+
 softexia.com##.a1g2022w
 softexia.com##.a1g2023w
 softexia.com##.elementor-element
@@ -169,6 +174,8 @@ softexia.com###top-line
 station-drivers.com##.tm-top-b
 station-drivers.com##.tm-bottom-a
 station-drivers.com##table
+
+tiki.vn###VIP_BUNDLE
 
 tinhocngoisao.com##.flex2ben
 
@@ -250,6 +257,8 @@ xdaforums.com###xdaforums_leaderboard_btf
 
 youtube.com###companion
 youtube.com###masthead-ad
+
+yts.mx##.ioo
 
 zing.vn###app
 zing.vn###highlight
