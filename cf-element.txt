@@ -12,29 +12,33 @@
 24h.com.vn##[id^="ADS_"]
 24h.com.vn###subRight
 
+5giay.vn##.visible-xl
 5giay.vn##.widget-ad-300
 5giay.vn##[class$="-banner"]
 
 9to5mac.com##.ad-container
 
-animehay.city###middle-box-screen
+animehay.in###middle-box-screen
 
 anphatpc.com.vn##.fixed_banner
+anphatpc.com.vn##.global-banner-fixed
+anphatpc.com.vn##.global-banner-popup-container
 
 apkmirror.com##.amazon-ad
+apkmirror.com##.advertisement-text
 apkmirror.com##.gooWidget
 apkmirror.com##.OUTBRAIN
+apkmirror.com###bottom-slider
 
 apkpure.com##.ad-left
 apkpure.com##.ad-right
+apkpure.com##.chrome-install-pop
+apkpure.com##.js-ad-slot
 apkpure.com###ad-aegon-side
 
 baomoi.com##.fyi--group
 baomoi.com##.is-ads
 baomoi.com###BaoMoi_Top
-
-blogtruyen.vn##.qc-css
-blogtruyen.vn##.qc-inner
 
 cadviet.com###float_panel
 
@@ -55,21 +59,22 @@ filecr.com##.special-area-list
 filecr.com##.top-header-ad
 
 foody.vn##.foody-banner
+foody.vn##.home-banner
 
 freaktab.com##.ad_header_inner
 freaktab.com##.axd-inner
 freaktab.com##.custom-html-widget
 freaktab.com##.guestwarn
+freaktab.com##.notices
+freaktab.com###header
 
 fshare.vn##.bannerinfooter
 
-game4v.com##.banner-single-ads
-game4v.com##.footer-site
-game4v.com##.parent-div-text-ads
-game4v.com###head
-
+gamecopyworld.com##[href^="is.php"]
+gamecopyworld.com###basePopping
 gamecopyworld.com###news
 
+gearvn.com##.collection-header
 gearvn.com##.sticky-banner
 
 genk.vn##.ads
@@ -78,23 +83,26 @@ genk.vn##.khw-ads-wrapper
 google.com###tads
 google.com###tadsb
 
-hamtruyen.com###box-player
-hamtruyen.com###wrap_qc_banner_top
+hamtruyen.info##.text-center
+hamtruyen.info###box-player
+hamtruyen.info###wrap_qc_banner_top
 
 helltides.com##.av-floating
 helltides.com###ad_inactive_map_bottom
 
 hoatieu.vn##.adbox
 hoatieu.vn##.adsbg
+hoatieu.vn##.adsdetail
 hoatieu.vn##.adszone
 
 hollymoviehd.cc##.content-kuss-ads
+hollymoviehd.cc###galaksionAds
 
 imgur.com##.EmeraldBanner
 
-livebongda.net###quangcaopc
-
 maclife.io##.a-single
+maclife.io##.widget_custom_html
+maclife.io##.wpbcap-laptopvang
 maclife.io##.wrap-content > [href]
 
 macrumors.com##.sidebarblock
@@ -102,6 +110,15 @@ macrumors.com##.sidebarblock2
 macrumors.com##.tertiary
 
 memoryzone.com.vn##.bottom
+memoryzone.com.vn##.topbar-slider
+
+metruyen.me##.pum-content
+metruyen.me##.pum-overlay
+
+monkeyd.vn##.recommendedStories-section
+monkeyd.vn##.signature
+monkeyd.vn##.widget-fanpage
+monkeyd.vn###affLayer
 
 mobalytics.gg##aside
 
@@ -114,6 +131,7 @@ motgame.vn##.motgame-qc-slider
 motgame.vn##.mg_bn
 motgame.vn##.mga-ad
 motgame.vn##.random_mg
+motgame.vn##.MASTERCMS_MEDIA_BOX
 
 nexusmods.com##.ads
 nexusmods.com##.video-ad
@@ -138,13 +156,15 @@ reddit.com###sidebar-atf-0
 reddit.com###sidebar-btf-1
 
 softexia.com##.a1g2022w
+softexia.com##.a1g2023w
+softexia.com##.elementor-element
 softexia.com##.hide-mobile
 softexia.com##.offer
 softexia.com##.rodom-random
 softexia.com##.rodom-random2
 softexia.com##.splide--draggable
-softexia.com##.elementor-element
 softexia.com###adverts
+softexia.com###top-line
 
 station-drivers.com##.tm-top-b
 station-drivers.com##.tm-bottom-a
@@ -161,29 +181,33 @@ tinhte.vn##.middle-comment-promotion
 tinhte.vn##.pro-container
 tinhte.vn##.jsx-192314598
 tinhte.vn##.jsx-1393464935
+tinhte.vn##.jsx-2126301199
 tinhte.vn##.jsx-2626479041
 tinhte.vn##.jsx-2996626834
 tinhte.vn##.jsx-3569995709
 
 tomshardware.com##.ad-unit
 tomshardware.com##.bordeaux-anchored-container
+tomshardware.com##.exit-intent__background
 tomshardware.com##.dfp-leaderboard-container
 tomshardware.com##.related-articles
 tomshardware.com##.van_taboola
 tomshardware.com##.van_vid_carousel
+tomshardware.com##.widget-ads
 
-truyentranhtuan.com##.adpia_banner
-truyentranhtuan.com##.doc-truyen-ads-d1
-truyentranhtuan.com##.doc-truyen-ads-d2
-truyentranhtuan.com###banner_preload
-truyentranhtuan.com###fixed_ad_bottom
-truyentranhtuan.com###fixed_ad_left
+truyentuan.xyz##.adpia_banner
+truyentuan.xyz##.doc-truyen-ads-d1
+truyentuan.xyz##.doc-truyen-ads-d2
+truyentuan.xyz###banner_preload
+truyentuan.xyz###fixed_ad_bottom
+truyentuan.xyz###fixed_ad_left
 
-truyenqq.com###ads_left
-truyenqq.com###image_popup_wrapper
-truyenqq.com###image_popup_background
+truyenqqto.com###ad_info
+truyenqqto.com###ad_info_top
+truyenqqto.com###popup-truyenqq
 
 updato.com##.add-download
+updato.com##.can-be-hide-when-need
 updato.com##.code-block
 
 vnexpress.net##.banner_ads
@@ -202,6 +226,8 @@ vov.vn###QCctl00_AdsContentAllPage1
 voz.vn###sp-wrapper-hovering
 voz.vn##[id^="div-gpt-ad-"]
 
+webtretho.com##.ads-bg-default
+webtretho.com##.ads-medium-rectangle
 webtretho.com##.top-ads
 
 wowinterface.com###header-ad
@@ -230,5 +256,3 @@ zing.vn###highlight
 zing.vn###site-header
 
 zingmp3.vn###zmp3_Top
-
-zippyshare.com##.center_ad

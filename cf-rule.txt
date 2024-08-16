@@ -34,6 +34,7 @@
 ||amazon-adsystem.com^
 ||ampiri.com^
 ||amplitude.com^
+||anymind360.com^
 ||aqua-adserver.com^
 ||app-measurement.com^
 ||appads.com^
@@ -49,9 +50,11 @@
 ||blidbqd.com^
 ||blueadss.com^
 ||bluekai.com^
+||bober-log.com^
 ||btloader.com^
 ||bpmvkvb.com^
 ||bugsnag.com^
+||bytepluses.com^
 ||calumetburka.com^
 ||carbonads.com^
 ||casalemedia.com^
@@ -79,6 +82,7 @@
 ||evidon.com^
 ||exdynsrv.com^
 ||exosrv.com^
+||filetarget.com^
 ||floodprincipal.com^
 ||flurry.com^
 ||freshmarketer.com^
@@ -103,6 +107,7 @@
 ||inmobi.com^
 ||innity.com^
 ||iperadventure.com^
+||jacwkbauzs.com^
 ||jsrdn.com^
 ||juicyads.com^
 ||jumptap.com^
@@ -111,6 +116,7 @@
 ||jwplayer.com^
 ||kaprila.com^
 ||kochava.com^
+||kzvcggahkgm.com^
 ||lrqknpk.com^
 ||mgid.com^
 ||moatads.com^
@@ -124,6 +130,7 @@
 ||onmarshtompor.com^
 ||opencoccoc.com^
 ||opus-static.com^
+||orbsrv.com^
 ||outbrain.com^
 ||pipezero.com^
 ||pocvip.com^
@@ -152,6 +159,7 @@
 ||tapjoyads.com^
 ||teaserok.com^
 ||thstvv.com^
+||trafficfactory.com^
 ||tribalfusion.com^
 ||trunkpkg.com^
 ||tsyndicate.com^
@@ -161,7 +169,7 @@
 ||velocecdn.com^
 ||velti.com^
 ||veryn1ce.com^
-||virtuagirlhd.com^
+||vsmvideo.com^
 ||vungle.com^
 ||weaveradrenaline.com^
 ||whingewost.com^
@@ -212,6 +220,8 @@
 ||eclick.vn^
 ||novanet.vn^
 ||qccoccocmedia.vn^
+||realclick.vn^
+||sapoapps.vn^
 ||uniad.vn^
 ||vietad.vn^
 ||vietnamnetad.vn^
@@ -245,12 +255,14 @@
 ||jads.co^
 ||lucklayed.info^
 ||mycdn.co^
+||mxhnkn.pro^
 ||padition.online^
 ||pangle.io^
 ||playstream.media^
 ||pomerous.info^
 ||pogothere.xyz^
 ||primis.tech^
+||pubpowerplatform.io^
 ||silencyboubous.space^
 ||trafficfactory.biz^
 ||ttpsdk.info^
@@ -303,6 +315,7 @@
 ||sdk.zadn.vn^
 ||self.events.data.microsoft.com^
 ||servicelayer.king.com^
+||static.cloudflareinsights.com^
 ||tpc.googlesyndication.com^
 ||trackity.tiki.vn^
 ||traffic-media.co.uk^
