@@ -74,6 +74,8 @@ gamecopyworld.com##[href^="is.php"]
 gamecopyworld.com###basePopping
 gamecopyworld.com###news
 
+gamersky.com##.pcWuKongCode
+
 gearvn.com##.collection-header
 gearvn.com##.sticky-banner
 
@@ -98,6 +100,12 @@ hoatieu.vn##.adszone
 hollymoviehd.cc##.content-kuss-ads
 hollymoviehd.cc###galaksionAds
 
+ign.com##.ad-rail-wrapper
+ign.com##.one-up-link
+ign.com##.pogo-slot
+ign.com##.sidebar-title
+ign.com##.wiki-bobble
+
 imgur.com##.EmeraldBanner
 
 lazada.vn##.card-countdown
@@ -111,6 +119,8 @@ maclife.io##.wrap-content > [href]
 macrumors.com##.sidebarblock
 macrumors.com##.sidebarblock2
 macrumors.com##.tertiary
+
+masterduelmeta.com##.ad-slot
 
 memoryzone.com.vn##.bottom
 memoryzone.com.vn##.topbar-slider
