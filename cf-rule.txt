@@ -24,6 +24,7 @@
 ||adsafeprotected.com^
 ||adservme.com^
 ||adskeeper.com^
+||adsota.com^
 ||adsymptotic.com^
 ||adthrive.com^
 ||adtilt.com^
@@ -31,6 +32,7 @@
 ||adtrue.com^
 ||advertising.com^
 ||advertnative.com^
+||adxcontent.com^
 ||amazon-adsystem.com^
 ||ampiri.com^
 ||amplitude.com^
@@ -62,6 +64,7 @@
 ||casalemedia.com^
 ||celtra.com^
 ||chartboost.com^
+||cityads.com^
 ||clksite.com^
 ||cobalten.com^
 ||cococx.com^
@@ -79,18 +82,22 @@
 ||dfnb-ads.com^
 ||distinctrobin.com^
 ||dmca.com^
+||donglogs.com^
 ||ebetoni.com^
 ||egldvmz.com^
 ||electranowel.com^
 ||enchroe.com^
+||engdhnfrc.com^
 ||evidon.com^
 ||exdynsrv.com^
 ||exosrv.com^
+||fastly-insights.com^
 ||filetarget.com^
 ||floodprincipal.com^
 ||flurry.com^
 ||formalhood.com^
 ||freshmarketer.com^
+||fuywsmvxhtg.com^
 ||galas3xy.com^
 ||gammaplatform.com^
 ||genieessp.com^
@@ -103,6 +110,7 @@
 ||greystripe.com^
 ||gvt2.com^
 ||hadarone.com^
+||hotbqzlchps.com^
 ||hotjar.com^
 ||hs-banner.com^
 ||hs-scripts.com^
@@ -122,6 +130,7 @@
 ||jwpltx.com^
 ||jwplayer.com^
 ||kaprila.com^
+||kernh41.com^
 ||kochava.com^
 ||kzvcggahkgm.com^
 ||lrqknpk.com^
@@ -129,6 +138,7 @@
 ||moatads.com^
 ||mopub.com^
 ||nexage.com^
+||ngfycrwwd.com^
 ||nitropay.com^
 ||nomorepecans.com^
 ||nopickytime.com^
@@ -146,6 +156,8 @@
 ||pocvip.com^
 ||poosoahe.com^
 ||popmyads.com^
+||proadscdn.com^
+||pubtrky.com^
 ||push-sdk.com^
 ||q00gle.com^
 ||quantcount.com^
@@ -154,11 +166,13 @@
 ||realsrv.com^
 ||registeridm.com^
 ||reklamstore.com^
+||rhrim.com^
 ||s1-adfly.com^
 ||s2block.com^
 ||samsungads.com^
 ||sbbanner.com^
 ||scorecardresearch.com^
+||seedtag.com^
 ||segment.com^
 ||sharethis.com^
 ||signifyd.com^
@@ -192,9 +206,11 @@
 ||weaveradrenaline.com^
 ||whingewost.com^
 ||wufoo.com^
+||xubcnzfex.com^
 ||youradexchange.com^
 ||zcoup.com^
 ||zenmxapps.com^
+||zi-scripts.com^
 ||ziffstatic.com^
 ||zintrack.com^
 
@@ -220,6 +236,7 @@
 ||live-video.net^
 ||mnet-ad.net^
 ||native-ad.net^
+||onfluencer.net^
 ||polyad.net^
 ||popads.net^
 ||smaato.net^
@@ -227,6 +244,7 @@
 ||trafficjunky.net^
 ||typekit.net^
 ||uidsync.net^
+||yoads.net^
 ||zdbb.net^
 
 ||admicro.vn^
@@ -237,14 +255,20 @@
 ||adsplus.vn^
 ||adtima.vn^
 ||adtimaserver.vn^
+||adx.vn^
+||ambientplatform.vn^
 ||amcdn.vn^
+||anthill.vn^
 ||ants.vn^
 ||beblue.vn^
 ||cache.vn^
 ||cleverads.vn^
 ||cnnd.vn^
 ||eclick.vn^
+||gostats.vn^
+||klick.vn^
 ||novanet.vn^
+||pinetech.vn^
 ||qccoccocmedia.vn^
 ||realclick.vn^
 ||sapoapps.vn^
@@ -268,6 +292,7 @@
 ||ampproject.org^
 ||amung.us^
 ||atentherel.org^
+||autoads.asia^
 ||barlessclueing.life^
 ||bbb.org^
 ||bepolite.eu^
@@ -282,14 +307,17 @@
 ||cryptobrowser.site^
 ||dable.io^
 ||dthepeoplewhoc.org^
+||flygame.io^
 ||geniee.jp^
 ||genieesspv.jp^
 ||g--o.info^
+||iads.vision^
 ||impact-ad.jp^
 ||jads.co^
 ||likr.tw^
 ||likr.com.tw^
 ||lucklayed.info^
+||mclick.mobi^
 ||mycdn.co^
 ||mxhnkn.pro^
 ||padition.online^
@@ -315,6 +343,7 @@
 ||ad.daum.net^
 ||ad.org.vn^
 ||ad.xiaomi.com^
+||ad.zing.vn^
 ||ads.linkedin.com^
 ||ads.oppomobile.com^
 ||ads.pinterest.com^
@@ -323,6 +352,7 @@
 ||ads.tiktok.com^
 ||ads.youtube.com^
 ||ads.zalo.me^
+||ads.zaloapp.com^
 ||ads-api.tiktok.com^
 ||adservice.google.com^
 ||adservice.google.com.vn^
@@ -337,13 +367,16 @@
 ||analytics.tiktok.com^
 ||api-adservices.apple.com^
 ||appmetrica.yandex.net^
+||brand.zing.vn^
 ||c-api-bit.shopeemobile.com^
 ||click.googleanalytics.com^
+||customers.fptad.com^
 ||device-metrics-us.amazon.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
 ||firebaselogging-pa.googleapis.com^
 ||qc.coccoc.com^
+||iads.staticscdn.net^
 ||iadsdk.apple.com^
 ||log.api.zaloapp.com^
 ||log.baomoi.com^

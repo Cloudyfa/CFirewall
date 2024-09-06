@@ -74,6 +74,8 @@ gamecopyworld.com##[href^="is.php"]
 gamecopyworld.com###basePopping
 gamecopyworld.com###news
 
+gamerant.com##.ad-zone
+
 gamersky.com##.pcWuKongCode
 
 gearvn.com##.collection-header
@@ -146,6 +148,9 @@ motgame.vn##.mga-ad
 motgame.vn##.random_mg
 motgame.vn##.MASTERCMS_MEDIA_BOX
 
+neoseeker.com##.section-ad
+neoseeker.com###ads_page_top
+
 nexusmods.com##.ads
 nexusmods.com##.video-ad
 
@@ -153,6 +158,9 @@ nhaccuatui.com##.nqc-zone
 nhaccuatui.com###right_support_online
 
 nhattao.com##.adWidget
+
+pcgamer.com##.ad-unit
+pcgamer.com##.dfp-leaderboard-container
 
 phimmoiiii.net##.module_home_ads
 phimmoiiii.net##.module_single_ads

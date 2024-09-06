@@ -24,6 +24,7 @@
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adservme.com
 0.0.0.0 adskeeper.com
+0.0.0.0 adsota.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adthrive.com
 0.0.0.0 adtilt.com
@@ -31,6 +32,7 @@
 0.0.0.0 adtrue.com
 0.0.0.0 advertising.com
 0.0.0.0 advertnative.com
+0.0.0.0 adxcontent.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 ampiri.com
 0.0.0.0 amplitude.com
@@ -62,6 +64,7 @@
 0.0.0.0 casalemedia.com
 0.0.0.0 celtra.com
 0.0.0.0 chartboost.com
+0.0.0.0 cityads.com
 0.0.0.0 clksite.com
 0.0.0.0 cobalten.com
 0.0.0.0 cococx.com
@@ -79,18 +82,22 @@
 0.0.0.0 dfnb-ads.com
 0.0.0.0 distinctrobin.com
 0.0.0.0 dmca.com
+0.0.0.0 donglogs.com
 0.0.0.0 ebetoni.com
 0.0.0.0 egldvmz.com
 0.0.0.0 electranowel.com
 0.0.0.0 enchroe.com
+0.0.0.0 engdhnfrc.com
 0.0.0.0 evidon.com
 0.0.0.0 exdynsrv.com
 0.0.0.0 exosrv.com
+0.0.0.0 fastly-insights.com
 0.0.0.0 filetarget.com
 0.0.0.0 floodprincipal.com
 0.0.0.0 flurry.com
 0.0.0.0 formalhood.com
 0.0.0.0 freshmarketer.com
+0.0.0.0 fuywsmvxhtg.com
 0.0.0.0 galas3xy.com
 0.0.0.0 gammaplatform.com
 0.0.0.0 genieessp.com
@@ -103,6 +110,7 @@
 0.0.0.0 greystripe.com
 0.0.0.0 gvt2.com
 0.0.0.0 hadarone.com
+0.0.0.0 hotbqzlchps.com
 0.0.0.0 hotjar.com
 0.0.0.0 hs-banner.com
 0.0.0.0 hs-scripts.com
@@ -122,6 +130,7 @@
 0.0.0.0 jwpltx.com
 0.0.0.0 jwplayer.com
 0.0.0.0 kaprila.com
+0.0.0.0 kernh41.com
 0.0.0.0 kochava.com
 0.0.0.0 kzvcggahkgm.com
 0.0.0.0 lrqknpk.com
@@ -129,6 +138,7 @@
 0.0.0.0 moatads.com
 0.0.0.0 mopub.com
 0.0.0.0 nexage.com
+0.0.0.0 ngfycrwwd.com
 0.0.0.0 nitropay.com
 0.0.0.0 nomorepecans.com
 0.0.0.0 nopickytime.com
@@ -146,6 +156,8 @@
 0.0.0.0 pocvip.com
 0.0.0.0 poosoahe.com
 0.0.0.0 popmyads.com
+0.0.0.0 proadscdn.com
+0.0.0.0 pubtrky.com
 0.0.0.0 push-sdk.com
 0.0.0.0 q00gle.com
 0.0.0.0 quantcount.com
@@ -154,11 +166,13 @@
 0.0.0.0 realsrv.com
 0.0.0.0 registeridm.com
 0.0.0.0 reklamstore.com
+0.0.0.0 rhrim.com
 0.0.0.0 s1-adfly.com
 0.0.0.0 s2block.com
 0.0.0.0 samsungads.com
 0.0.0.0 sbbanner.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 seedtag.com
 0.0.0.0 segment.com
 0.0.0.0 sharethis.com
 0.0.0.0 signifyd.com
@@ -192,9 +206,11 @@
 0.0.0.0 weaveradrenaline.com
 0.0.0.0 whingewost.com
 0.0.0.0 wufoo.com
+0.0.0.0 xubcnzfex.com
 0.0.0.0 youradexchange.com
 0.0.0.0 zcoup.com
 0.0.0.0 zenmxapps.com
+0.0.0.0 zi-scripts.com
 0.0.0.0 ziffstatic.com
 0.0.0.0 zintrack.com
 
@@ -220,6 +236,7 @@
 0.0.0.0 live-video.net
 0.0.0.0 mnet-ad.net
 0.0.0.0 native-ad.net
+0.0.0.0 onfluencer.net
 0.0.0.0 polyad.net
 0.0.0.0 popads.net
 0.0.0.0 smaato.net
@@ -227,6 +244,7 @@
 0.0.0.0 trafficjunky.net
 0.0.0.0 typekit.net
 0.0.0.0 uidsync.net
+0.0.0.0 yoads.net
 0.0.0.0 zdbb.net
 
 0.0.0.0 admicro.vn
@@ -237,14 +255,20 @@
 0.0.0.0 adsplus.vn
 0.0.0.0 adtima.vn
 0.0.0.0 adtimaserver.vn
+0.0.0.0 adx.vn
+0.0.0.0 ambientplatform.vn
 0.0.0.0 amcdn.vn
+0.0.0.0 anthill.vn
 0.0.0.0 ants.vn
 0.0.0.0 beblue.vn
 0.0.0.0 cache.vn
 0.0.0.0 cleverads.vn
 0.0.0.0 cnnd.vn
 0.0.0.0 eclick.vn
+0.0.0.0 gostats.vn
+0.0.0.0 klick.vn
 0.0.0.0 novanet.vn
+0.0.0.0 pinetech.vn
 0.0.0.0 qccoccocmedia.vn
 0.0.0.0 realclick.vn
 0.0.0.0 sapoapps.vn
@@ -268,6 +292,7 @@
 0.0.0.0 ampproject.org
 0.0.0.0 amung.us
 0.0.0.0 atentherel.org
+0.0.0.0 autoads.asia
 0.0.0.0 barlessclueing.life
 0.0.0.0 bbb.org
 0.0.0.0 bepolite.eu
@@ -282,14 +307,17 @@
 0.0.0.0 cryptobrowser.site
 0.0.0.0 dable.io
 0.0.0.0 dthepeoplewhoc.org
+0.0.0.0 flygame.io
 0.0.0.0 geniee.jp
 0.0.0.0 genieesspv.jp
 0.0.0.0 g--o.info
+0.0.0.0 iads.vision
 0.0.0.0 impact-ad.jp
 0.0.0.0 jads.co
 0.0.0.0 likr.tw
 0.0.0.0 likr.com.tw
 0.0.0.0 lucklayed.info
+0.0.0.0 mclick.mobi
 0.0.0.0 mycdn.co
 0.0.0.0 mxhnkn.pro
 0.0.0.0 padition.online
@@ -315,6 +343,7 @@
 0.0.0.0 ad.daum.net
 0.0.0.0 ad.org.vn
 0.0.0.0 ad.xiaomi.com
+0.0.0.0 ad.zing.vn
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pinterest.com
@@ -323,6 +352,7 @@
 0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ads.zalo.me
+0.0.0.0 ads.zaloapp.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.vn
@@ -337,13 +367,16 @@
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 appmetrica.yandex.net
+0.0.0.0 brand.zing.vn
 0.0.0.0 c-api-bit.shopeemobile.com
 0.0.0.0 click.googleanalytics.com
+0.0.0.0 customers.fptad.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 qc.coccoc.com
+0.0.0.0 iads.staticscdn.net
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 log.baomoi.com
