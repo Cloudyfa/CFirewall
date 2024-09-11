@@ -101,7 +101,6 @@ FINAL,DIRECT
 *egldvmz.com = 0.0.0.0
 *electranowel.com = 0.0.0.0
 *enchroe.com = 0.0.0.0
-*engdhnfrc.com = 0.0.0.0
 *evidon.com = 0.0.0.0
 *exdynsrv.com = 0.0.0.0
 *exosrv.com = 0.0.0.0
@@ -111,7 +110,6 @@ FINAL,DIRECT
 *flurry.com = 0.0.0.0
 *formalhood.com = 0.0.0.0
 *freshmarketer.com = 0.0.0.0
-*fuywsmvxhtg.com = 0.0.0.0
 *galas3xy.com = 0.0.0.0
 *gammaplatform.com = 0.0.0.0
 *genieessp.com = 0.0.0.0
@@ -124,7 +122,6 @@ FINAL,DIRECT
 *greystripe.com = 0.0.0.0
 *gvt2.com = 0.0.0.0
 *hadarone.com = 0.0.0.0
-*hotbqzlchps.com = 0.0.0.0
 *hotjar.com = 0.0.0.0
 *hs-banner.com = 0.0.0.0
 *hs-scripts.com = 0.0.0.0
@@ -146,13 +143,10 @@ FINAL,DIRECT
 *kaprila.com = 0.0.0.0
 *kernh41.com = 0.0.0.0
 *kochava.com = 0.0.0.0
-*kzvcggahkgm.com = 0.0.0.0
-*lrqknpk.com = 0.0.0.0
 *mgid.com = 0.0.0.0
 *moatads.com = 0.0.0.0
 *mopub.com = 0.0.0.0
 *nexage.com = 0.0.0.0
-*ngfycrwwd.com = 0.0.0.0
 *nitropay.com = 0.0.0.0
 *nomorepecans.com = 0.0.0.0
 *nopickytime.com = 0.0.0.0
@@ -166,6 +160,7 @@ FINAL,DIRECT
 *opus-static.com = 0.0.0.0
 *orbsrv.com = 0.0.0.0
 *outbrain.com = 0.0.0.0
+*partwithner.com = 0.0.0.0
 *pipezero.com = 0.0.0.0
 *pocvip.com = 0.0.0.0
 *poosoahe.com = 0.0.0.0
@@ -189,6 +184,7 @@ FINAL,DIRECT
 *seedtag.com = 0.0.0.0
 *segment.com = 0.0.0.0
 *sharethis.com = 0.0.0.0
+*show-sb.com = 0.0.0.0
 *signifyd.com = 0.0.0.0
 *smartadserver.com = 0.0.0.0
 *speedcurve.com = 0.0.0.0
@@ -210,6 +206,7 @@ FINAL,DIRECT
 *tsyndicate.com = 0.0.0.0
 *ufpcdn.com = 0.0.0.0
 *unrulymedia.com = 0.0.0.0
+*unseenreport.com = 0.0.0.0
 *userreport.com = 0.0.0.0
 *velocecdn.com = 0.0.0.0
 *velti.com = 0.0.0.0
@@ -219,8 +216,8 @@ FINAL,DIRECT
 *vungle.com = 0.0.0.0
 *weaveradrenaline.com = 0.0.0.0
 *whingewost.com = 0.0.0.0
+*whiskeydepositopinion.com = 0.0.0.0
 *wufoo.com = 0.0.0.0
-*xubcnzfex.com = 0.0.0.0
 *youradexchange.com = 0.0.0.0
 *zcoup.com = 0.0.0.0
 *zenmxapps.com = 0.0.0.0
@@ -270,6 +267,7 @@ FINAL,DIRECT
 *adtima.vn = 0.0.0.0
 *adtimaserver.vn = 0.0.0.0
 *adx.vn = 0.0.0.0
+*aiservice.vn = 0.0.0.0
 *ambientplatform.vn = 0.0.0.0
 *amcdn.vn = 0.0.0.0
 *anthill.vn = 0.0.0.0
@@ -301,7 +299,6 @@ FINAL,DIRECT
 *adsrvr.org = 0.0.0.0
 *adtech.de = 0.0.0.0
 *adtrafficquality.google = 0.0.0.0
-*aiservice.vn = 0.0.0.0
 *aj1559.online = 0.0.0.0
 *ampproject.org = 0.0.0.0
 *amung.us = 0.0.0.0
@@ -401,6 +398,7 @@ mistat.xiaomi.com = 0.0.0.0
 networksdk.ssacdn.com = 0.0.0.0
 ot.io.mi.com = 0.0.0.0
 pipe.aria.microsoft.com = 0.0.0.0
+qcv5.blogtruyenmoi.com = 0.0.0.0
 s1.gamecopyworld.click = 0.0.0.0
 sdk.zadn.vn = 0.0.0.0
 self.events.data.microsoft.com = 0.0.0.0

@@ -87,7 +87,6 @@
 ||egldvmz.com^
 ||electranowel.com^
 ||enchroe.com^
-||engdhnfrc.com^
 ||evidon.com^
 ||exdynsrv.com^
 ||exosrv.com^
@@ -97,7 +96,6 @@
 ||flurry.com^
 ||formalhood.com^
 ||freshmarketer.com^
-||fuywsmvxhtg.com^
 ||galas3xy.com^
 ||gammaplatform.com^
 ||genieessp.com^
@@ -110,7 +108,6 @@
 ||greystripe.com^
 ||gvt2.com^
 ||hadarone.com^
-||hotbqzlchps.com^
 ||hotjar.com^
 ||hs-banner.com^
 ||hs-scripts.com^
@@ -132,13 +129,10 @@
 ||kaprila.com^
 ||kernh41.com^
 ||kochava.com^
-||kzvcggahkgm.com^
-||lrqknpk.com^
 ||mgid.com^
 ||moatads.com^
 ||mopub.com^
 ||nexage.com^
-||ngfycrwwd.com^
 ||nitropay.com^
 ||nomorepecans.com^
 ||nopickytime.com^
@@ -152,6 +146,7 @@
 ||opus-static.com^
 ||orbsrv.com^
 ||outbrain.com^
+||partwithner.com^
 ||pipezero.com^
 ||pocvip.com^
 ||poosoahe.com^
@@ -175,6 +170,7 @@
 ||seedtag.com^
 ||segment.com^
 ||sharethis.com^
+||show-sb.com^
 ||signifyd.com^
 ||smartadserver.com^
 ||speedcurve.com^
@@ -196,6 +192,7 @@
 ||tsyndicate.com^
 ||ufpcdn.com^
 ||unrulymedia.com^
+||unseenreport.com^
 ||userreport.com^
 ||velocecdn.com^
 ||velti.com^
@@ -205,8 +202,8 @@
 ||vungle.com^
 ||weaveradrenaline.com^
 ||whingewost.com^
+||whiskeydepositopinion.com^
 ||wufoo.com^
-||xubcnzfex.com^
 ||youradexchange.com^
 ||zcoup.com^
 ||zenmxapps.com^
@@ -256,6 +253,7 @@
 ||adtima.vn^
 ||adtimaserver.vn^
 ||adx.vn^
+||aiservice.vn^
 ||ambientplatform.vn^
 ||amcdn.vn^
 ||anthill.vn^
@@ -287,7 +285,6 @@
 ||adsrvr.org^
 ||adtech.de^
 ||adtrafficquality.google^
-||aiservice.vn^
 ||aj1559.online^
 ||ampproject.org^
 ||amung.us^
@@ -387,6 +384,7 @@
 ||networksdk.ssacdn.com^
 ||ot.io.mi.com^
 ||pipe.aria.microsoft.com^
+||qcv5.blogtruyenmoi.com^
 ||s1.gamecopyworld.click^
 ||sdk.zadn.vn^
 ||self.events.data.microsoft.com^

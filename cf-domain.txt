@@ -23,6 +23,7 @@
 0.0.0.0 adroll.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adservme.com
+0.0.0.0 adservrs.com
 0.0.0.0 adskeeper.com
 0.0.0.0 adsota.com
 0.0.0.0 adsymptotic.com
@@ -62,6 +63,7 @@
 0.0.0.0 calumetburka.com
 0.0.0.0 carbonads.com
 0.0.0.0 casalemedia.com
+0.0.0.0 cavbildi.com
 0.0.0.0 celtra.com
 0.0.0.0 chartboost.com
 0.0.0.0 cityads.com
@@ -87,7 +89,6 @@
 0.0.0.0 egldvmz.com
 0.0.0.0 electranowel.com
 0.0.0.0 enchroe.com
-0.0.0.0 engdhnfrc.com
 0.0.0.0 evidon.com
 0.0.0.0 exdynsrv.com
 0.0.0.0 exosrv.com
@@ -97,7 +98,6 @@
 0.0.0.0 flurry.com
 0.0.0.0 formalhood.com
 0.0.0.0 freshmarketer.com
-0.0.0.0 fuywsmvxhtg.com
 0.0.0.0 galas3xy.com
 0.0.0.0 gammaplatform.com
 0.0.0.0 genieessp.com
@@ -110,7 +110,6 @@
 0.0.0.0 greystripe.com
 0.0.0.0 gvt2.com
 0.0.0.0 hadarone.com
-0.0.0.0 hotbqzlchps.com
 0.0.0.0 hotjar.com
 0.0.0.0 hs-banner.com
 0.0.0.0 hs-scripts.com
@@ -132,13 +131,10 @@
 0.0.0.0 kaprila.com
 0.0.0.0 kernh41.com
 0.0.0.0 kochava.com
-0.0.0.0 kzvcggahkgm.com
-0.0.0.0 lrqknpk.com
 0.0.0.0 mgid.com
 0.0.0.0 moatads.com
 0.0.0.0 mopub.com
 0.0.0.0 nexage.com
-0.0.0.0 ngfycrwwd.com
 0.0.0.0 nitropay.com
 0.0.0.0 nomorepecans.com
 0.0.0.0 nopickytime.com
@@ -152,6 +148,7 @@
 0.0.0.0 opus-static.com
 0.0.0.0 orbsrv.com
 0.0.0.0 outbrain.com
+0.0.0.0 partwithner.com
 0.0.0.0 pipezero.com
 0.0.0.0 pocvip.com
 0.0.0.0 poosoahe.com
@@ -175,6 +172,7 @@
 0.0.0.0 seedtag.com
 0.0.0.0 segment.com
 0.0.0.0 sharethis.com
+0.0.0.0 show-sb.com
 0.0.0.0 signifyd.com
 0.0.0.0 smartadserver.com
 0.0.0.0 speedcurve.com
@@ -196,6 +194,7 @@
 0.0.0.0 tsyndicate.com
 0.0.0.0 ufpcdn.com
 0.0.0.0 unrulymedia.com
+0.0.0.0 unseenreport.com
 0.0.0.0 userreport.com
 0.0.0.0 velocecdn.com
 0.0.0.0 velti.com
@@ -205,8 +204,9 @@
 0.0.0.0 vungle.com
 0.0.0.0 weaveradrenaline.com
 0.0.0.0 whingewost.com
+0.0.0.0 whiskeydepositopinion.com
 0.0.0.0 wufoo.com
-0.0.0.0 xubcnzfex.com
+0.0.0.0 yonmewon.com
 0.0.0.0 youradexchange.com
 0.0.0.0 zcoup.com
 0.0.0.0 zenmxapps.com
@@ -256,6 +256,7 @@
 0.0.0.0 adtima.vn
 0.0.0.0 adtimaserver.vn
 0.0.0.0 adx.vn
+0.0.0.0 aiservice.vn
 0.0.0.0 ambientplatform.vn
 0.0.0.0 amcdn.vn
 0.0.0.0 anthill.vn
@@ -282,12 +283,12 @@
 0.0.0.0 adbro.me
 0.0.0.0 adflex.asia
 0.0.0.0 adlane.info
+0.0.0.0 adlive.io
 0.0.0.0 adop.asia
 0.0.0.0 adsco.re
 0.0.0.0 adsrvr.org
 0.0.0.0 adtech.de
 0.0.0.0 adtrafficquality.google
-0.0.0.0 aiservice.vn
 0.0.0.0 aj1559.online
 0.0.0.0 ampproject.org
 0.0.0.0 amung.us
@@ -387,6 +388,7 @@
 0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 ot.io.mi.com
 0.0.0.0 pipe.aria.microsoft.com
+0.0.0.0 qcv5.blogtruyenmoi.com
 0.0.0.0 s1.gamecopyworld.click
 0.0.0.0 sdk.zadn.vn
 0.0.0.0 self.events.data.microsoft.com

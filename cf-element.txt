@@ -224,6 +224,7 @@ truyentuan.xyz##.doc-truyen-ads-d2
 truyentuan.xyz###banner_preload
 truyentuan.xyz###fixed_ad_bottom
 truyentuan.xyz###fixed_ad_left
+truyentuan.xyz/wp-content/themes/nos/js/pop-before.js
 
 truyenqqto.com###ad_info
 truyenqqto.com###ad_info_top
@@ -275,6 +276,7 @@ youtube.com###companion
 youtube.com###masthead-ad
 
 yts.mx##.ioo
+yts.mx##+js(aopr, window.aclib)
 
 zing.vn###app
 zing.vn###highlight
