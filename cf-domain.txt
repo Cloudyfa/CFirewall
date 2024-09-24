@@ -10,6 +10,7 @@
 0.0.0.0 a2gw.com
 0.0.0.0 aaxads.com
 0.0.0.0 ad4game.com
+0.0.0.0 adasiaholdings.com
 0.0.0.0 adcolony.com
 0.0.0.0 addthis.com
 0.0.0.0 adincube.com
@@ -26,6 +27,7 @@
 0.0.0.0 adservrs.com
 0.0.0.0 adskeeper.com
 0.0.0.0 adsota.com
+0.0.0.0 adsparc.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adthrive.com
 0.0.0.0 adtilt.com
@@ -34,6 +36,8 @@
 0.0.0.0 advertising.com
 0.0.0.0 advertnative.com
 0.0.0.0 adxcontent.com
+0.0.0.0 affmates.com
+0.0.0.0 affordedseasick.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 ampiri.com
 0.0.0.0 amplitude.com
@@ -72,6 +76,7 @@
 0.0.0.0 cococx.com
 0.0.0.0 connatix.com
 0.0.0.0 contineljs.com
+0.0.0.0 couldblindly.com
 0.0.0.0 cpmstar.com
 0.0.0.0 crashlytics.com
 0.0.0.0 criteo.com
@@ -85,6 +90,7 @@
 0.0.0.0 distinctrobin.com
 0.0.0.0 dmca.com
 0.0.0.0 donglogs.com
+0.0.0.0 dtadnetwork.com
 0.0.0.0 ebetoni.com
 0.0.0.0 egldvmz.com
 0.0.0.0 electranowel.com
@@ -98,6 +104,7 @@
 0.0.0.0 flurry.com
 0.0.0.0 formalhood.com
 0.0.0.0 freshmarketer.com
+0.0.0.0 g2crowd.com
 0.0.0.0 galas3xy.com
 0.0.0.0 gammaplatform.com
 0.0.0.0 genieessp.com
@@ -131,6 +138,7 @@
 0.0.0.0 kaprila.com
 0.0.0.0 kernh41.com
 0.0.0.0 kochava.com
+0.0.0.0 mepuzz.com
 0.0.0.0 mgid.com
 0.0.0.0 moatads.com
 0.0.0.0 mopub.com
@@ -156,14 +164,17 @@
 0.0.0.0 proadscdn.com
 0.0.0.0 pubtrky.com
 0.0.0.0 push-sdk.com
+0.0.0.0 pushtimize.com
 0.0.0.0 q00gle.com
 0.0.0.0 quantcount.com
 0.0.0.0 quantserve.com
 0.0.0.0 rayjump.com
 0.0.0.0 realsrv.com
+0.0.0.0 recommendednewspapermyself.com
 0.0.0.0 registeridm.com
 0.0.0.0 reklamstore.com
 0.0.0.0 rhrim.com
+0.0.0.0 ryazabti.com
 0.0.0.0 s1-adfly.com
 0.0.0.0 s2block.com
 0.0.0.0 samsungads.com
@@ -175,6 +186,7 @@
 0.0.0.0 show-sb.com
 0.0.0.0 signifyd.com
 0.0.0.0 smartadserver.com
+0.0.0.0 sourcetobin.com
 0.0.0.0 speedcurve.com
 0.0.0.0 ss-platform.com
 0.0.0.0 stablesunflower.com
@@ -199,15 +211,19 @@
 0.0.0.0 velocecdn.com
 0.0.0.0 velti.com
 0.0.0.0 veryn1ce.com
+0.0.0.0 vidoomy.com
 0.0.0.0 vlitag.com
 0.0.0.0 vsmvideo.com
 0.0.0.0 vungle.com
+0.0.0.0 wataads.com
 0.0.0.0 weaveradrenaline.com
 0.0.0.0 whingewost.com
 0.0.0.0 whiskeydepositopinion.com
 0.0.0.0 wufoo.com
+0.0.0.0 yeah1publishing.com
 0.0.0.0 yonmewon.com
 0.0.0.0 youradexchange.com
+0.0.0.0 v9banners.com
 0.0.0.0 zcoup.com
 0.0.0.0 zenmxapps.com
 0.0.0.0 zi-scripts.com
@@ -228,6 +244,7 @@
 0.0.0.0 criteo.net
 0.0.0.0 doubleclick.net
 0.0.0.0 filetarget.net
+0.0.0.0 fly-ads.net
 0.0.0.0 hadarone.net
 0.0.0.0 hubspotusercontent-na1.net
 0.0.0.0 innity.net
@@ -237,6 +254,7 @@
 0.0.0.0 mnet-ad.net
 0.0.0.0 native-ad.net
 0.0.0.0 onfluencer.net
+0.0.0.0 onmarketer.net
 0.0.0.0 polyad.net
 0.0.0.0 popads.net
 0.0.0.0 smaato.net
@@ -247,6 +265,8 @@
 0.0.0.0 yoads.net
 0.0.0.0 zdbb.net
 
+0.0.0.0 aanetwork.vn
+0.0.0.0 adflex.vn
 0.0.0.0 admicro.vn
 0.0.0.0 adnet.vn
 0.0.0.0 adnetwork.vn
@@ -257,6 +277,7 @@
 0.0.0.0 adtimaserver.vn
 0.0.0.0 adx.vn
 0.0.0.0 aiservice.vn
+0.0.0.0 akadigital.vn
 0.0.0.0 ambientplatform.vn
 0.0.0.0 amcdn.vn
 0.0.0.0 anthill.vn
@@ -268,12 +289,18 @@
 0.0.0.0 eclick.vn
 0.0.0.0 gostats.vn
 0.0.0.0 klick.vn
+0.0.0.0 mediaz.vn
+0.0.0.0 mobilead.vn
 0.0.0.0 novanet.vn
+0.0.0.0 piads.vn
 0.0.0.0 pinetech.vn
+0.0.0.0 pushdy.vn
 0.0.0.0 qccoccocmedia.vn
 0.0.0.0 realclick.vn
 0.0.0.0 sapoapps.vn
+0.0.0.0 slimads.vn
 0.0.0.0 uniad.vn
+0.0.0.0 vads.vn
 0.0.0.0 vietad.vn
 0.0.0.0 vietnamnetad.vn
 0.0.0.0 vnay.vn
@@ -281,7 +308,6 @@
 
 0.0.0.0 91p20.space
 0.0.0.0 adbro.me
-0.0.0.0 adflex.asia
 0.0.0.0 adlane.info
 0.0.0.0 adlive.io
 0.0.0.0 adop.asia
@@ -289,6 +315,7 @@
 0.0.0.0 adsrvr.org
 0.0.0.0 adtech.de
 0.0.0.0 adtrafficquality.google
+0.0.0.0 aiactiv.io
 0.0.0.0 aj1559.online
 0.0.0.0 ampproject.org
 0.0.0.0 amung.us
@@ -301,7 +328,9 @@
 0.0.0.0 blueseed.tv
 0.0.0.0 brand.ad
 0.0.0.0 branch.io
+0.0.0.0 brightdata.de
 0.0.0.0 can-get-some.in
+0.0.0.0 cdp.asia
 0.0.0.0 clean.gg
 0.0.0.0 cliphub.io
 0.0.0.0 cookielaw.org
@@ -313,12 +342,14 @@
 0.0.0.0 genieesspv.jp
 0.0.0.0 g--o.info
 0.0.0.0 iads.vision
+0.0.0.0 ibb.co
 0.0.0.0 impact-ad.jp
 0.0.0.0 jads.co
 0.0.0.0 likr.tw
 0.0.0.0 likr.com.tw
 0.0.0.0 lucklayed.info
 0.0.0.0 mclick.mobi
+0.0.0.0 mediad.asia
 0.0.0.0 mycdn.co
 0.0.0.0 mxhnkn.pro
 0.0.0.0 padition.online
@@ -333,6 +364,7 @@
 0.0.0.0 sentry.io
 0.0.0.0 silencyboubous.space
 0.0.0.0 tjme.io
+0.0.0.0 tpmedia.online
 0.0.0.0 trafficfactory.biz
 0.0.0.0 tru.am
 0.0.0.0 ttpsdk.info

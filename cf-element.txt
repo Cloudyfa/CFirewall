@@ -68,7 +68,9 @@ freaktab.com##.guestwarn
 freaktab.com##.notices
 freaktab.com###header
 
+fshare.vn##.bali-a-d
 fshare.vn##.bannerinfooter
+fshare.vn###month_promp_voucher_pp
 
 gamecopyworld.com##[href^="is.php"]
 gamecopyworld.com###basePopping

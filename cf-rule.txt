@@ -10,6 +10,7 @@
 ||a2gw.com^
 ||aaxads.com^
 ||ad4game.com^
+||adasiaholdings.com^
 ||adcolony.com^
 ||addthis.com^
 ||adincube.com^
@@ -23,8 +24,10 @@
 ||adroll.com^
 ||adsafeprotected.com^
 ||adservme.com^
+||adservrs.com^
 ||adskeeper.com^
 ||adsota.com^
+||adsparc.com^
 ||adsymptotic.com^
 ||adthrive.com^
 ||adtilt.com^
@@ -33,6 +36,8 @@
 ||advertising.com^
 ||advertnative.com^
 ||adxcontent.com^
+||affmates.com^
+||affordedseasick.com^
 ||amazon-adsystem.com^
 ||ampiri.com^
 ||amplitude.com^
@@ -62,6 +67,7 @@
 ||calumetburka.com^
 ||carbonads.com^
 ||casalemedia.com^
+||cavbildi.com^
 ||celtra.com^
 ||chartboost.com^
 ||cityads.com^
@@ -70,6 +76,7 @@
 ||cococx.com^
 ||connatix.com^
 ||contineljs.com^
+||couldblindly.com^
 ||cpmstar.com^
 ||crashlytics.com^
 ||criteo.com^
@@ -83,6 +90,7 @@
 ||distinctrobin.com^
 ||dmca.com^
 ||donglogs.com^
+||dtadnetwork.com^
 ||ebetoni.com^
 ||egldvmz.com^
 ||electranowel.com^
@@ -96,6 +104,7 @@
 ||flurry.com^
 ||formalhood.com^
 ||freshmarketer.com^
+||g2crowd.com^
 ||galas3xy.com^
 ||gammaplatform.com^
 ||genieessp.com^
@@ -129,6 +138,7 @@
 ||kaprila.com^
 ||kernh41.com^
 ||kochava.com^
+||mepuzz.com^
 ||mgid.com^
 ||moatads.com^
 ||mopub.com^
@@ -154,14 +164,17 @@
 ||proadscdn.com^
 ||pubtrky.com^
 ||push-sdk.com^
+||pushtimize.com
 ||q00gle.com^
 ||quantcount.com^
 ||quantserve.com^
 ||rayjump.com^
 ||realsrv.com^
+||recommendednewspapermyself.com^
 ||registeridm.com^
 ||reklamstore.com^
 ||rhrim.com^
+||ryazabti.com^
 ||s1-adfly.com^
 ||s2block.com^
 ||samsungads.com^
@@ -173,6 +186,7 @@
 ||show-sb.com^
 ||signifyd.com^
 ||smartadserver.com^
+||sourcetobin.com^
 ||speedcurve.com^
 ||ss-platform.com^
 ||stablesunflower.com^
@@ -197,14 +211,19 @@
 ||velocecdn.com^
 ||velti.com^
 ||veryn1ce.com^
+||vidoomy.com^
 ||vlitag.com^
 ||vsmvideo.com^
 ||vungle.com^
+||wataads.com^
 ||weaveradrenaline.com^
 ||whingewost.com^
 ||whiskeydepositopinion.com^
 ||wufoo.com^
+||yeah1publishing.com^
+||yonmewon.com^
 ||youradexchange.com^
+||v9banners.com^
 ||zcoup.com^
 ||zenmxapps.com^
 ||zi-scripts.com^
@@ -225,6 +244,7 @@
 ||criteo.net^
 ||doubleclick.net^
 ||filetarget.net^
+||fly-ads.net^
 ||hadarone.net^
 ||hubspotusercontent-na1.net^
 ||innity.net^
@@ -234,6 +254,7 @@
 ||mnet-ad.net^
 ||native-ad.net^
 ||onfluencer.net^
+||onmarketer.net^
 ||polyad.net^
 ||popads.net^
 ||smaato.net^
@@ -244,6 +265,8 @@
 ||yoads.net^
 ||zdbb.net^
 
+||aanetwork.vn^
+||adflex.vn^
 ||admicro.vn^
 ||adnet.vn^
 ||adnetwork.vn^
@@ -254,6 +277,7 @@
 ||adtimaserver.vn^
 ||adx.vn^
 ||aiservice.vn^
+||akadigital.vn^
 ||ambientplatform.vn^
 ||amcdn.vn^
 ||anthill.vn^
@@ -265,12 +289,18 @@
 ||eclick.vn^
 ||gostats.vn^
 ||klick.vn^
+||mediaz.vn^
+||mobilead.vn^
 ||novanet.vn^
+||piads.vn^
 ||pinetech.vn^
+||pushdy.vn^
 ||qccoccocmedia.vn^
 ||realclick.vn^
 ||sapoapps.vn^
+||slimads.vn^
 ||uniad.vn^
+||vads.vn^
 ||vietad.vn^
 ||vietnamnetad.vn^
 ||vnay.vn^
@@ -278,13 +308,14 @@
 
 ||91p20.space^
 ||adbro.me^
-||adflex.asia^
 ||adlane.info^
+||adlive.io^
 ||adop.asia^
 ||adsco.re^
 ||adsrvr.org^
 ||adtech.de^
 ||adtrafficquality.google^
+||aiactiv.io^
 ||aj1559.online^
 ||ampproject.org^
 ||amung.us^
@@ -297,7 +328,9 @@
 ||blueseed.tv^
 ||brand.ad^
 ||branch.io^
+||brightdata.de^
 ||can-get-some.in^
+||cdp.asia^
 ||clean.gg^
 ||cliphub.io^
 ||cookielaw.org^
@@ -309,12 +342,14 @@
 ||genieesspv.jp^
 ||g--o.info^
 ||iads.vision^
+||ibb.co^
 ||impact-ad.jp^
 ||jads.co^
 ||likr.tw^
 ||likr.com.tw^
 ||lucklayed.info^
 ||mclick.mobi^
+||mediad.asia^
 ||mycdn.co^
 ||mxhnkn.pro^
 ||padition.online^
@@ -329,6 +364,7 @@
 ||sentry.io^
 ||silencyboubous.space^
 ||tjme.io^
+||tpmedia.online^
 ||trafficfactory.biz^
 ||tru.am^
 ||ttpsdk.info^
