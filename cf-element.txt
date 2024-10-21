@@ -49,6 +49,10 @@ deviantart.com##.ad-container
 deviantart.com##.da-custom-ad-box
 deviantart.com##.partial-ad
 
+diablo.trade##.nitro-card
+
+elevenforum.com##.gads
+
 facebook.com###pagelet_growth_expanding_cta
 
 filecr.com##.ads-wrapper
@@ -94,6 +98,7 @@ hamtruyen.info###box-player
 hamtruyen.info###wrap_qc_banner_top
 
 helltides.com##.av-floating
+helltides.com##.horizontal_sticky
 helltides.com###ad_inactive_map_bottom
 
 hoatieu.vn##.adbox
@@ -138,6 +143,9 @@ monkeyd.vn##.widget-fanpage
 monkeyd.vn###affLayer
 
 mobalytics.gg##aside
+mobalytics.gg##.m-bz6vl
+mobalytics.gg##.m-weeyo9
+mobalytics.gg##.m-x3nnp7
 
 motgame.vn##.adweb
 motgame.vn##.aanetwork-ads-box
@@ -149,6 +157,8 @@ motgame.vn##.mg_bn
 motgame.vn##.mga-ad
 motgame.vn##.random_mg
 motgame.vn##.MASTERCMS_MEDIA_BOX
+
+msn.com##.consumption-page-banner-wrapper
 
 neoseeker.com##.section-ad
 neoseeker.com###ads_page_top
@@ -241,6 +251,7 @@ vnexpress.net##.banner-ads
 vnexpress.net##.box_100
 vnexpress.net##.box_shopvne
 vnexpress.net##.col-right-top
+vnexpress.net##.wrap-hd-adblock
 vnexpress.net###box_shop_footer
 
 voz.vn##.adsbypubpower
