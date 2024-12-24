@@ -109,6 +109,8 @@ hoatieu.vn##.adszone
 hollymoviehd.cc##.content-kuss-ads
 hollymoviehd.cc###galaksionAds
 
+icy-veins.com##.largeBoi
+
 ign.com##.ad-rail-wrapper
 ign.com##.one-up-link
 ign.com##.pogo-slot
@@ -130,6 +132,8 @@ macrumors.com##.sidebarblock2
 macrumors.com##.tertiary
 
 masterduelmeta.com##.ad-slot
+
+maxroll.gg##.bg-opacity-80
 
 memoryzone.com.vn##.bottom
 memoryzone.com.vn##.topbar-slider
@@ -251,6 +255,7 @@ vnexpress.net##.banner-ads
 vnexpress.net##.box_100
 vnexpress.net##.box_shopvne
 vnexpress.net##.col-right-top
+vnexpress.net##.section-ads-top
 vnexpress.net##.wrap-hd-adblock
 vnexpress.net###box_shop_footer
 
