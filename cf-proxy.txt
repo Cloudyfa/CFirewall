@@ -82,6 +82,7 @@ FINAL,DIRECT
 *carbonads.com = 0.0.0.0
 *casalemedia.com = 0.0.0.0
 *cavbildi.com = 0.0.0.0
+*ccg90.com = 0.0.0.0
 *celtra.com = 0.0.0.0
 *chartboost.com = 0.0.0.0
 *cityads.com = 0.0.0.0
@@ -149,7 +150,6 @@ FINAL,DIRECT
 *jumptap.com = 0.0.0.0
 *justanswer.com = 0.0.0.0
 *jwpltx.com = 0.0.0.0
-*jwplayer.com = 0.0.0.0
 *kaprila.com = 0.0.0.0
 *kernh41.com = 0.0.0.0
 *kochava.com = 0.0.0.0
@@ -234,6 +234,7 @@ FINAL,DIRECT
 *weaveradrenaline.com = 0.0.0.0
 *whingewost.com = 0.0.0.0
 *whiskeydepositopinion.com = 0.0.0.0
+*wsmoknnj.com = 0.0.0.0
 *wufoo.com = 0.0.0.0
 *yeah1publishing.com = 0.0.0.0
 *yonmewon.com = 0.0.0.0
@@ -278,6 +279,7 @@ FINAL,DIRECT
 *typekit.net = 0.0.0.0
 *uidsync.net = 0.0.0.0
 *yoads.net = 0.0.0.0
+*yougetwhatyoupayfor.net = 0.0.0.0
 *zdbb.net = 0.0.0.0
 
 *aanetwork.vn = 0.0.0.0

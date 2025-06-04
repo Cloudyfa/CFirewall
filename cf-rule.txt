@@ -68,6 +68,7 @@
 ||carbonads.com^
 ||casalemedia.com^
 ||cavbildi.com^
+||ccg90.com^
 ||celtra.com^
 ||chartboost.com^
 ||cityads.com^
@@ -135,7 +136,6 @@
 ||jumptap.com^
 ||justanswer.com^
 ||jwpltx.com^
-||jwplayer.com^
 ||kaprila.com^
 ||kernh41.com^
 ||kochava.com^
@@ -220,6 +220,7 @@
 ||weaveradrenaline.com^
 ||whingewost.com^
 ||whiskeydepositopinion.com^
+||wsmoknnj.com^
 ||wufoo.com^
 ||yeah1publishing.com^
 ||yonmewon.com^
@@ -264,6 +265,7 @@
 ||typekit.net^
 ||uidsync.net^
 ||yoads.net^
+||yougetwhatyoupayfor.net^
 ||zdbb.net^
 
 ||aanetwork.vn^
