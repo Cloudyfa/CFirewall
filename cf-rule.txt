@@ -63,6 +63,7 @@
 ||btloader.com^
 ||bpmvkvb.com^
 ||bugsnag.com^
+||buteopung.com^
 ||bytepluses.com^
 ||calumetburka.com^
 ||carbonads.com^
@@ -158,6 +159,7 @@
 ||orbsrv.com^
 ||outbrain.com^
 ||partwithner.com^
+||pinimg.com^
 ||pipezero.com^
 ||pocvip.com^
 ||poosoahe.com^

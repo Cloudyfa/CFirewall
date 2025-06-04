@@ -63,6 +63,7 @@
 0.0.0.0 btloader.com
 0.0.0.0 bpmvkvb.com
 0.0.0.0 bugsnag.com
+0.0.0.0 buteopung.com
 0.0.0.0 bytepluses.com
 0.0.0.0 calumetburka.com
 0.0.0.0 carbonads.com
@@ -158,6 +159,7 @@
 0.0.0.0 orbsrv.com
 0.0.0.0 outbrain.com
 0.0.0.0 partwithner.com
+0.0.0.0 pinimg.com
 0.0.0.0 pipezero.com
 0.0.0.0 pocvip.com
 0.0.0.0 poosoahe.com
