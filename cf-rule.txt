@@ -159,7 +159,6 @@
 ||orbsrv.com^
 ||outbrain.com^
 ||partwithner.com^
-||pinimg.com^
 ||pipezero.com^
 ||pocvip.com^
 ||poosoahe.com^
@@ -357,6 +356,7 @@
 ||mediad.asia^
 ||mycdn.co^
 ||mxhnkn.pro^
+||optad360.io^
 ||padition.online^
 ||pangle.io^
 ||piano.io^

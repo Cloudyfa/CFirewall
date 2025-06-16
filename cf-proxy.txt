@@ -173,7 +173,6 @@ FINAL,DIRECT
 *orbsrv.com = 0.0.0.0
 *outbrain.com = 0.0.0.0
 *partwithner.com = 0.0.0.0
-*pinimg.com = 0.0.0.0
 *pipezero.com = 0.0.0.0
 *pocvip.com = 0.0.0.0
 *poosoahe.com = 0.0.0.0
@@ -371,6 +370,7 @@ FINAL,DIRECT
 *mediad.asia = 0.0.0.0
 *mycdn.co = 0.0.0.0
 *mxhnkn.pro = 0.0.0.0
+*optad360.io = 0.0.0.0
 *padition.online = 0.0.0.0
 *pangle.io = 0.0.0.0
 *piano.io = 0.0.0.0
