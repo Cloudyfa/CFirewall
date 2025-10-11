@@ -169,6 +169,7 @@ FINAL,DIRECT
 *onmarshtompor.com = 0.0.0.0
 *opencoccoc.com = 0.0.0.0
 *opensend.com = 0.0.0.0
+*opoxv.com = 0.0.0.0
 *opus-static.com = 0.0.0.0
 *orbsrv.com = 0.0.0.0
 *outbrain.com = 0.0.0.0
@@ -355,6 +356,7 @@ FINAL,DIRECT
 *cryptobrowser.site = 0.0.0.0
 *dable.io = 0.0.0.0
 *dthepeoplewhoc.org = 0.0.0.0
+*finallygotthexds.site = 0.0.0.0
 *flygame.io = 0.0.0.0
 *geniee.jp = 0.0.0.0
 *genieesspv.jp = 0.0.0.0

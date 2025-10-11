@@ -60,6 +60,7 @@ filecr.com##.filec-widget
 filecr.com##.google-ad-area-list
 filecr.com##.special-area-list
 filecr.com##.top-header-ad
+filecr.com###modal
 
 foody.vn##.foody-banner
 foody.vn##.home-banner
@@ -79,6 +80,12 @@ gamecopyworld.com##[href^="is.php"]
 gamecopyworld.com###basePopping
 gamecopyworld.com###news
 
+gamehub.vn##.portal_ads_top
+
+gamek.vn##.adm-rightsection
+gamek.vn##.banner0
+gamek.vn##.sukiengame
+
 gamerant.com##.ad-zone
 
 gamersky.com##.pcWuKongCode
@@ -87,6 +94,8 @@ gearvn.com##.collection-header
 gearvn.com##.sticky-banner
 
 genk.vn##.ads
+genk.vn##.banner0
+genk.vn##.banner2
 genk.vn##.khw-ads-wrapper
 
 google.com###tads
@@ -191,8 +200,8 @@ reddit.com###comment-atf
 reddit.com###sidebar-atf-0
 reddit.com###sidebar-btf-1
 
-rophim.me##.is-demo.display-single
-rophim.me##.modal-backdrop.fade
+rophim.mx##.sspp-area
+rophim.mx##.modal-backdrop
 
 softexia.com##.a1g2022w
 softexia.com##.a1g2023w
@@ -281,6 +290,7 @@ xda-developers.com##.ad-zone-container
 
 xdaforums.com##.ad_box
 xdaforums.com##.ad-zone
+xdaforums.com##.ad-current
 xdaforums.com##.fs-dynamic
 xdaforums.com##.spon_banner
 xdaforums.com##.sponsor-dyn-banner
@@ -302,4 +312,5 @@ zing.vn###app
 zing.vn###highlight
 zing.vn###site-header
 
+zingmp3.vn##.promotion-home-popup-container
 zingmp3.vn###zmp3_Top
