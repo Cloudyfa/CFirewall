@@ -200,8 +200,8 @@ reddit.com###comment-atf
 reddit.com###sidebar-atf-0
 reddit.com###sidebar-btf-1
 
-rophim.mx##.sspp-area
-rophim.mx##.modal-backdrop
+rophim.li##.sspp-area
+rophim.li##.modal-backdrop
 
 softexia.com##.a1g2022w
 softexia.com##.a1g2023w
@@ -258,6 +258,7 @@ truyentuan.xyz###fixed_ad_left
 truyentuan.xyz/wp-content/themes/nos/js/pop-before.js
 
 truyenqqgo.com###ad_info
+truyenqqgo.com###ad_info_2
 truyenqqgo.com###ad_info_top
 truyenqqgo.com###popup-truyenqq
 truyenqqgo.com###top-banner-reading-container
