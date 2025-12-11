@@ -70,6 +70,10 @@
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 
+## Reddit
+||events.reddit.com^
+||events.redditmedia.com^
+
 ## Samsung
 ||samsungads.com^
 ||smetrics.samsung.com^
@@ -117,6 +121,15 @@
 ||extmaps-api.yandex.net^
 ||offerwall.yandex.net^
 
+## Zalo
+||ads.zalo.me^
+||ads.zaloapp.com^
+||ads.platform.zalo.me^
+||log.api.zaloapp.com^
+||trk-pcweb.api.zaloapp.com^
+||ztevents.zaloapp.com^
+||zalo-ads.zadn.vn^
+
 ## Others
 ||2hanwriten.com^
 ||8giaitri.com^
@@ -138,7 +151,6 @@
 ||adrealclick.com^
 ||adroll.com^
 ||ads.youtube.com^
-||ads.zaloapp.com^
 ||adsafeprotected.com^
 ||adservme.com^
 ||adservrs.com^
@@ -206,8 +218,6 @@
 ||donglogs.com^
 ||dtadnetwork.com^
 ||ebetoni.com^
-||events.reddit.com^
-||events.redditmedia.com^
 ||evidon.com^
 ||exosrv.com^
 ||fastly-insights.com^
@@ -239,7 +249,6 @@
 ||kaprila.com^
 ||kernh41.com^
 ||kochava.com^
-||log.api.zaloapp.com^
 ||log.baomoi.com^
 ||logs.netflix.com^
 ||mepuzz.com^
@@ -272,7 +281,6 @@
 ||pushtimize.com^
 ||q00gle.com^
 ||qc.coccoc.com^
-||qcv5.blogtruyenmoi.com^
 ||quantcount.com^
 ||quantserve.com^
 ||rayjump.com^
@@ -308,7 +316,6 @@
 ||trackpush.com^
 ||trafficfactory.com^
 ||tribalfusion.com^
-||trk-pcweb.api.zaloapp.com^
 ||trunkpkg.com^
 ||tsyndicate.com^
 ||ufpcdn.com^
@@ -334,7 +341,6 @@
 ||zi-scripts.com^
 ||ziffstatic.com^
 ||zintrack.com^
-||ztevents.zaloapp.com^
 
 ||2mdn.net^
 ||ad-delivery.net^
@@ -373,7 +379,6 @@
 
 ||aanetwork.vn^
 ||ad.org.vn^
-||ad.zing.vn^
 ||adflex.vn^
 ||admicro.vn^
 ||adnet.vn^
@@ -391,7 +396,6 @@
 ||anthill.vn^
 ||ants.vn^
 ||beblue.vn^
-||brand.zing.vn^
 ||cache.vn^
 ||cleverads.vn^
 ||cnnd.vn^
@@ -417,16 +421,13 @@
 ||vietnamnetad.vn^
 ||vnay.vn^
 ||yomedia.vn^
-||zalo-ads.zadn.vn^
 ||zlog.zingmp3.vn^
 
 ||adbro.me^
 ||adlane.info^
 ||adlive.io^
 ||adop.asia^
-||ads.platform.zalo.me^
 ||ads.shorte.st^
-||ads.zalo.me^
 ||adsco.re^
 ||adskeeper.co.uk^
 ||adsrvr.org^

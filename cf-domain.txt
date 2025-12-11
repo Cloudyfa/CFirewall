@@ -70,6 +70,10 @@
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 
+## Reddit
+0.0.0.0 events.reddit.com
+0.0.0.0 events.redditmedia.com
+
 ## Samsung
 0.0.0.0 samsungads.com
 0.0.0.0 smetrics.samsung.com
@@ -117,6 +121,15 @@
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 offerwall.yandex.net
 
+## Zalo
+0.0.0.0 ads.zalo.me
+0.0.0.0 ads.zaloapp.com
+0.0.0.0 ads.platform.zalo.me
+0.0.0.0 log.api.zaloapp.com
+0.0.0.0 trk-pcweb.api.zaloapp.com
+0.0.0.0 ztevents.zaloapp.com
+0.0.0.0 zalo-ads.zadn.vn
+
 ## Others
 0.0.0.0 2hanwriten.com
 0.0.0.0 8giaitri.com
@@ -138,7 +151,6 @@
 0.0.0.0 adrealclick.com
 0.0.0.0 adroll.com
 0.0.0.0 ads.youtube.com
-0.0.0.0 ads.zaloapp.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adservme.com
 0.0.0.0 adservrs.com
@@ -206,8 +218,6 @@
 0.0.0.0 donglogs.com
 0.0.0.0 dtadnetwork.com
 0.0.0.0 ebetoni.com
-0.0.0.0 events.reddit.com
-0.0.0.0 events.redditmedia.com
 0.0.0.0 evidon.com
 0.0.0.0 exosrv.com
 0.0.0.0 fastly-insights.com
@@ -239,7 +249,6 @@
 0.0.0.0 kaprila.com
 0.0.0.0 kernh41.com
 0.0.0.0 kochava.com
-0.0.0.0 log.api.zaloapp.com
 0.0.0.0 log.baomoi.com
 0.0.0.0 logs.netflix.com
 0.0.0.0 mepuzz.com
@@ -272,7 +281,6 @@
 0.0.0.0 pushtimize.com
 0.0.0.0 q00gle.com
 0.0.0.0 qc.coccoc.com
-0.0.0.0 qcv5.blogtruyenmoi.com
 0.0.0.0 quantcount.com
 0.0.0.0 quantserve.com
 0.0.0.0 rayjump.com
@@ -308,7 +316,6 @@
 0.0.0.0 trackpush.com
 0.0.0.0 trafficfactory.com
 0.0.0.0 tribalfusion.com
-0.0.0.0 trk-pcweb.api.zaloapp.com
 0.0.0.0 trunkpkg.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 ufpcdn.com
@@ -334,7 +341,6 @@
 0.0.0.0 zi-scripts.com
 0.0.0.0 ziffstatic.com
 0.0.0.0 zintrack.com
-0.0.0.0 ztevents.zaloapp.com
 
 0.0.0.0 2mdn.net
 0.0.0.0 ad-delivery.net
@@ -373,7 +379,6 @@
 
 0.0.0.0 aanetwork.vn
 0.0.0.0 ad.org.vn
-0.0.0.0 ad.zing.vn
 0.0.0.0 adflex.vn
 0.0.0.0 admicro.vn
 0.0.0.0 adnet.vn
@@ -391,7 +396,6 @@
 0.0.0.0 anthill.vn
 0.0.0.0 ants.vn
 0.0.0.0 beblue.vn
-0.0.0.0 brand.zing.vn
 0.0.0.0 cache.vn
 0.0.0.0 cleverads.vn
 0.0.0.0 cnnd.vn
@@ -417,16 +421,13 @@
 0.0.0.0 vietnamnetad.vn
 0.0.0.0 vnay.vn
 0.0.0.0 yomedia.vn
-0.0.0.0 zalo-ads.zadn.vn
 0.0.0.0 zlog.zingmp3.vn
 
 0.0.0.0 adbro.me
 0.0.0.0 adlane.info
 0.0.0.0 adlive.io
 0.0.0.0 adop.asia
-0.0.0.0 ads.platform.zalo.me
 0.0.0.0 ads.shorte.st
-0.0.0.0 ads.zalo.me
 0.0.0.0 adsco.re
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adsrvr.org
