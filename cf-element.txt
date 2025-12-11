@@ -269,6 +269,8 @@ youtube.com###masthead-ad
 
 yts.mx##.ioo
 yts.mx##+js(aopr, window.aclib)
+yts.lt##.ioo
+yts.lt##+js(aopr, window.aclib)
 
 zing.vn###app
 zing.vn###highlight

@@ -27,6 +27,7 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googletagservices.com
+0.0.0.0 click.googleanalytics.com
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com

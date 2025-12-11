@@ -35,6 +35,7 @@
 ||analytics.google.com^
 ||google-analytics.com^
 ||googletagservices.com^
+||click.googleanalytics.com^
 ||afs.googlesyndication.com^
 ||tpc.googlesyndication.com^
 ||pagead2.googlesyndication.com^
