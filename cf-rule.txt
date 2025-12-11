@@ -2,14 +2,6 @@
 ! Expires: 3 days
 ! Maintainer: Cloudyfa
 
-## Generic
-*/ad_banner/*
-*/adoverlay/*
-*/sponsor/*
-||ads.js^
-||pagead.js^
-||showads.js^
-
 ## Amazon
 ||amazon-adsystem.com^
 ||adtago.s3.amazonaws.com^

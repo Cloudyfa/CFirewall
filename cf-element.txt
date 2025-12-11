@@ -2,6 +2,15 @@
 ! Expires: 3 days
 ! Maintainer: Cloudyfa
 
+## Generic
+*/ad_banner/*
+*/adoverlay/*
+*/sponsor/*
+*/ads.js
+*/pagead.js
+*/showads.js
+
+## Others
 24h.com.vn##[id^="ADS_"]
 24h.com.vn###subRight
 
