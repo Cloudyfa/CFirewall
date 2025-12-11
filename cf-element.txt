@@ -1,14 +1,6 @@
-! Expires: 1 days (update frequency)
-
-! -------------------------------
 ! Title: CFirewall's Element List
-! -------------------------------
-
-##.adsbygoogle
-||*/ad_banner/*
-||*/adoverlay/*
-||*/sponsor/*
-||*/showads.js
+! Expires: 3 days
+! Maintainer: Cloudyfa
 
 24h.com.vn##[id^="ADS_"]
 24h.com.vn###subRight
@@ -39,8 +31,6 @@ baomoi.com##.fyi--group
 baomoi.com##.is-ads
 baomoi.com###BaoMoi_Top
 
-cadviet.com###float_panel
-
 chotot.com##.hidden-sm
 chotot.com###afscontainer1
 
@@ -65,13 +55,6 @@ filecr.com###modal
 foody.vn##.foody-banner
 foody.vn##.home-banner
 
-freaktab.com##.ad_header_inner
-freaktab.com##.axd-inner
-freaktab.com##.custom-html-widget
-freaktab.com##.guestwarn
-freaktab.com##.notices
-freaktab.com###header
-
 fshare.vn##.bali-a-d
 fshare.vn##.bannerinfooter
 fshare.vn###month_promp_voucher_pp
@@ -88,8 +71,6 @@ gamek.vn##.sukiengame
 
 gamerant.com##.ad-zone
 
-gamersky.com##.pcWuKongCode
-
 gearvn.com##.collection-header
 gearvn.com##.sticky-banner
 
@@ -100,10 +81,6 @@ genk.vn##.khw-ads-wrapper
 
 google.com###tads
 google.com###tadsb
-
-hamtruyen.info##.text-center
-hamtruyen.info###box-player
-hamtruyen.info###wrap_qc_banner_top
 
 helltides.com##.av-floating
 helltides.com##.horizontal_sticky
@@ -130,10 +107,8 @@ imgur.com##.EmeraldBanner
 lazada.vn##.card-countdown
 lazada.vn##.card-platform-campaign-banner-container
 
-maclife.io##.a-single
-maclife.io##.widget_custom_html
-maclife.io##.wpbcap-laptopvang
-maclife.io##.wrap-content > [href]
+maclife.co##.a-single
+maclife.co##.widget_custom_html
 
 macrumors.com##.sidebarblock
 macrumors.com##.sidebarblock2
@@ -146,13 +121,8 @@ maxroll.gg##.bg-opacity-80
 memoryzone.com.vn##.bottom
 memoryzone.com.vn##.topbar-slider
 
-metruyen.me##.pum-content
-metruyen.me##.pum-overlay
-
-monkeyd.vn##.recommendedStories-section
-monkeyd.vn##.signature
-monkeyd.vn##.widget-fanpage
-monkeyd.vn###affLayer
+metruyen.mobi##.pum-content
+metruyen.mobi##.pum-overlay
 
 mobalytics.gg##aside
 mobalytics.gg##.m-bz6vl
@@ -172,9 +142,6 @@ motgame.vn##.MASTERCMS_MEDIA_BOX
 
 msn.com##.consumption-page-banner-wrapper
 
-neoseeker.com##.section-ad
-neoseeker.com###ads_page_top
-
 nexusmods.com##.ads
 nexusmods.com##.video-ad
 
@@ -186,9 +153,9 @@ nhattao.com##.adWidget
 pcgamer.com##.ad-unit
 pcgamer.com##.dfp-leaderboard-container
 
-phimmoiiii.net##.module_home_ads
-phimmoiiii.net##.module_single_ads
-phimmoiiii.net###floating_ads_bottom_textcss_ad
+phimmoichill.site##.module_home_ads
+phimmoichill.site##.module_single_ads
+phimmoichill.site###floating_ads_bottom_textcss_ad
 
 psnprofiles.com##.side-ad
 psnprofiles.com##.wide-ad
@@ -249,23 +216,11 @@ tomshardware.com##.van_taboola
 tomshardware.com##.van_vid_carousel
 tomshardware.com##.widget-ads
 
-truyentuan.xyz##.adpia_banner
-truyentuan.xyz##.doc-truyen-ads-d1
-truyentuan.xyz##.doc-truyen-ads-d2
-truyentuan.xyz###banner_preload
-truyentuan.xyz###fixed_ad_bottom
-truyentuan.xyz###fixed_ad_left
-truyentuan.xyz/wp-content/themes/nos/js/pop-before.js
-
 truyenqqgo.com###ad_info
 truyenqqgo.com###ad_info_2
 truyenqqgo.com###ad_info_top
 truyenqqgo.com###popup-truyenqq
 truyenqqgo.com###top-banner-reading-container
-
-updato.com##.add-download
-updato.com##.can-be-hide-when-need
-updato.com##.code-block
 
 vietnamnet.vn##.vmcadszone
 
@@ -294,8 +249,6 @@ webtretho.com##.top-ads
 wowinterface.com###header-ad
 wowinterface.com##.ac-widget-placeholder
 
-xda-developers.com##.ad-zone-container
-
 xdaforums.com##.ad_box
 xdaforums.com##.ad-zone
 xdaforums.com##.ad-current
@@ -309,6 +262,7 @@ xdaforums.com###xdaforums_incontent
 xdaforums.com###xdaforums_incontent_2
 xdaforums.com###xdaforums_leaderboard_atf
 xdaforums.com###xdaforums_leaderboard_btf
+xda-developers.com##.ad-zone-container
 
 youtube.com###companion
 youtube.com###masthead-ad
