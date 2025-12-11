@@ -3,12 +3,12 @@
 ! Maintainer: Cloudyfa
 
 ## Generic
-||*/ad_banner/*
-||*/adoverlay/*
-||*/sponsor/*
-||*/ads.js
-||*/pagead.js
-||*/showads.js
+*/ad_banner/*
+*/adoverlay/*
+*/sponsor/*
+||ads.js^
+||pagead.js^
+||showads.js^
 
 ## Amazon
 ||amazon-adsystem.com^
@@ -285,6 +285,7 @@
 ||quantserve.com^
 ||rayjump.com^
 ||realsrv.com^
+||record.revenuenetwork.com^
 ||registeridm.com^
 ||reklamstore.com^
 ||rhrim.com^

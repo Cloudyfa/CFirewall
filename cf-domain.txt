@@ -277,6 +277,7 @@
 0.0.0.0 quantserve.com
 0.0.0.0 rayjump.com
 0.0.0.0 realsrv.com
+0.0.0.0 record.revenuenetwork.com
 0.0.0.0 registeridm.com
 0.0.0.0 reklamstore.com
 0.0.0.0 rhrim.com

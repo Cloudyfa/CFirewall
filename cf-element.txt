@@ -183,7 +183,6 @@ softexia.com###top-line
 
 station-drivers.com##.tm-top-b
 station-drivers.com##.tm-bottom-a
-station-drivers.com##table
 
 thanhnien.vn##.mb-40
 thanhnien.vn##.super-masthead
@@ -216,11 +215,11 @@ tomshardware.com##.van_taboola
 tomshardware.com##.van_vid_carousel
 tomshardware.com##.widget-ads
 
-truyenqqgo.com###ad_info
-truyenqqgo.com###ad_info_2
-truyenqqgo.com###ad_info_top
-truyenqqgo.com###popup-truyenqq
-truyenqqgo.com###top-banner-reading-container
+truyenqqno.com###ad_info
+truyenqqno.com###ad_info_2
+truyenqqno.com###ad_info_top
+truyenqqno.com###popup-truyenqq
+truyenqqno.com###top-banner-reading-container
 
 vietnamnet.vn##.vmcadszone
 
@@ -237,10 +236,9 @@ voz.vn##.adsbypubpower
 vov.vn##.has-qc
 vov.vn##.qc-item
 voz.vn##.samBannerUnit
-voz.vn##div.message--post.message
+voz.vn##[id^="div-gpt-ad-"]
 vov.vn###QCctl00_AdsContentAllPage1
 voz.vn###sp-wrapper-hovering
-voz.vn##[id^="div-gpt-ad-"]
 
 webtretho.com##.ads-bg-default
 webtretho.com##.ads-medium-rectangle
@@ -267,10 +265,8 @@ xda-developers.com##.ad-zone-container
 youtube.com###companion
 youtube.com###masthead-ad
 
-yts.mx##.ioo
-yts.mx##+js(aopr, window.aclib)
-yts.lt##.ioo
-yts.lt##+js(aopr, window.aclib)
+yts.mx,yts.lt##.ioo
+yts.mx,yts.lt##.modal
 
 zing.vn###app
 zing.vn###highlight
