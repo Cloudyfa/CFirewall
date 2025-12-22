@@ -134,6 +134,7 @@
 ||2hanwriten.com^
 ||8giaitri.com^
 ||a-ads.com^
+||a-zzz.com^
 ||a1.consoletarget.com^
 ||a2gw.com^
 ||aaxads.com^
@@ -141,6 +142,7 @@
 ||adasiaholdings.com^
 ||adcolony.com^
 ||addthis.com^
+||adexchangeclear.com^
 ||adincube.com^
 ||adinfuse.com^
 ||adlightning.com^
@@ -323,6 +325,7 @@
 ||unrulymedia.com^
 ||unseenreport.com^
 ||userreport.com^
+||usrpubtrk.com^
 ||v9banners.com^
 ||velocecdn.com^
 ||velti.com^
@@ -333,6 +336,7 @@
 ||vungle.com^
 ||wataads.com^
 ||wufoo.com^
+||xkucamlcuaqk.com^
 ||yeah1publishing.com^
 ||yonmewon.com^
 ||youradexchange.com^

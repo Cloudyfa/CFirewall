@@ -134,6 +134,7 @@
 0.0.0.0 2hanwriten.com
 0.0.0.0 8giaitri.com
 0.0.0.0 a-ads.com
+0.0.0.0 a-zzz.com
 0.0.0.0 a1.consoletarget.com
 0.0.0.0 a2gw.com
 0.0.0.0 aaxads.com
@@ -141,6 +142,7 @@
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adcolony.com
 0.0.0.0 addthis.com
+0.0.0.0 adexchangeclear.com
 0.0.0.0 adincube.com
 0.0.0.0 adinfuse.com
 0.0.0.0 adlightning.com
@@ -323,6 +325,7 @@
 0.0.0.0 unrulymedia.com
 0.0.0.0 unseenreport.com
 0.0.0.0 userreport.com
+0.0.0.0 usrpubtrk.com
 0.0.0.0 v9banners.com
 0.0.0.0 velocecdn.com
 0.0.0.0 velti.com
@@ -333,6 +336,7 @@
 0.0.0.0 vungle.com
 0.0.0.0 wataads.com
 0.0.0.0 wufoo.com
+0.0.0.0 xkucamlcuaqk.com
 0.0.0.0 yeah1publishing.com
 0.0.0.0 yonmewon.com
 0.0.0.0 youradexchange.com
