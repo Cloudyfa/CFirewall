@@ -72,6 +72,7 @@ gamecopyworld.com##[href^="is.php"]
 gamecopyworld.com###basePopping
 gamecopyworld.com###news
 
+gamehub.vn##.ads_in_page
 gamehub.vn##.portal_ads_scroll
 gamehub.vn##.portal_ads_top
 

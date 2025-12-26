@@ -138,6 +138,7 @@
 ||a1.consoletarget.com^
 ||a2gw.com^
 ||aaxads.com^
+||acscdn.com^
 ||ad4game.com^
 ||adasiaholdings.com^
 ||adcolony.com^
@@ -191,6 +192,7 @@
 ||browser.sentry-cdn.com^
 ||btloader.com^
 ||bugsnag.com^
+||bvtpk.com^
 ||bytepluses.com^
 ||c-api-bit.shopeemobile.com^
 ||calumetburka.com^
@@ -199,12 +201,14 @@
 ||ccg90.com^
 ||celtra.com^
 ||chartboost.com^
+||chilihandshakewing.com^
 ||cityads.com^
 ||clksite.com^
 ||cobalten.com^
 ||cococx.com^
 ||connatix.com^
 ||contineljs.com^
+||coosync.com^
 ||cpmstar.com^
 ||crashlytics.com^
 ||criteo.com^
@@ -232,6 +236,7 @@
 ||geniusdexchange.com^
 ||getsentry.com^
 ||gigaonclick.com^
+||gigglegrowlworrisome.com^
 ||gladly.com^
 ||greystripe.com^
 ||gvt2.com^
@@ -294,6 +299,7 @@
 ||ryazabti.com^
 ||s1-adfly.com^
 ||s2block.com^
+||salutetutortwiddling.com^
 ||sbbanner.com^
 ||scorecardresearch.com^
 ||seedtag.com^
