@@ -282,6 +282,7 @@
 0.0.0.0 pipezero.com
 0.0.0.0 pocvip.com
 0.0.0.0 popmyads.com
+0.0.0.0 populartooth.com
 0.0.0.0 proadscdn.com
 0.0.0.0 pubtrky.com
 0.0.0.0 push-sdk.com

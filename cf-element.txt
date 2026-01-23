@@ -178,8 +178,8 @@ reddit.com###comment-atf
 reddit.com###sidebar-atf-0
 reddit.com###sidebar-btf-1
 
-rophim.moi##.sspp-area
-rophim.moi##.modal-backdrop
+rophim.nl##.sspp-area
+rophim.nl##.modal-backdrop
 
 softexia.com##.a1g2022w
 softexia.com##.a1g2023w
@@ -276,8 +276,8 @@ xda-developers.com##.ad-zone-container
 youtube.com###companion
 youtube.com###masthead-ad
 
-yts.mx,yts.lt##.ioo
-yts.mx,yts.lt##.modal
+yts.lt,yts.bz##.ioo
+yts.lt,yts.bz##.modal
 
 zing.vn###app
 zing.vn###highlight

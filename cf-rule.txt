@@ -282,6 +282,7 @@
 ||pipezero.com^
 ||pocvip.com^
 ||popmyads.com^
+||populartooth.com^
 ||proadscdn.com^
 ||pubtrky.com^
 ||push-sdk.com^
