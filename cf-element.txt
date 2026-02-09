@@ -140,17 +140,6 @@ mobalytics.gg##.m-bz6vl
 mobalytics.gg##.m-weeyo9
 mobalytics.gg##.m-x3nnp7
 
-motgame.vn##.adweb
-motgame.vn##.aanetwork-ads-box
-motgame.vn##.bannertophome
-motgame.vn##.game_random
-motgame.vn##.livsteam
-motgame.vn##.motgame-qc-slider
-motgame.vn##.mg_bn
-motgame.vn##.mga-ad
-motgame.vn##.random_mg
-motgame.vn##.MASTERCMS_MEDIA_BOX
-
 msn.com##.consumption-page-banner-wrapper
 
 nexusmods.com##.ads
@@ -164,9 +153,7 @@ nhattao.com##.adWidget
 pcgamer.com##.ad-unit
 pcgamer.com##.dfp-leaderboard-container
 
-phimmoichill.site##.module_home_ads
-phimmoichill.site##.module_single_ads
-phimmoichill.site###floating_ads_bottom_textcss_ad
+phimmoichill.now##.hidemobile
 
 psnprofiles.com##.side-ad
 psnprofiles.com##.wide-ad
@@ -177,9 +164,6 @@ reddit.com##.promotedlink
 reddit.com###comment-atf
 reddit.com###sidebar-atf-0
 reddit.com###sidebar-btf-1
-
-rophim.nl##.sspp-area
-rophim.nl##.modal-backdrop
 
 softexia.com##.a1g2022w
 softexia.com##.a1g2023w
@@ -231,6 +215,8 @@ truyenqqno.com###ad_info_2
 truyenqqno.com###ad_info_top
 truyenqqno.com###popup-truyenqq
 truyenqqno.com###top-banner-reading-container
+
+videocardz.com##.mv-ad-box
 
 vietnamnet.vn##.vmcadszone
 

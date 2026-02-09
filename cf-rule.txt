@@ -212,6 +212,7 @@
 ||cpmstar.com^
 ||crashlytics.com^
 ||criteo.com^
+||crowbarrinds.com^
 ||crownpeak.com^
 ||crrepo.com^
 ||customers.fptad.com^
@@ -380,6 +381,7 @@
 ||polyad.net^
 ||popads.net^
 ||smaato.net^
+||sootoarathus.net^
 ||statsy.net^
 ||trafficjunky.net^
 ||typekit.net^

@@ -212,6 +212,7 @@
 0.0.0.0 cpmstar.com
 0.0.0.0 crashlytics.com
 0.0.0.0 criteo.com
+0.0.0.0 crowbarrinds.com
 0.0.0.0 crownpeak.com
 0.0.0.0 crrepo.com
 0.0.0.0 customers.fptad.com
@@ -380,6 +381,7 @@
 0.0.0.0 polyad.net
 0.0.0.0 popads.net
 0.0.0.0 smaato.net
+0.0.0.0 sootoarathus.net
 0.0.0.0 statsy.net
 0.0.0.0 trafficjunky.net
 0.0.0.0 typekit.net
