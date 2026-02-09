@@ -241,6 +241,7 @@
 0.0.0.0 gladly.com
 0.0.0.0 greystripe.com
 0.0.0.0 gvt2.com
+0.0.0.0 hasoswoh.com
 0.0.0.0 hotjar.com
 0.0.0.0 hs-banner.com
 0.0.0.0 hs-scripts.com

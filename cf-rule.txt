@@ -241,6 +241,7 @@
 ||gladly.com^
 ||greystripe.com^
 ||gvt2.com^
+||hasoswoh.com^
 ||hotjar.com^
 ||hs-banner.com^
 ||hs-scripts.com^
