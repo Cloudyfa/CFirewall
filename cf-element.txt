@@ -262,8 +262,8 @@ xda-developers.com##.ad-zone-container
 youtube.com###companion
 youtube.com###masthead-ad
 
-yts.lt,yts.bz##.ioo
-yts.lt,yts.bz##.modal
+yts.lt,yts.bz,yts.gg##.ioo
+yts.lt,yts.bz,yts.gg##.modal
 
 zing.vn###app
 zing.vn###highlight

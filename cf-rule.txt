@@ -90,6 +90,13 @@
 ||business-api.tiktok.com^
 ||log.byteoversea.com^
 
+## TimeIs
+||ackprovided.com^
+||aroundwhoever.com^
+||gladlythattoady.com^
+||providedwell.com^
+||html-load.cc^
+
 ## Twitter
 ||ads-api.twitter.com^
 ||static.ads-twitter.com^
