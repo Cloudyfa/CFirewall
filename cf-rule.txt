@@ -267,6 +267,7 @@
 ||kochava.com^
 ||log.baomoi.com^
 ||logs.netflix.com^
+||marzaent.com^
 ||mepuzz.com^
 ||mgid.com^
 ||moatads.com^
@@ -287,6 +288,7 @@
 ||orbsrv.com^
 ||ot.io.mi.com^
 ||outbrain.com^
+||pemsrv.com^
 ||pipe.aria.microsoft.com^
 ||pipezero.com^
 ||pocvip.com^

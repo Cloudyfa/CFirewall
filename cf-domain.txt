@@ -267,6 +267,7 @@
 0.0.0.0 kochava.com
 0.0.0.0 log.baomoi.com
 0.0.0.0 logs.netflix.com
+0.0.0.0 marzaent.com
 0.0.0.0 mepuzz.com
 0.0.0.0 mgid.com
 0.0.0.0 moatads.com
@@ -287,6 +288,7 @@
 0.0.0.0 orbsrv.com
 0.0.0.0 ot.io.mi.com
 0.0.0.0 outbrain.com
+0.0.0.0 pemsrv.com
 0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 pipezero.com
 0.0.0.0 pocvip.com
