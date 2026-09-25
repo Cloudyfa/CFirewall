@@ -233,6 +233,7 @@ voz.vn##.adsbypubpower
 vov.vn##.has-qc
 vov.vn##.qc-item
 voz.vn##.samBannerUnit
+voz.vn##.voz-adSlot
 voz.vn##[id^="div-gpt-ad-"]
 vov.vn###QCctl00_AdsContentAllPage1
 voz.vn###sp-wrapper-hovering
