@@ -11,6 +11,7 @@
 
 ## Apple
 ||iadsdk.apple.com^
+||advertising.apple.com^
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
@@ -101,6 +102,7 @@
 ||mistat.india.xiaomi.com^
 ||mistat.rus.xiaomi.com^
 ||tracking.rus.miui.com^
+||tracking.miui.com^
 
 ## Yahoo
 ||ads.yahoo.com^
@@ -224,6 +226,7 @@
 ||dfnb-ads.com^
 ||dmca.com^
 ||donglogs.com^
+||doubleverify.com^
 ||dtadnetwork.com^
 ||ebetoni.com^
 ||evidon.com^
@@ -231,6 +234,7 @@
 ||fastly-insights.com^
 ||flurry.com^
 ||freshmarketer.com^
+||fullstory.com^
 ||g2crowd.com^
 ||galas3xy.com^
 ||gammaplatform.com^
@@ -264,6 +268,7 @@
 ||marzaent.com^
 ||mepuzz.com^
 ||mgid.com^
+||mixpanel.com^
 ||moatads.com^
 ||mopub.com^
 ||mouseflow.com^
@@ -287,7 +292,9 @@
 ||pocvip.com^
 ||popmyads.com^
 ||populartooth.com^
+||posthog.com^
 ||proadscdn.com^
+||pubmatic.com^
 ||pubtrky.com^
 ||push-sdk.com^
 ||pushtimize.com^
@@ -301,6 +308,8 @@
 ||registeridm.com^
 ||reklamstore.com^
 ||rhrim.com^
+||rubiconproject.com^
+||rudderstack.com^
 ||ryazabti.com^
 ||s1-adfly.com^
 ||s2block.com^
@@ -380,6 +389,7 @@
 ||native-ad.net^
 ||onfluencer.net^
 ||onmarketer.net^
+||openx.net^
 ||polyad.net^
 ||popads.net^
 ||smaato.net^

@@ -11,6 +11,7 @@
 
 ## Apple
 0.0.0.0 iadsdk.apple.com
+0.0.0.0 advertising.apple.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.apple.com
@@ -101,6 +102,7 @@
 0.0.0.0 mistat.india.xiaomi.com
 0.0.0.0 mistat.rus.xiaomi.com
 0.0.0.0 tracking.rus.miui.com
+0.0.0.0 tracking.miui.com
 
 ## Yahoo
 0.0.0.0 ads.yahoo.com
@@ -224,6 +226,7 @@
 0.0.0.0 dfnb-ads.com
 0.0.0.0 dmca.com
 0.0.0.0 donglogs.com
+0.0.0.0 doubleverify.com
 0.0.0.0 dtadnetwork.com
 0.0.0.0 ebetoni.com
 0.0.0.0 evidon.com
@@ -231,6 +234,7 @@
 0.0.0.0 fastly-insights.com
 0.0.0.0 flurry.com
 0.0.0.0 freshmarketer.com
+0.0.0.0 fullstory.com
 0.0.0.0 g2crowd.com
 0.0.0.0 galas3xy.com
 0.0.0.0 gammaplatform.com
@@ -264,6 +268,7 @@
 0.0.0.0 marzaent.com
 0.0.0.0 mepuzz.com
 0.0.0.0 mgid.com
+0.0.0.0 mixpanel.com
 0.0.0.0 moatads.com
 0.0.0.0 mopub.com
 0.0.0.0 mouseflow.com
@@ -287,7 +292,9 @@
 0.0.0.0 pocvip.com
 0.0.0.0 popmyads.com
 0.0.0.0 populartooth.com
+0.0.0.0 posthog.com
 0.0.0.0 proadscdn.com
+0.0.0.0 pubmatic.com
 0.0.0.0 pubtrky.com
 0.0.0.0 push-sdk.com
 0.0.0.0 pushtimize.com
@@ -301,6 +308,8 @@
 0.0.0.0 registeridm.com
 0.0.0.0 reklamstore.com
 0.0.0.0 rhrim.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 rudderstack.com
 0.0.0.0 ryazabti.com
 0.0.0.0 s1-adfly.com
 0.0.0.0 s2block.com
@@ -380,6 +389,7 @@
 0.0.0.0 native-ad.net
 0.0.0.0 onfluencer.net
 0.0.0.0 onmarketer.net
+0.0.0.0 openx.net
 0.0.0.0 polyad.net
 0.0.0.0 popads.net
 0.0.0.0 smaato.net
