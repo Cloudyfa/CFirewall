@@ -283,7 +283,6 @@
 0.0.0.0 ot.io.mi.com
 0.0.0.0 outbrain.com
 0.0.0.0 pemsrv.com
-0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 pipezero.com
 0.0.0.0 pocvip.com
 0.0.0.0 popmyads.com
@@ -310,7 +309,6 @@
 0.0.0.0 scorecardresearch.com
 0.0.0.0 seedtag.com
 0.0.0.0 segment.com
-0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 servicelayer.king.com
 0.0.0.0 sharethis.com
 0.0.0.0 show-sb.com

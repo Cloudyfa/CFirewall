@@ -283,7 +283,6 @@
 ||ot.io.mi.com^
 ||outbrain.com^
 ||pemsrv.com^
-||pipe.aria.microsoft.com^
 ||pipezero.com^
 ||pocvip.com^
 ||popmyads.com^
@@ -310,7 +309,6 @@
 ||scorecardresearch.com^
 ||seedtag.com^
 ||segment.com^
-||self.events.data.microsoft.com^
 ||servicelayer.king.com^
 ||sharethis.com^
 ||show-sb.com^
