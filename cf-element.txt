@@ -1,109 +1,91 @@
 ! Title: CFirewall's Element List
-! Expires: 3 days
+! Description: Cloudyfa's Cosmetic and Element blocklist
+! Version: 2026.10.09.1
+! Last modified: 2026-10-09T00:00:00+07:00
+! Expires: 3 days (update frequency)
 ! Maintainer: Cloudyfa
 
 ## Generic
-*/ad_banner/*
-*/adoverlay/*
-*/sponsor/*
-*/ads.js
-*/pagead.js
-*/showads.js
+*/ad_banner/*$image,script,subdocument
+*/adoverlay/*$image,script,subdocument
+*/sponsor/*$image,script,subdocument
+*/ads.js$script
+*/pagead.js$script
+*/showads.js$script
+
+## Future plc
+pcgamer.com,tomshardware.com##.ad-unit
+pcgamer.com,tomshardware.com##.dfp-leaderboard-container
+tomshardware.com##.bordeaux-anchored-container
+tomshardware.com##.exit-intent__background
+tomshardware.com##.related-articles
+tomshardware.com##.van_taboola
+tomshardware.com##.van_vid_carousel
+tomshardware.com##.widget-ads
+
+## Valnet / XDA
+xdaforums.com##.ad-current
+xdaforums.com##.ad-zone
+xdaforums.com##.ad_box
+xdaforums.com##.fs-dynamic
+xdaforums.com##.spon_banner
+xdaforums.com##.sponsor-dyn-banner
+xda-developers.com##.ad-zone-container
+
+## VCCorp
+gamek.vn##.adm-rightsection
+genk.vn##.ads
+gamek.vn,genk.vn##.banner0
+genk.vn##.banner2
+genk.vn##.khw-ads-wrapper
+gamek.vn##.sukiengame
 
 ## Others
-24h.com.vn##[id^="ADS_"]
-24h.com.vn###subRight
-
-5giay.vn##.visible-xl
-5giay.vn##.widget-ad-300
-5giay.vn##[class$="-banner"]
-
+! --- .com ---
 9to5mac.com##.ad-container
 
-anphatpc.com.vn##.fixed_banner
-anphatpc.com.vn##.global-banner-fixed
-anphatpc.com.vn##.global-banner-popup-container
-
-apkmirror.com##.amazon-ad
-apkmirror.com##.advertisement-text
-apkmirror.com##.gooWidget
-apkmirror.com##.OUTBRAIN
 apkmirror.com###bottom-slider
+apkmirror.com##.OUTBRAIN
+apkmirror.com##.advertisement-text
+apkmirror.com##.amazon-ad
+apkmirror.com##.gooWidget
 
+apkpure.com###ad-aegon-side
 apkpure.com##.ad-left
 apkpure.com##.ad-right
 apkpure.com##.chrome-install-pop
 apkpure.com##.js-ad-slot
-apkpure.com###ad-aegon-side
 
+baomoi.com###BaoMoi_Top
 baomoi.com##.fyi--group
 baomoi.com##.is-ads
-baomoi.com###BaoMoi_Top
 
-chotot.com##.hidden-sm
 chotot.com###afscontainer1
 
 deviantart.com##.ad-container
 deviantart.com##.da-custom-ad-box
 deviantart.com##.partial-ad
 
-diablo.trade##.nitro-card
-
 elevenforum.com##.gads
 
-facebook.com###pagelet_growth_expanding_cta
-
+filecr.com###modal
 filecr.com##.ads-wrapper
 filecr.com##.alert-wrap
 filecr.com##.filec-widget
 filecr.com##.google-ad-area-list
 filecr.com##.special-area-list
 filecr.com##.top-header-ad
-filecr.com###modal
 
-foody.vn##.foody-banner
-foody.vn##.home-banner
-
-fshare.vn##.bali-a-d
-fshare.vn##.bannerinfooter
-fshare.vn###month_promp_voucher_pp
-
-gamecopyworld.com##[href^="is.php"]
 gamecopyworld.com###basePopping
 gamecopyworld.com###news
-
-gamehub.vn##.ads_in_page
-gamehub.vn##.portal_ads_scroll
-gamehub.vn##.portal_ads_top
-
-gamek.vn##.adm-rightsection
-gamek.vn##.banner0
-gamek.vn##.sukiengame
-
-gamerant.com##.ad-zone
+gamecopyworld.com##[href^="is.php"]
 
 gearvn.com##.collection-header
 gearvn.com##.sticky-banner
 
-genk.vn##.ads
-genk.vn##.banner0
-genk.vn##.banner2
-genk.vn##.khw-ads-wrapper
-
-google.com###tads
-google.com###tadsb
-
+helltides.com###ad_inactive_map_bottom
 helltides.com##.av-floating
 helltides.com##.horizontal_sticky
-helltides.com###ad_inactive_map_bottom
-
-hoatieu.vn##.adbox
-hoatieu.vn##.adsbg
-hoatieu.vn##.adsdetail
-hoatieu.vn##.adszone
-
-hollymoviehd.cc##.content-kuss-ads
-hollymoviehd.cc###galaksionAds
 
 icy-veins.com##.largeBoi
 
@@ -115,128 +97,51 @@ ign.com##.wiki-bobble
 
 imgur.com##.EmeraldBanner
 
-lazada.vn##.card-countdown
-lazada.vn##.card-platform-campaign-banner-container
-
-maclife.co##.a-single
-maclife.co##.widget_custom_html
-
 macrumors.com##.sidebarblock
 macrumors.com##.sidebarblock2
 macrumors.com##.tertiary
 
 masterduelmeta.com##.ad-slot
 
-maxroll.gg##.bg-opacity-80
-
-memoryzone.com.vn##.bottom
-memoryzone.com.vn##.topbar-slider
-
-metruyen.mobi##.pum-content
-metruyen.mobi##.pum-overlay
-
-mobalytics.gg##aside
-mobalytics.gg##.m-bz6vl
-mobalytics.gg##.m-weeyo9
-mobalytics.gg##.m-x3nnp7
-
 msn.com##.consumption-page-banner-wrapper
 
 nexusmods.com##.ads
 nexusmods.com##.video-ad
 
-nhaccuatui.com##.nqc-zone
 nhaccuatui.com###right_support_online
+nhaccuatui.com##.nqc-zone
 
 nhattao.com##.adWidget
 
-pcgamer.com##.ad-unit
-pcgamer.com##.dfp-leaderboard-container
-
-phimmoichill.now##.hidemobile
+old.reddit.com###comment-atf
+old.reddit.com###sidebar-atf-0
+old.reddit.com###sidebar-btf-1
+old.reddit.com##.promotedlink
 
 psnprofiles.com##.side-ad
 psnprofiles.com##.wide-ad
 
 quantrimang.com##.adbox
 
-reddit.com##.promotedlink
-reddit.com###comment-atf
-reddit.com###sidebar-atf-0
-reddit.com###sidebar-btf-1
-
-softexia.com##.a1g2022w
-softexia.com##.a1g2023w
-softexia.com##.elementor-element
-softexia.com##.hide-mobile
+softexia.com###adverts
+softexia.com###top-line
 softexia.com##.offer
 softexia.com##.rodom-random
 softexia.com##.rodom-random2
 softexia.com##.splide--draggable
-softexia.com###adverts
-softexia.com###top-line
 
-station-drivers.com##.tm-top-b
 station-drivers.com##.tm-bottom-a
-
-thanhnien.vn##.mb-40
-thanhnien.vn##.super-masthead
-thanhnien.vn##.top-banner
-
-tiki.vn###VIP_BUNDLE
+station-drivers.com##.tm-top-b
 
 tinhocngoisao.com##.flex2ben
 
-tinhte.vn##.adWidget
-tinhte.vn##.desktopOnly
-tinhte.vn##.in-article-promo
-tinhte.vn##.infeed-ads
-tinhte.vn##.micro
-tinhte.vn##.middle-comment-promotion
-tinhte.vn##.pro-container
-tinhte.vn##.jsx-192314598
-tinhte.vn##.jsx-1393464935
-tinhte.vn##.jsx-2126301199
-tinhte.vn##.jsx-2626479041
-tinhte.vn##.jsx-2996626834
-tinhte.vn##.jsx-3569995709
-
-tomshardware.com##.ad-unit
-tomshardware.com##.bordeaux-anchored-container
-tomshardware.com##.exit-intent__background
-tomshardware.com##.dfp-leaderboard-container
-tomshardware.com##.related-articles
-tomshardware.com##.van_taboola
-tomshardware.com##.van_vid_carousel
-tomshardware.com##.widget-ads
-
-truyenqqno.com###ad_info
-truyenqqno.com###ad_info_2
-truyenqqno.com###ad_info_top
-truyenqqno.com###popup-truyenqq
-truyenqqno.com###top-banner-reading-container
+truyenqqko.com###ad_info
+truyenqqko.com###ad_info_2
+truyenqqko.com###ad_info_top
+truyenqqko.com###popup-truyenqq
+truyenqqko.com###top-banner-reading-container
 
 videocardz.com##.mv-ad-box
-
-vietnamnet.vn##.vmcadszone
-
-vnexpress.net##.banner_ads
-vnexpress.net##.banner-ads
-vnexpress.net##.box_100
-vnexpress.net##.box_shopvne
-vnexpress.net##.col-right-top
-vnexpress.net##.section-ads-top
-vnexpress.net##.wrap-hd-adblock
-vnexpress.net###box_shop_footer
-
-voz.vn##.adsbypubpower
-vov.vn##.has-qc
-vov.vn##.qc-item
-voz.vn##.samBannerUnit
-voz.vn##.voz-adSlot
-voz.vn##[id^="div-gpt-ad-"]
-vov.vn###QCctl00_AdsContentAllPage1
-voz.vn###sp-wrapper-hovering
 
 webtretho.com##.ads-bg-default
 webtretho.com##.ads-medium-rectangle
@@ -245,30 +150,100 @@ webtretho.com##.top-ads
 wowinterface.com###header-ad
 wowinterface.com##.ac-widget-placeholder
 
-xdaforums.com##.ad_box
-xdaforums.com##.ad-zone
-xdaforums.com##.ad-current
-xdaforums.com##.fs-dynamic
-xdaforums.com##.spon_banner
-xdaforums.com##.sponsor-dyn-banner
-xdaforums.com##.block-row.block-body
-xdaforums.com###xdaforums_right_1
-xdaforums.com###xdaforums_right_2
-xdaforums.com###xdaforums_incontent
-xdaforums.com###xdaforums_incontent_2
-xdaforums.com###xdaforums_leaderboard_atf
-xdaforums.com###xdaforums_leaderboard_btf
-xda-developers.com##.ad-zone-container
+www.google.com,www.google.com.vn###tads
+www.google.com,www.google.com.vn###tadsb
 
 youtube.com###companion
 youtube.com###masthead-ad
 
+! --- .vn ---
+24h.com.vn###subRight
+24h.com.vn##[id^="ADS_"]
+
+5giay.vn##.widget-ad-300
+5giay.vn##[class$="-banner"]
+
+anphatpc.com.vn##.fixed_banner
+anphatpc.com.vn##.global-banner-fixed
+anphatpc.com.vn##.global-banner-popup-container
+
+foody.vn##.foody-banner
+foody.vn##.home-banner
+
+fshare.vn###month_promp_voucher_pp
+fshare.vn##.bali-a-d
+fshare.vn##.bannerinfooter
+
+gamehub.vn##.ads_in_page
+gamehub.vn##.portal_ads_scroll
+gamehub.vn##.portal_ads_top
+
+hoatieu.vn##.adbox
+hoatieu.vn##.adsbg
+hoatieu.vn##.adsdetail
+hoatieu.vn##.adszone
+
+lazada.vn##.card-countdown
+lazada.vn##.card-platform-campaign-banner-container
+
+memoryzone.com.vn##.topbar-slider
+
+thanhnien.vn##.mb-40
+thanhnien.vn##.super-masthead
+thanhnien.vn##.top-banner
+
+tiki.vn###VIP_BUNDLE
+
+tinhte.vn##.adWidget
+tinhte.vn##.desktopOnly
+tinhte.vn##.in-article-promo
+tinhte.vn##.infeed-ads
+tinhte.vn##.jsx-1393464935
+tinhte.vn##.jsx-192314598
+tinhte.vn##.jsx-2126301199
+tinhte.vn##.jsx-2626479041
+tinhte.vn##.jsx-2996626834
+tinhte.vn##.jsx-3569995709
+tinhte.vn##.micro
+tinhte.vn##.middle-comment-promotion
+tinhte.vn##.pro-container
+
+vietnamnet.vn##.vmcadszone
+
+vov.vn###QCctl00_AdsContentAllPage1
+vov.vn##.has-qc
+vov.vn##.qc-item
+
+voz.vn###sp-wrapper-hovering
+voz.vn##.adsbypubpower
+voz.vn##.samBannerUnit
+voz.vn##.voz-adSlot
+voz.vn##[id^="div-gpt-ad-"]
+
+zingmp3.vn###zmp3_Top
+zingmp3.vn##.promotion-home-popup-container
+
+! --- .rest ---
+diablo.trade##.nitro-card
+
+hollymoviehd.cc###galaksionAds
+hollymoviehd.cc##.content-kuss-ads
+
+maclife.co##.a-single
+maclife.co##.widget_custom_html
+
+metruyen.mobi##.pum-content
+metruyen.mobi##.pum-overlay
+
+vnexpress.net###box_shop_footer
+vnexpress.net##.banner-ads
+vnexpress.net##.banner_ads
+vnexpress.net##.box_100
+vnexpress.net##.box_shopvne
+vnexpress.net##.col-right-top
+vnexpress.net##.section-ads-top
+vnexpress.net##.wrap-hd-adblock
+
 yts.lt,yts.bz,yts.gg##.ioo
 yts.lt,yts.bz,yts.gg##.modal
 
-zing.vn###app
-zing.vn###highlight
-zing.vn###site-header
-
-zingmp3.vn##.promotion-home-popup-container
-zingmp3.vn###zmp3_Top

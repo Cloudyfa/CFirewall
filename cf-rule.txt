@@ -1,47 +1,91 @@
 ! Title: CFirewall's Rule List
-! Expires: 3 days
+! Description: Cloudyfa's Ad, Tracker and Telemetry blocklist
+! Version: 2026.10.09.1
+! Last modified: 2026-10-09T00:00:00+07:00
+! Expires: 3 days (update frequency)
 ! Maintainer: Cloudyfa
 
 ## Amazon
-||amazon-adsystem.com^
 ||adtago.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
+||amazon-adsystem.com^
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 
+## AppLovin / MoPub
+||applovin.com^
+||applvn.com^
+||mopub.com^
+
 ## Apple
-||iadsdk.apple.com^
 ||advertising.apple.com^
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
-||weather-analytics-events.apple.com^
-||notes-analytics-events.apple.com^
+||iadsdk.apple.com^
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
+||notes-analytics-events.apple.com^
+||weather-analytics-events.apple.com^
+
+## Bidsxchange
+||bidsxchange.com^
+||bidsxplayer.com^
+
+## Cliphub
+||cliphub.io^
+||cliphub.net^
+
+## Cốc Cốc
+||opencoccoc.com^
+||qc.coccoc.com^
+||qccoccocmedia.vn^
+
+## Crownpeak / Evidon
+||crownpeak.com^
+||evidon.com^
 
 ## Facebook
 ||an.facebook.com^
 ||pixel.facebook.com^
 
-## Google
+## Geniee
+||geniee.jp^
+||genieessp.com^
+||genieesspv.jp^
+
+## Google / Firebase
+||2mdn.net^
+||admob.com^
+||ads.youtube.com^
 ||adservice.google.com^
+||adtrafficquality.google^
+||afs.googlesyndication.com^
 ||analytics.google.com^
+||app-measurement.com^
+||click.googleanalytics.com^
+||crashlytics.com^
+||doubleclick.net^
+||firebaselogging-pa.googleapis.com^
 ||google-analytics.com^
 ||googletagservices.com^
-||click.googleanalytics.com^
-||afs.googlesyndication.com^
-||tpc.googlesyndication.com^
-||pagead2.googlesyndication.com^
 ||pagead2.googleadservices.com^
-||firebaselogging-pa.googleapis.com^
+||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
+
+## HubSpot
+||hs-banner.com^
+||hs-scripts.com^
 
 ## Huawei
-||grs.hicloud.com^
 ||logbak.hicloud.com^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
 ||metrics.data.hicloud.com^
 ||metrics2.data.hicloud.com^
+
+## Likr
+||likr.com.tw^
+||likr.tw^
 
 ## LinkedIn
 ||ads.linkedin.com^
@@ -51,13 +95,18 @@
 ||luckyorange.com^
 ||luckyorange.net^
 
-## Oppo
-||ads.oppomobile.com^
-||adsfs.oppomobile.com^
+## MGID / AdsKeeper
+||adskeeper.co.uk^
+||adskeeper.com^
+||mgid.com^
 
 ## OnePlus
 ||click.oneplus.cn^
 ||open.oneplus.net^
+
+## Oppo
+||ads.oppomobile.com^
+||adsfs.oppomobile.com^
 
 ## Pinterest
 ||ads.pinterest.com^
@@ -65,74 +114,105 @@
 ||log.pinterest.com^
 ||trk.pinterest.com^
 
+## Quantcast
+||quantcount.com^
+||quantserve.com^
+
 ## Realme
-||iot-logser.realme.com^
-||iot-eu-logser.realme.com^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
+||iot-eu-logser.realme.com^
+||iot-logser.realme.com^
 
 ## Reddit
 ||events.reddit.com^
 ||events.redditmedia.com^
 
 ## Samsung
+||analytics-api.samsunghealthcn.com^
+||nmetrics.samsung.com^
+||samsung-com.112.2o7.net^
 ||samsungads.com^
 ||smetrics.samsung.com^
-||nmetrics.samsung.com^
-||analytics-api.samsunghealthcn.com^
-||samsung-com.112.2o7.net^
 
-## TikTok
-||ads.tiktok.com^
+## Sentry
+||browser.sentry-cdn.com^
+||getsentry.com^
+||ingest.sentry.io^
+
+## TikTok / ByteDance
 ||ads-api.tiktok.com^
 ||ads-sg.tiktok.com^
-||analytics.tiktok.com^
+||ads.tiktok.com^
 ||analytics-sg.tiktok.com^
+||analytics.tiktok.com^
 ||business-api.tiktok.com^
+||bytepluses.com^
 ||log.byteoversea.com^
+||pangle.io^
 
-## Twitter
+## Traffic Factory
+||trafficfactory.biz^
+||trafficfactory.com^
+
+## Twitter / X
 ||ads-api.twitter.com^
 ||static.ads-twitter.com^
 
+## Unity / ironSource
+||networksdk.ssacdn.com^
+||supersonicads.com^
+||unityads.unity3d.com^
+
 ## Xiaomi
-||ad.xiaomi.com^
 ||ad.intl.xiaomi.com^
-||mistat.xiaomi.com^
+||ad.xiaomi.com^
 ||mistat.india.xiaomi.com^
 ||mistat.rus.xiaomi.com^
-||tracking.rus.miui.com^
+||mistat.xiaomi.com^
+||ot.io.mi.com^
 ||tracking.miui.com^
+||tracking.rus.miui.com^
 
-## Yahoo
+## Yahoo / Verizon Media
 ||ads.yahoo.com^
+||adtech.de^
+||adtech.yahooinc.com^
+||advertising.com^
+||analytics.query.yahoo.com^
 ||analytics.yahoo.com^
+||flurry.com^
 ||gemini.yahoo.com^
 ||geo.yahoo.com^
-||udcm.yahoo.com^
 ||log.fc.yahoo.com^
-||analytics.query.yahoo.com^
 ||partnerads.ysm.yahoo.com^
-||adtech.yahooinc.com^
+||udcm.yahoo.com^
 
 ## Yandex
 ||adfox.yandex.ru^
 ||adfstat.yandex.ru^
 ||appmetrica.yandex.ru^
-||metrika.yandex.ru^
 ||extmaps-api.yandex.net^
+||metrika.yandex.ru^
 ||offerwall.yandex.net^
 
-## Zalo
+## Zalo / VNG
+||ads.platform.zalo.me^
 ||ads.zalo.me^
 ||ads.zaloapp.com^
-||ads.platform.zalo.me^
+||adtima-media.zascdn.me^
+||adtima.vn^
+||adtimaserver.vn^
 ||log.api.zaloapp.com^
+||sdk.zadn.vn^
 ||trk-pcweb.api.zaloapp.com^
-||ztevents.zaloapp.com^
+||trk.zapps.vn^
 ||zalo-ads.zadn.vn^
+||zlog.zingmp3.vn^
+||ztevents.zaloapp.com^
 
 ## Others
+! --- .com ---
 ||2hanwriten.com^
 ||8giaitri.com^
 ||a-ads.com^
@@ -151,16 +231,13 @@
 ||adinfuse.com^
 ||adlightning.com^
 ||admanmedia.com^
-||admob.com^
 ||adnetpartner.com^
 ||adnxs.com^
 ||adrealclick.com^
 ||adroll.com^
-||ads.youtube.com^
 ||adsafeprotected.com^
 ||adservme.com^
 ||adservrs.com^
-||adskeeper.com^
 ||adsota.com^
 ||adsparc.com^
 ||adsymptotic.com^
@@ -168,40 +245,34 @@
 ||adtilt.com^
 ||adtng.com^
 ||adtrue.com^
-||advertising.com^
 ||advertnative.com^
 ||adxcontent.com^
 ||affmates.com^
 ||ampiri.com^
 ||amplitude.com^
 ||anymind360.com^
-||app-measurement.com^
+||app.posthog.com^
 ||appads.com^
 ||applift.com^
-||applovin.com^
-||applvn.com^
 ||aqua-adserver.com^
 ||assemblyexchange.com^
 ||bcloudhost.com^
 ||bebi.com^
 ||bidgear.com^
-||bidsxchange.com^
-||bidsxplayer.com^
 ||bidvertiser.com^
 ||blueadss.com^
 ||bluekai.com^
 ||bpmvkvb.com^
 ||braze.com^
-||browser.sentry-cdn.com^
 ||btloader.com^
 ||bugsnag.com^
 ||bvtpk.com^
-||bytepluses.com^
 ||c-api-bit.shopeemobile.com^
 ||calumetburka.com^
 ||carbonads.com^
 ||casalemedia.com^
 ||ccg90.com^
+||cdn.speedcurve.com^
 ||celtra.com^
 ||chartboost.com^
 ||chilihandshakewing.com^
@@ -213,10 +284,8 @@
 ||contineljs.com^
 ||coosync.com^
 ||cpmstar.com^
-||crashlytics.com^
 ||criteo.com^
 ||crowbarrinds.com^
-||crownpeak.com^
 ||crrepo.com^
 ||customers.fptad.com^
 ||da-ads.com^
@@ -224,84 +293,64 @@
 ||deltago.com^
 ||deqik.com^
 ||dfnb-ads.com^
-||dmca.com^
 ||donglogs.com^
 ||doubleverify.com^
 ||dtadnetwork.com^
 ||ebetoni.com^
-||evidon.com^
 ||exosrv.com^
 ||fastly-insights.com^
-||flurry.com^
 ||freshmarketer.com^
 ||fullstory.com^
 ||g2crowd.com^
 ||galas3xy.com^
 ||gammaplatform.com^
-||genieessp.com^
 ||geniusdexchange.com^
-||getsentry.com^
 ||gigaonclick.com^
 ||gigglegrowlworrisome.com^
-||gladly.com^
-||greystripe.com^
-||gvt2.com^
 ||hasoswoh.com^
 ||hotjar.com^
-||hs-banner.com^
-||hs-scripts.com^
 ||hsrvt.com^
+||i.posthog.com^
 ||imad24.com^
+||images.dmca.com^
 ||in-page-push.com^
 ||infolinks.com^
 ||inmobi.com^
 ||jsrdn.com^
 ||juicyads.com^
-||jumptap.com^
-||justanswer.com^
 ||jwpltx.com^
 ||kaprila.com^
 ||kernh41.com^
 ||kochava.com^
 ||log.baomoi.com^
 ||logs.netflix.com^
+||lux.speedcurve.com^
 ||marzaent.com^
 ||mepuzz.com^
-||mgid.com^
 ||mixpanel.com^
 ||moatads.com^
-||mopub.com^
 ||mouseflow.com^
 ||mplmncb.com^
-||networksdk.ssacdn.com^
-||nexage.com^
 ||nitropay.com^
 ||npttech.com^
 ||onclickmega.com^
 ||onesignal.com^
-||onetrust.com^
-||opencoccoc.com^
 ||opensend.com^
 ||opoxv.com^
 ||opus-static.com^
 ||orbsrv.com^
-||ot.io.mi.com^
 ||outbrain.com^
 ||pemsrv.com^
 ||pipezero.com^
 ||pocvip.com^
 ||popmyads.com^
 ||populartooth.com^
-||posthog.com^
 ||proadscdn.com^
 ||pubmatic.com^
 ||pubtrky.com^
 ||push-sdk.com^
 ||pushtimize.com^
 ||q00gle.com^
-||qc.coccoc.com^
-||quantcount.com^
-||quantserve.com^
 ||rayjump.com^
 ||realsrv.com^
 ||record.revenuenetwork.com^
@@ -324,37 +373,30 @@
 ||signifyd.com^
 ||smartadserver.com^
 ||sourcetobin.com^
-||speedcurve.com^
 ||ss-platform.com^
 ||startappservice.com^
-||static.cloudflareinsights.com^
 ||steepto.com^
-||supersonicads.com^
 ||taboola.com^
 ||tapjoyads.com^
 ||thstvv.com^
 ||tinypass.com^
 ||trackpush.com^
-||trafficfactory.com^
 ||tribalfusion.com^
 ||trunkpkg.com^
 ||tsyndicate.com^
 ||ufpcdn.com^
-||unityads.unity3d.com^
 ||unrulymedia.com^
 ||unseenreport.com^
 ||userreport.com^
 ||usrpubtrk.com^
 ||v9banners.com^
 ||velocecdn.com^
-||velti.com^
 ||veryn1ce.com^
 ||vidoomy.com^
 ||vlitag.com^
 ||vsmvideo.com^
 ||vungle.com^
 ||wataads.com^
-||wufoo.com^
 ||xkucamlcuaqk.com^
 ||yeah1publishing.com^
 ||yonmewon.com^
@@ -365,7 +407,7 @@
 ||ziffstatic.com^
 ||zintrack.com^
 
-||2mdn.net^
+! --- .net ---
 ||ad-delivery.net^
 ||ad.daum.net^
 ||adform.net^
@@ -373,17 +415,12 @@
 ||adsplay.net^
 ||appier.net^
 ||bidswitch.net^
-||cachefly.net^
 ||cheap-ads.net^
-||cliphub.net^
 ||content-ad.net^
-||doubleclick.net^
 ||fly-ads.net^
-||hubspotusercontent-na1.net^
 ||iads.staticscdn.net^
 ||kidoz.net^
 ||lavanetwork.net^
-||live-video.net^
 ||media.net^
 ||mnet-ad.net^
 ||native-ad.net^
@@ -396,12 +433,12 @@
 ||sootoarathus.net^
 ||statsy.net^
 ||trafficjunky.net^
-||typekit.net^
 ||uidsync.net^
 ||yoads.net^
 ||yougetwhatyoupayfor.net^
 ||zdbb.net^
 
+! --- .vn ---
 ||aanetwork.vn^
 ||ad.org.vn^
 ||adflex.vn^
@@ -411,8 +448,6 @@
 ||adnexus.vn^
 ||adpia.vn^
 ||adsplus.vn^
-||adtima.vn^
-||adtimaserver.vn^
 ||adx.vn^
 ||aiservice.vn^
 ||akadigital.vn^
@@ -433,40 +468,31 @@
 ||piads.vn^
 ||pinetech.vn^
 ||pushdy.vn^
-||qccoccocmedia.vn^
 ||realclick.vn^
 ||sapoapps.vn^
-||sdk.zadn.vn^
 ||slimads.vn^
 ||trackity.tiki.vn^
-||trk.zapps.vn^
 ||uniad.vn^
 ||vads.vn^
 ||vietad.vn^
 ||vietnamnetad.vn^
 ||vnay.vn^
 ||yomedia.vn^
-||zlog.zingmp3.vn^
 
+! --- .rest ---
 ||adbro.me^
 ||adlane.info^
 ||adlive.io^
 ||adop.asia^
 ||ads.shorte.st^
 ||adsco.re^
-||adskeeper.co.uk^
 ||adsrvr.org^
 ||adtarget.com.tr^
-||adtech.de^
-||adtima-media.zascdn.me^
-||adtrafficquality.google^
 ||aiactiv.io^
 ||aj1559.online^
-||ampproject.org^
 ||amung.us^
 ||atentherel.org^
 ||autoads.asia^
-||bbb.org^
 ||bepolite.eu^
 ||blueseed.tv^
 ||branch.io^
@@ -474,37 +500,28 @@
 ||brightdata.de^
 ||cdp.asia^
 ||clean.gg^
-||cliphub.io^
-||cookielaw.org^
 ||dable.io^
 ||finallygotthexds.site^
 ||flygame.io^
 ||g--o.info^
-||geniee.jp^
-||genieesspv.jp^
 ||iads.vision^
-||ibb.co^
 ||impact-ad.jp^
 ||jads.co^
-||likr.com.tw^
-||likr.tw^
 ||mclick.mobi^
 ||mediad.asia^
 ||mxhnkn.pro^
 ||mycdn.co^
 ||optad360.io^
 ||padition.online^
-||pangle.io^
 ||piano.io^
 ||playstream.media^
 ||pogothere.xyz^
 ||primis.tech^
 ||pubpowerplatform.io^
-||sentry.io^
 ||tjme.io^
 ||tpmedia.online^
 ||traffic-media.co.uk^
-||trafficfactory.biz^
 ||tru.am^
 ||ttpsdk.info^
 ||wknd.ai^
+
